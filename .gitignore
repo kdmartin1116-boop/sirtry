@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+.venv/
+venv/
+# Flask instance folder
+instance/
+# Environment variables
+.env
+.flaskenv
+# Uploaded files
+uploads/
+# Logs
+*.log
+# IDE-specific files (example for VS Code)
+.vscode/
+
+# Node
+node_modules/
+
+# Vite
+static/dist/
+
+# Large files
+archive/VB-main.zip

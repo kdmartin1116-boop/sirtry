@@ -1,0 +1,145 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Section IX" />
+Section IX | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Article I. Legislative Branch
+Section IX
+prev | next
+Section 9 Powers Denied Congress
+Clause 1 Migration or Importation
+The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
+Restrictions on the Slave Trade
+Clause 2 Habeas Corpus
+The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
+Suspension Clause and Writ of Habeas Corpus
+Clause 3 Nullification
+No Bill of Attainder or ex post facto Law shall be passed.
+Historical Background on Bills of Attainder
+Bills of Attainder Doctrine
+Ex Post Facto Laws
+Overview of Ex Post Facto Laws
+Historical Background on Ex Post Facto Laws
+Retroactivity of Ex Post Facto Laws
+Ex Post Facto Law Prohibition Limited to Penal Laws
+Increasing Punishment and Ex Post Facto Laws
+Imposing Criminal Liability and Ex Post Facto Laws
+Civil Commitment, Sex Offender Registration, and Ex Post Facto Laws
+Procedural Changes and Ex Post Facto Laws
+Employment Qualifications and Ex Post Facto Laws
+Retroactive Taxes and Ex Post Facto Laws
+Ex Post Facto Prohibition and Judicial Decisions
+Ex Post Facto Laws, Deportation, and Related Issues
+Clause 4 Direct Taxes
+No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken.
+Overview of Direct Taxes
+Historical Background on Direct Taxes
+Early Jurisprudence on Direct Taxes
+Direct Taxes and the Sixteenth Amendment
+Clause 5 Exports
+No Tax or Duty shall be laid on Articles exported from any State.
+Export Clause and Taxes
+Clause 6 Ports
+No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.
+No-Preference Clause for Ports
+Clause 7 Appropriations
+No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
+Overview of Appropriations Clause
+Historical Background on Appropriations Clause
+Appropriations Clause Generally
+Clause 8 Titles of Nobility and Foreign Emoluments
+No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.
+Overview of Titles of Nobility and Foreign Emoluments Clauses
+Historical Background on Foreign Emoluments Clause
+Foreign Emoluments Clause Generally
+Titles of Nobility and the Constitution
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

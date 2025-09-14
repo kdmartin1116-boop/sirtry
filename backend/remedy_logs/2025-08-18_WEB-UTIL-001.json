@@ -1,0 +1,23 @@
+{
+    "instrument_id": "WEB-UTIL-001",
+    "issuer": "Alabama Power",
+    "recipient": "Michaela Martin",
+    "amount": 142.87,
+    "currency": "USD",
+    "description": "Electric service for July 2025",
+    "endorsements": [
+        {
+            "endorser_name": "Michaela Martin",
+            "text": "Accepted for Value and Returned for Value",
+            "next_payee": "GFL Environmental Services",
+            "prev_hash": "N/A",
+            "signature": "SIMULATED_SIGNATURE_1234567890"
+        }
+    ],
+    "signature_block": {
+        "signed_by": "Michaela Martin",
+        "capacity": "Authorized Representative of Michaela Martin",
+        "signature": "SIMULATED_DIGITAL_SIGNATURE_ABC123",
+        "date": "2025-08-18"
+    }
+}

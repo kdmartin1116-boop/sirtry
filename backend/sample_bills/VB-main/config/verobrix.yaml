@@ -1,0 +1,105 @@
+# VeroBrix Configuration File
+# This file contains all configurable settings for the VeroBrix system
+
+# Analysis Configuration
+analysis:
+  max_document_size: "10MB"
+  timeout_seconds: 300
+  enable_ml_features: false
+  enable_advanced_nlp: true
+  confidence_threshold: 0.7
+  max_clauses_per_document: 1000
+
+# Database Configuration
+database:
+  type: "sqlite"
+  path: "data/verobrix.db"
+  enable_full_text_search: true
+  backup_enabled: true
+  backup_interval_hours: 24
+  max_backup_files: 7
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  file: "logs/verobrix.log"
+  max_size: "100MB"
+  backup_count: 5
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  console_output: true
+  file_output: true
+
+# Template Configuration
+templates:
+  directory: "templates/"
+  auto_reload: true
+  strict_mode: false
+  default_encoding: "utf-8"
+
+# NLP Configuration
+nlp:
+  spacy_model: "en_core_web_sm"
+  enable_entity_extraction: true
+  enable_sentiment_analysis: true
+  enable_contradiction_detection: true
+  custom_legal_entities: true
+
+# Legal Analysis Configuration
+legal:
+  jurisdiction_detection: true
+  risk_assessment_enabled: true
+  contradiction_threshold: 0.8
+  legal_framework_analysis: true
+  case_law_integration: false  # Future feature
+
+# Document Generation Configuration
+document_generation:
+  output_directory: "output/"
+  default_format: "txt"
+  include_metadata: true
+  auto_save: true
+  template_validation: true
+
+# Security Configuration
+security:
+  encrypt_sensitive_data: false  # Future feature
+  audit_trail_enabled: true
+  session_timeout_minutes: 60
+  max_concurrent_sessions: 10
+
+# Performance Configuration
+performance:
+  enable_caching: true
+  cache_size_mb: 100
+  parallel_processing: false  # Future feature
+  max_worker_threads: 4
+
+# User Interface Configuration
+ui:
+  banner_enabled: true
+  color_output: true
+  progress_indicators: true
+  verbose_mode: false
+  interactive_confirmations: true
+
+# API Configuration (Future feature)
+api:
+  enabled: false
+  host: "localhost"
+  port: 8000
+  authentication_required: true
+  rate_limiting: true
+  max_requests_per_minute: 100
+
+# Integration Configuration
+integrations:
+  legal_databases: []  # Future feature
+  external_apis: []    # Future feature
+  webhook_endpoints: [] # Future feature
+
+# Development Configuration
+development:
+  debug_mode: false
+  test_mode: false
+  mock_external_services: false
+  profiling_enabled: false

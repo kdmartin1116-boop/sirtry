@@ -1,0 +1,526 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Article I. Legislative Branch | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Article I. Legislative Branch
+Article I  Legislative Branch
+Overview of Article I, Legislative Branch
+Section 1 Legislative Vesting Clause
+Overview of Legislative Vesting Clause
+Historical Background
+Origin of Limits on Federal Power
+Origin of a Bicameral Congress
+The Great Compromise of the Constitutional Convention
+Legislative Power and the Executive and Judicial Branches
+Legislative Power in the Constitutional Framework
+Separation of Powers and Checks and Balances
+Functional and Formalist Approaches to Separation of Powers
+Enumerated, Implied, Resulting, and Inherent Powers
+Bicameralism
+Delegations of Legislative Power
+Overview of Delegations of Legislative Power
+Historical Background on Delegating Legislative Power
+Delegating Legislative Power to Fill Up the Details
+Contingent Delegations and Nondelegation Doctrine
+Nondelegation Doctrine
+Overview of Nondelegation Doctrine
+Historical Background on Nondelegation Doctrine
+Origin of Intelligible Principle Standard
+Nature and Scope of Intelligible Principle Doctrine
+Agency Discretion, Chevron Deference, and Loper Bright Enterprises v. Raimondo
+Major Questions Doctrine and Canons of Statutory Construction
+Categories of Legislative Power Delegations
+Criminal Statutes and Nondelegation Doctrine
+Delegations of Foreign and Military Affairs to the President
+States and Legislative Power Delegations
+Quasi-Governmental Entities and Legislative Power Delegations
+Private Entities and Legislative Power Delegations
+Taxes and Delegations of Legislative Power Delegations
+Individual Liberties and Delegations of Legislative Power
+Section 2 House of Representatives
+Clause 1 Composition
+Congressional Districting
+Voter Qualifications for House of Representatives Elections
+Clause 2 Qualifications
+Overview of House Qualifications Clause
+Ability of Congress to Change Qualifications for Members
+Ability of States to Add Qualifications for Members
+Clause 3 Seats
+Enumeration Clause and Apportioning Seats in the House of Representatives
+Clause 4 Vacancies
+House Vacancies Clause
+Clause 5 Impeachment
+Overview of Impeachment
+Historical Background on Impeachment
+Impeachment Doctrine
+Alternatives to Impeachment
+Section 3 Senate
+Clause 1 Composition
+Equal Representation of States in the Senate
+Historical Background on State Voting Rights in Congress
+Selection of Senators by State Legislatures
+Six-Year Senate Terms
+Clause 2 Seats
+Staggered Senate Elections
+Senate Vacancies Clause
+Clause 3 Qualifications
+Overview of Senate Qualifications Clause
+When Senate Qualifications Requirements Must Be Met
+Congress's Ability to Change Qualifications Requirements for Senate
+States' Ability to Change Qualifications Requirements for Senate
+Clause 4 President
+President of the Senate
+Clause 5 Officers
+Senate Officers
+Clause 6 Impeachment Trials
+Overview of Impeachment Trials
+Historical Background on Impeachment Trials
+Impeachment Trial Practices
+Oath or Affirmation Requirement in Impeachment Trials
+Impeaching the President
+Clause 7 Impeachment Judgments
+Overview of Impeachment Judgments
+Doctrine on Impeachment Judgments
+Section 4 Congress
+Clause 1 Elections Clause
+Historical Background on Elections Clause
+States and Elections Clause
+Congress and Elections Clause
+Clause 2 Assembly
+When Congress Shall Assemble
+Section 5 Proceedings
+Clause 1 Authority
+Congressional Authority over Elections, Returns, and Qualifications
+Quorums in Congress
+Clause 2 Rules
+Congressional Proceedings and the Rulemaking Clause
+Punishments and Expulsions from Congress
+Overview of Expulsion Clause
+Historical Background on Expulsion Clause
+Judicial Interpretations of Expulsion Clause
+Misconduct That Occurred in Office
+Misconduct Occurring Prior to Election or Reelection
+House of Representatives Treatment of Prior Misconduct
+Senate Treatment of Prior Misconduct
+Clause 3 Records
+Requirement that Congress Keep a Journal
+Clause 4 Sessions
+Adjournment of Congress
+Section 6 Rights and Disabilities
+Clause 1 Pay, Privileges, and Immunities
+Compensation of Members of Congress
+Privilege from Arrest
+Speech or Debate
+Overview of Speech or Debate Clause
+Historical Background on Speech or Debate Clause
+Activities to Which Speech or Debate Clause Applies
+Distraction Rationale and Speech or Debate Clause
+Communications Outside the Legislative Process
+Subpoena Power and Congress
+Persons Who Can Claim the Speech or Debate Privilege
+Clause 2 Bar on Holding Federal Office
+Overview of Federal Office Prohibition
+Ineligibility Clause (Emoluments or Sinecure Clause) and Congress
+Incompatibility Clause and Congress
+Section 7 Legislation
+Clause 1 Revenue
+Origination Clause and Revenue Bills
+Clause 2 Role of President
+Overview of Presidential Approval or Veto of Bills
+Veto Power
+Line Item Veto
+Legislative Veto
+Clause 3 Process
+Presentation of Senate or House Resolutions
+Section 8 Enumerated Powers
+Overview of Congress's Enumerated Powers
+Clause 1 General Welfare
+Taxing Power
+Overview of Taxing Clause
+Historical Background on Taxing Power
+Uniformity Clause and Indirect Taxes
+Taxes to Regulate Conduct
+Intergovernmental Tax Immunity Doctrine
+Spending Power
+Overview of Spending Clause
+Historical Background on Spending Clause
+Early Spending Clause Jurisprudence
+Modern Spending Clause Jurisprudence Generally
+Clear Notice Requirement and Spending Clause
+Anti-Coercion Requirement and Spending Clause
+General Welfare, Relatedness, and Independent Constitutional Bars
+Clause 2 Borrowing
+Borrowing Power of Congress
+Clause 3 Commerce
+Overview of Commerce Clause
+Meaning of Commerce
+Meaning of Among the Several States in the Commerce Clause
+Meaning of Regulate in the Commerce Clause
+Historical Background
+Sherman Antitrust Act of 1890 and Sugar Trust Case
+Current of Commerce Concept and 1905 Swift Case
+Packers and Stockyards Act of 1921 and Grain Futures Act of 1922
+New Deal Legislation Generally
+National Industrial Recovery and Agricultural Adjustment Acts of 1933
+Railroad Retirement and Securities Exchange Acts of 1934
+Public Utility Holding Company and Bituminous Coal Conservation Acts of 1935
+National Labor Relations Act of 1935
+Agricultural Marketing Agreement Act of 1937
+Fair Labor Standards Act of 1938
+Dual Federalism and Commerce Clause
+Modern Doctrine
+United States v. Lopez and Interstate Commerce Clause
+Channels of Interstate Commerce
+Persons or Things in and Instrumentalities of Interstate Commerce
+Intrastate Activities Having a Substantial Relation to Interstate Commerce
+Limits on Federal Regulation of Intrastate Activity
+Regulation of Activity Versus Inactivity
+Regulation of Interstate Commerce to Achieve Policy Goals
+Civil Rights and Commerce Clause
+Criminal Law and Commerce Clause
+Dormant Commerce Clause
+Overview of Dormant Commerce Clause
+Historical Background on Dormant Commerce Clause
+Early Dormant Commerce Clause Jurisprudence
+Modern Dormant Commerce Clause Jurisprudence Generally
+General Prohibition on Facial Discrimination
+State Proprietary Activity (Market Participant) Exception
+Congressional Authorization of Otherwise Impermissible State Action
+Facially Neutral Laws and Dormant Commerce Clause
+Local Laws and Traditional Government Functions
+Foreign Commerce and State Powers
+State Taxation
+Overview of State Taxation and Dormant Commerce Clause
+Early Dormant Commerce Clause Jurisprudence and State Taxation
+Modern Dormant Commerce Clause Jurisprudence and State Taxation
+Nexus Prong of Complete Auto Test for Taxes on Interstate Commerce
+Apportionment Prong of Complete Auto Test for Taxes on Interstate Commerce
+Discrimination Prong of Complete Auto Test for Taxes on Interstate Commerce
+Benefit Prong of Complete Auto Test for Taxes on Interstate Commerce
+Foreign
+Overview of Foreign Commerce Clause
+Instruments of Commerce
+Indian Tribes
+Scope of Commerce Clause Authority and Indian Tribes
+Restrictions on State Powers, Indian Tribes, and Commerce Clause
+Clause 4 Uniform Laws
+Naturalization
+Overview of Naturalization Clause
+Post-1900 Naturalization Doctrine Generally
+Historical Background
+British and American Colonial Naturalization
+Constitutional Convention and Naturalization
+Early U.S. Naturalization Laws
+Naturalization as an Exclusive Power of Congress
+Collective Naturalization (1800–1900)
+Children
+Citizenship and Children Born Abroad
+Naturalization and Rogers v. Bellei
+Naturalization and Sessions v. Morales-Santana
+Denaturalization
+Denaturalization (Revoking Citizenship) Generally
+Early Denaturalization Jurisprudence
+Limits to Congress's Denaturalization Power
+Unlawful Procurement of Citizenship
+Concealing Material Facts When Procuring Citizenship
+Expatriation
+Expatriation (Termination of Citizenship) Generally
+Development of Expatriation Doctrine
+Expatriation Legislation
+Judicial Recognition of Congress's Expatriation Power
+Judicial Limits on Congress's Expatriation Power
+Bankruptcy
+Overview of Bankruptcy Clause
+Historical Background on Bankruptcy Clause
+Scope of Federal Bankruptcy Clause
+Expansion of the Scope of Bankruptcy Power
+Constitutional Limits on Bankruptcy Power
+Restrictions on State Bankruptcy Power
+Clause 5 Standards
+Congress's Coinage Power
+Clause 6 Counterfeiters
+Congress's Power to Punish Counterfeiting
+Clause 7 Post Offices
+Historical Background on Postal Power
+Power to Protect the Mails
+Power to Prevent Harmful Use of Postal Facilities
+Exclusive Power Over Post Offices as an Adjunct to Other Powers
+Restrictions on State Power Over Post Offices
+Clause 8 Intellectual Property
+Overview of Congress's Power Over Intellectual Property
+Federal Power Over Trademarks
+State Regulation of Intellectual Property
+Historical Background
+English Origins of Intellectual Property Law
+Framing and Ratification of Intellectual Property Clause
+Copyrights
+Authorship, Writings, and Originality
+Limited Times for Copyrights and the Progress of Science
+Copyright and the First Amendment
+Patents
+Inventorship and Utility
+Patent-Eligible Subject Matter
+Constitutional Constraints on Congress's Power Over Granted Patents
+Clause 9 Courts
+Inferior Federal Courts
+Clause 10 Maritime Crimes
+Historical Background on Maritime Crimes
+Definition of Maritime Crimes and Offenses
+Extraterritorial Reach
+Clause 11 War Powers
+Congressional War Powers
+Overview of Congressional War Powers
+Breadth of Congressional War Powers
+Declare War Clause
+Overview of Declare War Clause
+Declarations of War vs. Authorizations for Use of Military Force (AUMF)
+Legislative and Executive Branch Views on the Declare War Clause
+Enemy Property and Congress's War Powers
+Prizes of War and Congress's War Powers
+Historical Background
+War Powers Before the Constitution
+Early Debates on War Powers in the Constitutional Convention
+Make War and Declare War at the Constitutional Convention
+Constitutional Convention Debates on the Power to End Wars
+Declare War Clause and State Ratification Debates on the Constitution
+Supreme Court Jurisprudence and Interbranch Practice
+Overview of Supreme Court Jurisprudence and War Powers
+Quasi War with France from 1798–1800 and War Powers
+War of 1812, Mexican War, and War Powers
+Civil War, War Powers, and The Prize Cases
+Civil War, and Executive and Legislative Powers
+From the Spanish American War to World War I and Total War
+World War II and the Use of War Powers
+Cold War Military Action, NATO, and the United Nations
+International Police Action and the Korean War
+Presidential and Congressional Power in the Vietnam War
+Post-Cold War Presidential Authority and Persian Gulf War of 1991
+September 11, 2001 Terrorist Attacks and War Powers
+Presidential Power in 2003 Iraq War and Other 21st-Century Operations
+Clause 12 Army
+Historical Background on Congress's Authority to Raise and Support Armies
+Time Limits on Appropriations for Army
+Conscription
+Clause 13 Navy
+Congress's Naval Powers
+Clause 14 Land and Naval Forces Rules
+Care of Armed Forces
+Trial and Punishment of Servicemen (Courts-Martial)
+Trial and Punishment of Civilians and Dependents (Courts-Martial)
+Clause 15 Calling Militias
+Congress's Power to Call Militias
+Clause 16 Organizing Militias
+Congress's Power to Organize Militias
+Clause 17 Enclave Clause
+The Capitol
+Historical Background on Seat of Government Clause
+Seat of Government Doctrine
+Places Purchased
+Overview of Places Purchased Clause
+Federal Jurisdiction Over Places Purchased
+State Jurisdiction Over Places Purchased
+Clause 18 Necessary and Proper Clause
+Overview of Necessary and Proper Clause
+Historical Background on Necessary and Proper Clause
+Necessary and Proper Clause Early Doctrine and McCulloch v. Maryland
+Nineteenth Century Evolution of Necessary and Proper Clause Jurisprudence
+Modern Necessary and Proper Clause Doctrine
+Meaning of Proper
+Investigations and Oversight
+Overview of Congress's Investigation and Oversight Powers
+Historical Background on Congress's Investigation and Oversight Powers
+Congress's Investigation and Oversight Powers (1787–1864)
+Congress's Investigation and Oversight Powers (1865–1940)
+Congress's Investigation and Oversight Powers (1940–1970)
+Rules-Based Limits of Congress's Investigation and Oversight Powers
+Constitutional Limits of Congress's Investigation and Oversight Powers
+Watergate, Church, and Pike Investigations of Congress
+Congress's Investigatory Powers Generally
+Congress's Investigatory Powers and the President
+Immigration
+Overview of Congress's Immigration Powers
+English Common Law on Immigration
+Colonial Period, Constitutional Convention, and Immigration
+Early Federal Laws on Immigration
+Immigration Jurisprudence (1837–1889)
+Immigration Jurisprudence (1889–1900)
+Plenary Power
+Overview of Immigration Plenary Power Doctrine
+Aliens in the United States
+Aliens Seeking to Enter the United States
+Modern Era
+Overview of Modern Immigration Jurisprudence
+Exclusion of Aliens
+Kerry v. Din and Trump v. Hawaii
+Federal Laws Relating to Aliens
+Immigration-Related State Laws
+Section 9 Powers Denied Congress
+Clause 1 Migration or Importation
+Restrictions on the Slave Trade
+Clause 2 Habeas Corpus
+Suspension Clause and Writ of Habeas Corpus
+Clause 3 Nullification
+Historical Background on Bills of Attainder
+Bills of Attainder Doctrine
+Ex Post Facto Laws
+Overview of Ex Post Facto Laws
+Historical Background on Ex Post Facto Laws
+Retroactivity of Ex Post Facto Laws
+Ex Post Facto Law Prohibition Limited to Penal Laws
+Increasing Punishment and Ex Post Facto Laws
+Imposing Criminal Liability and Ex Post Facto Laws
+Civil Commitment, Sex Offender Registration, and Ex Post Facto Laws
+Procedural Changes and Ex Post Facto Laws
+Employment Qualifications and Ex Post Facto Laws
+Retroactive Taxes and Ex Post Facto Laws
+Ex Post Facto Prohibition and Judicial Decisions
+Ex Post Facto Laws, Deportation, and Related Issues
+Clause 4 Direct Taxes
+Overview of Direct Taxes
+Historical Background on Direct Taxes
+Early Jurisprudence on Direct Taxes
+Direct Taxes and the Sixteenth Amendment
+Clause 5 Exports
+Export Clause and Taxes
+Clause 6 Ports
+No-Preference Clause for Ports
+Clause 7 Appropriations
+Overview of Appropriations Clause
+Historical Background on Appropriations Clause
+Appropriations Clause Generally
+Clause 8 Titles of Nobility and Foreign Emoluments
+Overview of Titles of Nobility and Foreign Emoluments Clauses
+Historical Background on Foreign Emoluments Clause
+Foreign Emoluments Clause Generally
+Titles of Nobility and the Constitution
+Section 10 Powers Denied States
+Clause 1 Proscribed Powers
+Foreign Policy by States
+Coining Money by States
+Legal Tender Issued by States
+State Bills of Attainder
+State Ex Post Facto Laws
+Contracts
+Overview of Contract Clause
+Historical Background on Contract Clause
+Evolution of Contract Clause's Use
+State Contracts
+Early Cases on State Modifications to State Contracts
+State Sovereign Powers and Contracts
+Modern Doctrine on State Changes to State Contracts
+Private Contracts
+Early Cases on State Changes to Private Contracts
+Blaisdell Case and State Modifications to Private Contracts
+State Laws Creating New Contractual Obligations
+Public Interest and State Modifications to Private Contracts
+Clause 2 Import-Export
+Overview of Import-Export Clause
+Historical Background on Import-Export Clause
+Import-Export Clause Generally
+Whether a Good Qualifies as an Import or Export
+Whether a Charge Qualifies as an Impost or Duty
+State Inspection Charges
+Clause 3 Acts Requiring Consent of Congress
+States and Military Affairs
+Duties of Tonnage
+Overview of Duties of Tonnage
+Historical Background on Duties of Tonnage
+Determining Whether a Measure Qualifies as a Duty of Tonnage
+Personal Property Taxes and Duties of Tonnage
+Compact Clause
+Overview of Compact Clause
+Historical Background on Compact Clause
+Subject Matter of Compacts
+Congressional Consent to Compacts
+Requirement of Congressional Consent to Compacts
+Legal Effect and Interpretation of Compacts
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

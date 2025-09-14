@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1734385-15"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	</script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDVVHXRDE6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+	</script>
+
+	<meta charset="utf-8" />
+	<meta name="version" content="v10.15.3" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+		type="image/vnd.microsoft.icon" />
+	<link rel="canonical" href="https://www.law.cornell.edu/uscode/text/15">
+
+	<meta property="og:site_name" content="LII / Legal Information Institute" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.law.cornell.edu/uscode/text/15" />
+	<meta property="og:title" content="U.S. Code: Title 15 — COMMERCE AND TRADE" />
+	<meta property="og:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	
+	<meta name="twitter:card" content="US Code - Title 15" />
+	<meta name="twitter:site" content="@LIICornell" />
+	<meta name="twitter:url" content="https://www.law.cornell.edu/uscode/text/15" />
+	<meta name="twitter:title" content="U.S. Code: Title 15 — COMMERCE AND TRADE" />
+	<meta name="twitter:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	<meta name="dcterms.title" content="U.S. Code: Title 15 — COMMERCE AND TRADE" />
+
+
+	<title>U.S. Code: Title 15 — COMMERCE AND TRADE | U.S. Code | US Law | LII / Legal Information Institute</title>
+	
+
+	<!-- schema.org metadata -->
+	<script type="application/ld+json">
+		{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/uscode/text", "name": "U.S. Code"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/uscode/text/15", "name": "Title 15"}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/uscode/text/15", "name": "Title 15", "author": {"@type": "Organization", "name": "Office of the Law Revision Counsel", "url": "http://uscode.house.gov/about_office.xhtml"}, "description": "US Code - Title 15", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+	</script>
+	<!-- /schema.org -->
+
+	<!-- API url -->
+	<script>
+		SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+	</script>
+
+	<script src="/js/jquery-3.6.1.min.js"></script>
+	<script src="/js/js.cookie.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/fonts/open-sans.css">
+
+	
+	<link rel="stylesheet" type="text/css" href="/staticsite_styles/lii_stylenator_v48.min.css" />
+	 
+
+	
+
+	<!-- include adcode -->
+	<script type='text/javascript'>
+		!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+	</script>
+
+	<!-- mobile: vignettes and page-level -->
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'>
+	</script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+	</script>
+
+	<!-- adsense -->
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/USC_ROC_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/USC_ROC_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/USC_ROC_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/USC_ROC_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+	</script>
+	<!-- /adsense -->
+	<!-- /include adcode -->
+
+	
+	<script src="https://justatic.com/v/20160725b/shared/js/widgets/find-a-lawyer.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	
+
+	
+<div id="liisurveymodal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="liisurveymodal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+                <div class="modal-title-box">Please help us improve our site!</div>	
+            <div class="modal-header">
+                <button type="button" class="close" onclick="snooze_survey()" data-dismiss="modal">&times;</button>
+            </div>			
+            <div class="modal-body">	  
+                <iframe title="Survey Frame" class="survey-content" id="iframeHolder"></iframe>
+            </div>		
+            <div class="modal-footer">
+                <a href="#" class="btn btn-primary" class="close" data-dismiss="modal" onclick="snooze_survey()">No thank you</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<header id="conannav" class="navbar navbar-fixed-top active">
+		<a href="#content" class="skip">Skip to main content</a>
+
+		<div id="cu-identity">
+			<div class="container-fluid">
+				<a href="https://www.cornell.edu" id="insignialink" title="Cornell University">
+					<img class="img-responsive"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+						alt="Cornell University insignia" />
+				</a>
+				<a href="https://www.lawschool.cornell.edu/" id="clslink" title="Cornell Law School">Cornell Law
+					School</a>
+				<a href="https://www.cornell.edu/search/" id="cusearch" title="Search Cornell University">Search
+					Cornell</a>
+			</div>
+		</div>
+
+		<div id="lii-identity" class="col-12 identity-header">
+			<div id="liiheader" class="container-fluid">
+				<nav id="liiallnav" class="navbar" aria-label="Main">
+					<div id="liibanner" class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+							href="#liinav">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<div id="liilogodiv">
+							<a id="liilogo" class="navbar-brand" href="/" aria-label="lii logo"></a>
+						</div>
+						<div class="navbar-right" id="liinavbarstuff">
+							
+							<button id="survey" class="btn btn-primary icon-pencil icon-white"
+								style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+								us improve our site!</button>
+
+							<div id="liidonatewrap">
+								<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+									aria-label="Donate to LII">
+									<span class="glyphicon glyphicon-gift"></span>
+									<span class="gltxt">Support Us!</span>
+								</a>
+							</div>
+
+							<div id="liisearchlinkwrap">
+								<a id="liisearchlink" href="#" class="navbar-link cured" aria-label="Search LII">
+									<span class="glyphicon glyphicon-search"></span>
+									<span class="gltxt">Search</span>
+								</a>
+							</div>
+
+							<div id="liisearch" href="#">
+								<div class="input-group" id="adv-search" role="search">
+									<input label="Enter the terms you wish to search for." placeholder="Search"
+										class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+										list="autocomplete_list" aria-label="Enter search terms text box">
+									<datalist id="autocomplete_list">
+									</datalist>
+									<div class="input-group-btn">
+										<div class="btn-group" role="group" aria-label="Filter and search buttons">
+											<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+												aria-label="Find now"><span class="glyphicon glyphicon-search"
+													aria-hidden="true" role="button"></span></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="liinav" class="collapse navbar-collapse">
+							<ul id="liiheadernav" class="nav navbar-nav" role="menubar" aria-hidden="false">
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">About
+										LII</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/lii/about/who_we_are">Who We Are</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/what_we_do">What We Do</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/who_pays_for_this">Who Pays For This</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/contact_us">Contact Us</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Get the
+										law</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a title="U.S. Constitution" href="/constitution">Constitution</a>
+										</li>
+										<li role="menuitem">
+											<a title="Supreme Court" href="/supremecourt/text/home">Supreme Court</a>
+										</li>
+										<li role="menuitem">
+											<a title="U.S. Code" href="/uscode/text">U.S. Code</a>
+										</li>
+										<li role="menuitem">
+											<a title="C.F.R." href="/cfr/text">CFR</a>
+										</li>
+										<li role="menuitem" aria-haspopup="true"
+											class="menu-item dropdown dropdown-submenu">
+											<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Federal Rules</a>
+											<ul role="menu" aria-hidden="true" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/rules/frap">Federal Rules of Appellate Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcp">Federal Rules of Civil Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcrmp">Federal Rules of Criminal Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/fre">Federal Rules of Evidence</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frbp">Federal Rules of Bankruptcy Procedure</a>
+												</li>
+											</ul>
+										</li>
+										<li role="menuitem">
+											<a title="U.C.C." href="/ucc">U.C.C.</a>
+										</li>
+										<li aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+											<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Law by jurisdiction</a>
+											<ul role="menu" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/states">State law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/uniform">Uniform laws</a>
+												</li>
+												<li role="menuitem">
+													<a href="/federal">Federal law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/world">World law</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem">
+									<a href="https://lawyers.law.cornell.edu/">Lawyer directory</a>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Legal encyclopedia</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/wex/category/business_law">Business law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/constitutional_law">Constitutional law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/criminal_law_and_procedure">Criminal law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/family_law">Family law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/employment_law">Employment law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/money_and_financial_problems">Money and Finances</a>
+										</li>
+
+										<li role="menuitem">
+											<a href="/wex/wex_articles">More...</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Help out</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem" aria-hidden="true">
+											<a href="/donate">Give</a>
+										</li>
+										<li role="menuitem" aria-hidden="true">
+											<a href="/lii/help_out/sponsor">Sponsor</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/advertise">Advertise</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/create">Create</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/promote">Promote</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/join_directory">Join Lawyer Directory</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<ul id="liinavsoc" class="nav navbar-nav navbar-right">
+								<li>
+									
+									<div class="addthis_horizontal_follow_toolbox"></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					
+				</nav>
+			</div>
+		</div>
+		
+		
+	</header>
+	<br><br>
+	
+	<div id="breadcrumb" class="container-fluid">
+		<div class="row">
+			<div class="navbar-header">
+				<nav aria-label="breadcrumb" class="bc-icons-2">
+					<ol class="breadcrumb">
+						
+						
+						
+						<li class="breadcrumb-item"><a href="/">LII</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item" aria-label="U.S. Code table of contents"><a
+								href="/uscode/text">U.S. Code</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item breadcrumb-last">Title 15</li>
+						
+						 
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+	
+
+	<main id="main" class="container-fluid">
+		<div id="content" class="col-sm-8">
+			<div class="pagewrapper">
+				<div class="container-fluid">
+					<div class="row">
+						
+						<div title="Definitions Frame"></div>
+						
+<small id="titleHelp" class="form-text">Quick search by citation:</small>
+<form class="form-inline">
+    <div class="form-group mb-2">
+        <label for="titleinput">Title</label>
+        <input type="number" name="quicksearch" class="form-control" id="titleinput" aria-describedby="titleHelp" placeholder="enter title"
+            title="US Code Title number" type="number" value="">
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label for="sectioninput">Section</label>
+        <input type="text" name="quicksearch" class="form-control" id="sectioninput" pattern="[A-Za-z0-9]+" placeholder="section"
+            title="US Code Section number" value="">
+    </div>
+    <button id="RedirectUSC" type="submit" class="btn btn-primary">Go!</button>
+</form>
+
+						
+						
+						<h1 class="title" id="page_title"> U.S. Code: Title 15 — COMMERCE AND TRADE </h1>
+<div class="tabbable-panel">
+<div class="tabbable-line">
+<ul class="nav nav-tabs ">
+<li class="active">
+<a data-toggle="tab" href="#tab_default_1">
+                        U.S. Code </a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="prevnext">
+<a href="/uscode/text/14" title="COAST GUARD">prev</a> | <a href="/uscode/text/16" title="CONSERVATION">next</a>
+</div>
+<div class="tab-pane active" id="tab_default_1">
+<!-- 'text' content area -->
+<text><div class="text">
+<div class="title">
+</div>
+<div class="toc title">
+<ol class="list-unstyled">
+<li class="tocitem"><a aria-label="Chapter 1—Monopolies And Combinations In Restraint Of Trade (§§ 1 – 38)" href="/uscode/text/15/chapter-1" title="MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE">CHAPTER 1—MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE (§§ 1 – 38)</a></li>
+<li class="tocitem"><a aria-label="Chapter 2—Federal Trade Commission; Promotion Of Export Trade And Prevention Of Unfair Methods Of Competition (§§ 41 – 77)" href="/uscode/text/15/chapter-2" title="FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION">CHAPTER 2—FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION (§§ 41 – 77)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-2A" title="SECURITIES AND TRUST INDENTURES">CHAPTER 2A—SECURITIES AND TRUST INDENTURES (§§ 77a – 77bbbb)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-2B" title="SECURITIES EXCHANGES">CHAPTER 2B—SECURITIES EXCHANGES (§§ 78a – 78rr)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-2B-1" title="SECURITIES INVESTOR PROTECTION">CHAPTER 2B–1—SECURITIES INVESTOR PROTECTION (§§ 78aaa – 78lll)</a></li>
+<li class="tocitem"><a aria-label="Chapter 2C—Public Utility Holding Companies (§ 79)" href="/uscode/text/15/chapter-2C" title="PUBLIC UTILITY HOLDING COMPANIES">CHAPTER 2C—PUBLIC UTILITY HOLDING COMPANIES (§ 79)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-2D" title="INVESTMENT COMPANIES AND ADVISERS">CHAPTER 2D—INVESTMENT COMPANIES AND ADVISERS (§§ 80a–1 – 80b–21)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-2E" title="OMNIBUS SMALL BUSINESS CAPITAL FORMATION">CHAPTER 2E—OMNIBUS SMALL BUSINESS CAPITAL FORMATION (§§ 80c – 80c–3)</a></li>
+<li class="tocitem"><a aria-label="Chapter 3—Trade-Marks (§ 81)" href="/uscode/text/15/chapter-3" title="TRADE-MARKS">CHAPTER 3—TRADE-MARKS (§ 81)</a></li>
+<li class="tocitem"><a aria-label="Chapter 4—China Trade (§§ 141 – 162)" href="/uscode/text/15/chapter-4" title="CHINA TRADE">CHAPTER 4—CHINA TRADE (§§ 141 – 162)</a></li>
+<li class="tocitem"><a aria-label="Chapter 5—Statistical And Commercial Information (§§ 171 – 198)" href="/uscode/text/15/chapter-5" title="STATISTICAL AND COMMERCIAL INFORMATION">CHAPTER 5—STATISTICAL AND COMMERCIAL INFORMATION (§§ 171 – 198)</a></li>
+<li class="tocitem"><a aria-label="Chapter 6—Weights And Measures And Standard Time (§§ 201 – 267)" href="/uscode/text/15/chapter-6" title="WEIGHTS AND MEASURES AND STANDARD TIME">CHAPTER 6—WEIGHTS AND MEASURES AND STANDARD TIME (§§ 201 – 267)</a></li>
+<li class="tocitem"><a aria-label="Chapter 7—National Institute Of Standards And Technology (§§ 271 – 285)" href="/uscode/text/15/chapter-7" title="NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY">CHAPTER 7—NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (§§ 271 – 285)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-7A" title="STANDARD REFERENCE DATA PROGRAM">CHAPTER 7A—STANDARD REFERENCE DATA PROGRAM (§§ 290 – 290f)</a></li>
+<li class="tocitem"><a aria-label="Chapter 8—Falsely Stamped Gold Or Silver Or Goods Manufactured Therefrom (§§ 291 – 300)" href="/uscode/text/15/chapter-8" title="FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM">CHAPTER 8—FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM (§§ 291 – 300)</a></li>
+<li class="tocitem"><a aria-label="Chapter 9—National Weather Service (§§ 311 – 329)" href="/uscode/text/15/chapter-9" title="NATIONAL WEATHER SERVICE">CHAPTER 9—NATIONAL WEATHER SERVICE (§§ 311 – 329)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-9A" title="WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT">CHAPTER 9A—WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT (§§ 330 – 330e)</a></li>
+<li class="tocitem"><a aria-label="Chapter 10—War Finance Corporation (§ 331)" href="/uscode/text/15/chapter-10" title="WAR FINANCE CORPORATION">CHAPTER 10—WAR FINANCE CORPORATION (§ 331)</a></li>
+<li class="tocitem"><a aria-label="Chapter 10A—Collection Of State Cigarette Taxes (§§ 375 – 378)" href="/uscode/text/15/chapter-10A" title="COLLECTION OF STATE CIGARETTE TAXES">CHAPTER 10A—COLLECTION OF STATE CIGARETTE TAXES (§§ 375 – 378)</a></li>
+<li class="tocitem"><a aria-label="Chapter 10B—State Taxation Of Income From Interstate Commerce (§§ 381 – 391)" href="/uscode/text/15/chapter-10B" title="STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE">CHAPTER 10B—STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE (§§ 381 – 391)</a></li>
+<li class="tocitem"><a aria-label="Chapter 11—Caustic Poisons (§ 401)" href="/uscode/text/15/chapter-11" title="CAUSTIC POISONS">CHAPTER 11—CAUSTIC POISONS (§ 401)</a></li>
+<li class="tocitem"><a aria-label="Chapter 12—Discrimination Against Farmers’ Cooperative Associations By Boards Of Trade (§§ 431 – 433)" href="/uscode/text/15/chapter-12" title="DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE">CHAPTER 12—DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE (§§ 431 – 433)</a></li>
+<li class="tocitem"><a aria-label="Chapter 13—Textile Foundation (§§ 501 – 506)" href="/uscode/text/15/chapter-13" title="TEXTILE FOUNDATION">CHAPTER 13—TEXTILE FOUNDATION (§§ 501 – 506)</a></li>
+<li class="tocitem"><a aria-label="Chapter 13A—Fishing Industry (§§ 521 – 522)" href="/uscode/text/15/chapter-13A" title="FISHING INDUSTRY">CHAPTER 13A—FISHING INDUSTRY (§§ 521 – 522)</a></li>
+<li class="tocitem"><a aria-label="Chapter 14—Reconstruction Finance Corporation (§§ 601 – 617)" href="/uscode/text/15/chapter-14" title="RECONSTRUCTION FINANCE CORPORATION">CHAPTER 14—RECONSTRUCTION FINANCE CORPORATION (§§ 601 – 617)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-14A" title="AID TO SMALL BUSINESS">CHAPTER 14A—AID TO SMALL BUSINESS (§§ 631 – 657u)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-14B" title="SMALL BUSINESS INVESTMENT PROGRAM">CHAPTER 14B—SMALL BUSINESS INVESTMENT PROGRAM (§§ 661 – 697g)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-15" title="ECONOMIC RECOVERY">CHAPTER 15—ECONOMIC RECOVERY (§§ 701 – 714p)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-15A" title="INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS">CHAPTER 15A—INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS (§§ 715 – 715m)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-15B" title="NATURAL GAS">CHAPTER 15B—NATURAL GAS (§§ 717 – 717z)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-15C" title="ALASKA NATURAL GAS TRANSPORTATION">CHAPTER 15C—ALASKA NATURAL GAS TRANSPORTATION (§§ 719 – 719o)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-15D" title="ALASKA NATURAL GAS PIPELINE">CHAPTER 15D—ALASKA NATURAL GAS PIPELINE (§§ 720 – 720n)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16—Emergency Relief (§§ 721 – 724)" href="/uscode/text/15/chapter-16" title="EMERGENCY RELIEF">CHAPTER 16—EMERGENCY RELIEF (§§ 721 – 724)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16A—Emergency Petroleum Allocation (§ 751)" href="/uscode/text/15/chapter-16A" title="EMERGENCY PETROLEUM ALLOCATION">CHAPTER 16A—EMERGENCY PETROLEUM ALLOCATION (§ 751)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-16B" title="FEDERAL ENERGY ADMINISTRATION">CHAPTER 16B—FEDERAL ENERGY ADMINISTRATION (§§ 761 – 790h)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16C—Energy Supply And Environmental Coordination (§§ 791 – 798)" href="/uscode/text/15/chapter-16C" title="ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION">CHAPTER 16C—ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION (§§ 791 – 798)</a></li>
+<li class="tocitem"><a aria-label="Chapter 17—Production, Marketing, And Use Of Bituminous Coal (§§ 801 – 828)" href="/uscode/text/15/chapter-17" title="PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL">CHAPTER 17—PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL (§§ 801 – 828)</a></li>
+<li class="tocitem"><a aria-label="Chapter 18—Transportation Of Firearms (§ 901)" href="/uscode/text/15/chapter-18" title="TRANSPORTATION OF FIREARMS">CHAPTER 18—TRANSPORTATION OF FIREARMS (§ 901)</a></li>
+<li class="tocitem"><a aria-label="Chapter 19—Miscellaneous (§§ 1001 – 1007)" href="/uscode/text/15/chapter-19" title="MISCELLANEOUS">CHAPTER 19—MISCELLANEOUS (§§ 1001 – 1007)</a></li>
+<li class="tocitem"><a aria-label="Chapter 20—Regulation Of Insurance (§§ 1011 – 1015)" href="/uscode/text/15/chapter-20" title="REGULATION OF INSURANCE">CHAPTER 20—REGULATION OF INSURANCE (§§ 1011 – 1015)</a></li>
+<li class="tocitem"><a aria-label="Chapter 21—National Policy On Employment And Productivity (§§ 1021 – 1026)" href="/uscode/text/15/chapter-21" title="NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY">CHAPTER 21—NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY (§§ 1021 – 1026)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-22" title="TRADEMARKS">CHAPTER 22—TRADEMARKS (§§ 1051 – 1141n)</a></li>
+<li class="tocitem"><a aria-label="Chapter 23—Dissemination Of Technical, Scientific And Engineering Information (§§ 1151 – 1157)" href="/uscode/text/15/chapter-23" title="DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION">CHAPTER 23—DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION (§§ 1151 – 1157)</a></li>
+<li class="tocitem"><a aria-label="Chapter 24—Transportation Of Gambling Devices (§§ 1171 – 1178)" href="/uscode/text/15/chapter-24" title="TRANSPORTATION OF GAMBLING DEVICES">CHAPTER 24—TRANSPORTATION OF GAMBLING DEVICES (§§ 1171 – 1178)</a></li>
+<li class="tocitem"><a aria-label="Chapter 25—Flammable Fabrics (§§ 1191 – 1204)" href="/uscode/text/15/chapter-25" title="FLAMMABLE FABRICS">CHAPTER 25—FLAMMABLE FABRICS (§§ 1191 – 1204)</a></li>
+<li class="tocitem"><a aria-label="Chapter 26—Household Refrigerators (§§ 1211 – 1214)" href="/uscode/text/15/chapter-26" title="HOUSEHOLD REFRIGERATORS">CHAPTER 26—HOUSEHOLD REFRIGERATORS (§§ 1211 – 1214)</a></li>
+<li class="tocitem"><a aria-label="Chapter 27—Automobile Dealer Suits Against Manufacturers (§§ 1221 – 1226)" href="/uscode/text/15/chapter-27" title="AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS">CHAPTER 27—AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS (§§ 1221 – 1226)</a></li>
+<li class="tocitem"><a aria-label="Chapter 28—Disclosure Of Automobile Information (§§ 1231 – 1233)" href="/uscode/text/15/chapter-28" title="DISCLOSURE OF AUTOMOBILE INFORMATION">CHAPTER 28—DISCLOSURE OF AUTOMOBILE INFORMATION (§§ 1231 – 1233)</a></li>
+<li class="tocitem"><a aria-label="Chapter 29—Manufacture, Transportation, Or Distribution Of Switchblade Knives (§§ 1241 – 1245)" href="/uscode/text/15/chapter-29" title="MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES">CHAPTER 29—MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES (§§ 1241 – 1245)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-30" title="HAZARDOUS SUBSTANCES">CHAPTER 30—HAZARDOUS SUBSTANCES (§§ 1261 – 1278a)</a></li>
+<li class="tocitem"><a aria-label="Chapter 31—Destruction Of Property Moving In Commerce (§ 1281)" href="/uscode/text/15/chapter-31" title="DESTRUCTION OF PROPERTY MOVING IN COMMERCE">CHAPTER 31—DESTRUCTION OF PROPERTY MOVING IN COMMERCE (§ 1281)</a></li>
+<li class="tocitem"><a aria-label="Chapter 32—Telecasting Of Professional Sports Contests (§§ 1291 – 1295)" href="/uscode/text/15/chapter-32" title="TELECASTING OF PROFESSIONAL SPORTS CONTESTS">CHAPTER 32—TELECASTING OF PROFESSIONAL SPORTS CONTESTS (§§ 1291 – 1295)</a></li>
+<li class="tocitem"><a aria-label="Chapter 33—Brake Fluid Regulation (§ 1301)" href="/uscode/text/15/chapter-33" title="BRAKE FLUID REGULATION">CHAPTER 33—BRAKE FLUID REGULATION (§ 1301)</a></li>
+<li class="tocitem"><a aria-label="Chapter 34—Antitrust Civil Process (§§ 1311 – 1314)" href="/uscode/text/15/chapter-34" title="ANTITRUST CIVIL PROCESS">CHAPTER 34—ANTITRUST CIVIL PROCESS (§§ 1311 – 1314)</a></li>
+<li class="tocitem"><a aria-label="Chapter 35—Seat Belt Regulation (§ 1321)" href="/uscode/text/15/chapter-35" title="SEAT BELT REGULATION">CHAPTER 35—SEAT BELT REGULATION (§ 1321)</a></li>
+<li class="tocitem"><a aria-label="Chapter 36—Cigarette Labeling And Advertising (§§ 1331 – 1341)" href="/uscode/text/15/chapter-36" title="CIGARETTE LABELING AND ADVERTISING">CHAPTER 36—CIGARETTE LABELING AND ADVERTISING (§§ 1331 – 1341)</a></li>
+<li class="tocitem"><a aria-label="Chapter 37—State Technical Services (§§ 1351 – 1368)" href="/uscode/text/15/chapter-37" title="STATE TECHNICAL SERVICES">CHAPTER 37—STATE TECHNICAL SERVICES (§§ 1351 – 1368)</a></li>
+<li class="tocitem"><a aria-label="Chapter 38—Traffic And Motor Vehicle Safety (§§ 1381 – 1431)" href="/uscode/text/15/chapter-38" title="TRAFFIC AND MOTOR VEHICLE SAFETY">CHAPTER 38—TRAFFIC AND MOTOR VEHICLE SAFETY (§§ 1381 – 1431)</a></li>
+<li class="tocitem"><a aria-label="Chapter 39—Fair Packaging And Labeling Program (§§ 1451 – 1461)" href="/uscode/text/15/chapter-39" title="FAIR PACKAGING AND LABELING PROGRAM">CHAPTER 39—FAIR PACKAGING AND LABELING PROGRAM (§§ 1451 – 1461)</a></li>
+<li class="tocitem"><a aria-label="Chapter 39A—Special Packaging Of Household Substances For Protection Of Children (§§ 1471 – 1477)" href="/uscode/text/15/chapter-39A" title="SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN">CHAPTER 39A—SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN (§§ 1471 – 1477)</a></li>
+<li class="tocitem"><a aria-label="Chapter 40—Department Of Commerce (§§ 1501 – 1548)" href="/uscode/text/15/chapter-40" title="DEPARTMENT OF COMMERCE">CHAPTER 40—DEPARTMENT OF COMMERCE (§§ 1501 – 1548)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-41" title="CONSUMER CREDIT PROTECTION">CHAPTER 41—CONSUMER CREDIT PROTECTION (§§ 1601 – 1693r)</a></li>
+<li class="tocitem"><a aria-label="Chapter 42—Interstate Land Sales (§§ 1701 – 1720)" href="/uscode/text/15/chapter-42" title="INTERSTATE LAND SALES">CHAPTER 42—INTERSTATE LAND SALES (§§ 1701 – 1720)</a></li>
+<li class="tocitem"><a aria-label="Chapter 43—Newspaper Preservation (§§ 1801 – 1804)" href="/uscode/text/15/chapter-43" title="NEWSPAPER PRESERVATION">CHAPTER 43—NEWSPAPER PRESERVATION (§§ 1801 – 1804)</a></li>
+<li class="tocitem"><a aria-label="Chapter 44—Protection Of Horses (§§ 1821 – 1831)" href="/uscode/text/15/chapter-44" title="PROTECTION OF HORSES">CHAPTER 44—PROTECTION OF HORSES (§§ 1821 – 1831)</a></li>
+<li class="tocitem"><a aria-label="Chapter 45—Emergency Loan Guarantees To Business Enterprises (§§ 1841 – 1852)" href="/uscode/text/15/chapter-45" title="EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES">CHAPTER 45—EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES (§§ 1841 – 1852)</a></li>
+<li class="tocitem"><a aria-label="Chapter 45A—Chrysler Corporation Loan Guarantee (§ 1861)" href="/uscode/text/15/chapter-45A" title="CHRYSLER CORPORATION LOAN GUARANTEE">CHAPTER 45A—CHRYSLER CORPORATION LOAN GUARANTEE (§ 1861)</a></li>
+<li class="tocitem"><a aria-label="Chapter 46—Motor Vehicle Information And Cost Savings (§§ 1901 – 2021)" href="/uscode/text/15/chapter-46" title="MOTOR VEHICLE INFORMATION AND COST SAVINGS">CHAPTER 46—MOTOR VEHICLE INFORMATION AND COST SAVINGS (§§ 1901 – 2021)</a></li>
+<li class="tocitem"><a aria-label="Chapter 46A—Automobile Title Fraud (§ 2041)" href="/uscode/text/15/chapter-46A" title="AUTOMOBILE TITLE FRAUD">CHAPTER 46A—AUTOMOBILE TITLE FRAUD (§ 2041)</a></li>
+<li class="tocitem"><a aria-label="Chapter 47—Consumer Product Safety (§§ 2051 – 2090)" href="/uscode/text/15/chapter-47" title="CONSUMER PRODUCT SAFETY">CHAPTER 47—CONSUMER PRODUCT SAFETY (§§ 2051 – 2090)</a></li>
+<li class="tocitem"><a aria-label="Chapter 48—Hobby Protection (§§ 2101 – 2106)" href="/uscode/text/15/chapter-48" title="HOBBY PROTECTION">CHAPTER 48—HOBBY PROTECTION (§§ 2101 – 2106)</a></li>
+<li class="tocitem"><a aria-label="Chapter 49—Fire Prevention And Control (§§ 2201 – 2235)" href="/uscode/text/15/chapter-49" title="FIRE PREVENTION AND CONTROL">CHAPTER 49—FIRE PREVENTION AND CONTROL (§§ 2201 – 2235)</a></li>
+<li class="tocitem"><a aria-label="Chapter 50—Consumer Product Warranties (§§ 2301 – 2312)" href="/uscode/text/15/chapter-50" title="CONSUMER PRODUCT WARRANTIES">CHAPTER 50—CONSUMER PRODUCT WARRANTIES (§§ 2301 – 2312)</a></li>
+<li class="tocitem"><a aria-label="Chapter 51—National Productivity And Quality Of Working Life (§§ 2401 – 2471)" href="/uscode/text/15/chapter-51" title="NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE">CHAPTER 51—NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE (§§ 2401 – 2471)</a></li>
+<li class="tocitem"><a aria-label="Chapter 52—Electric And Hybrid Vehicle Research, Development, And Demonstration (§§ 2501 – 2514)" href="/uscode/text/15/chapter-52" title="ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION">CHAPTER 52—ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§§ 2501 – 2514)</a></li>
+<li class="tocitem"><a aria-label="Chapter 53—Toxic Substances Control (§§ 2601 – 2697)" href="/uscode/text/15/chapter-53" title="TOXIC SUBSTANCES CONTROL">CHAPTER 53—TOXIC SUBSTANCES CONTROL (§§ 2601 – 2697)</a></li>
+<li class="tocitem"><a aria-label="Chapter 54—Automotive Propulsion Research And Development (§§ 2701 – 2710)" href="/uscode/text/15/chapter-54" title="AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT">CHAPTER 54—AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT (§§ 2701 – 2710)</a></li>
+<li class="tocitem"><a aria-label="Chapter 55—Petroleum Marketing Practices (§§ 2801 – 2841)" href="/uscode/text/15/chapter-55" title="PETROLEUM MARKETING PRACTICES">CHAPTER 55—PETROLEUM MARKETING PRACTICES (§§ 2801 – 2841)</a></li>
+<li class="tocitem"><a aria-label="Chapter 56—National Climate Program (§§ 2901 – 2908)" href="/uscode/text/15/chapter-56" title="NATIONAL CLIMATE PROGRAM">CHAPTER 56—NATIONAL CLIMATE PROGRAM (§§ 2901 – 2908)</a></li>
+<li class="tocitem"><a aria-label="Chapter 56A—Global Change Research (§§ 2921 – 2961)" href="/uscode/text/15/chapter-56A" title="GLOBAL CHANGE RESEARCH">CHAPTER 56A—GLOBAL CHANGE RESEARCH (§§ 2921 – 2961)</a></li>
+<li class="tocitem"><a aria-label="Chapter 57—Interstate Horseracing (§§ 3001 – 3007)" href="/uscode/text/15/chapter-57" title="INTERSTATE HORSERACING">CHAPTER 57—INTERSTATE HORSERACING (§§ 3001 – 3007)</a></li>
+<li class="tocitem"><a aria-label="Chapter 57A—Horseracing Integrity And Safety (§§ 3051 – 3060)" href="/uscode/text/15/chapter-57A" title="HORSERACING INTEGRITY AND SAFETY">CHAPTER 57A—HORSERACING INTEGRITY AND SAFETY (§§ 3051 – 3060)</a></li>
+<li class="tocitem"><a aria-label="Chapter 58—Full Employment And Balanced Growth (§§ 3101 – 3152)" href="/uscode/text/15/chapter-58" title="FULL EMPLOYMENT AND BALANCED GROWTH">CHAPTER 58—FULL EMPLOYMENT AND BALANCED GROWTH (§§ 3101 – 3152)</a></li>
+<li class="tocitem"><a aria-label="Chapter 59—Retail Policies For Natural Gas Utilities (§§ 3201 – 3211)" href="/uscode/text/15/chapter-59" title="RETAIL POLICIES FOR NATURAL GAS UTILITIES">CHAPTER 59—RETAIL POLICIES FOR NATURAL GAS UTILITIES (§§ 3201 – 3211)</a></li>
+<li class="tocitem"><a aria-label="Chapter 60—Natural Gas Policy (§§ 3301 – 3432)" href="/uscode/text/15/chapter-60" title="NATURAL GAS POLICY">CHAPTER 60—NATURAL GAS POLICY (§§ 3301 – 3432)</a></li>
+<li class="tocitem"><a aria-label="Chapter 61—Soft Drink Interbrand Competition (§§ 3501 – 3503)" href="/uscode/text/15/chapter-61" title="SOFT DRINK INTERBRAND COMPETITION">CHAPTER 61—SOFT DRINK INTERBRAND COMPETITION (§§ 3501 – 3503)</a></li>
+<li class="tocitem"><a aria-label="Chapter 62—Condominium And Cooperative Conversion Protection And Abuse Relief (§§ 3601 – 3616)" href="/uscode/text/15/chapter-62" title="CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF">CHAPTER 62—CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF (§§ 3601 – 3616)</a></li>
+<li class="tocitem"><a aria-label="Chapter 63—Technology Innovation (§§ 3701 – 3724)" href="/uscode/text/15/chapter-63" title="TECHNOLOGY INNOVATION">CHAPTER 63—TECHNOLOGY INNOVATION (§§ 3701 – 3724)</a></li>
+<li class="tocitem"><a aria-label="Chapter 64—Methane Transportation Research, Development, And Demonstration (§§ 3801 – 3810)" href="/uscode/text/15/chapter-64" title="METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION">CHAPTER 64—METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§§ 3801 – 3810)</a></li>
+<li class="tocitem"><a aria-label="Chapter 65—Liability Risk Retention (§§ 3901 – 3906)" href="/uscode/text/15/chapter-65" title="LIABILITY RISK RETENTION">CHAPTER 65—LIABILITY RISK RETENTION (§§ 3901 – 3906)</a></li>
+<li class="tocitem"><a aria-label="Chapter 66—Promotion Of Export Trade (§§ 4001 – 4053)" href="/uscode/text/15/chapter-66" title="PROMOTION OF EXPORT TRADE">CHAPTER 66—PROMOTION OF EXPORT TRADE (§§ 4001 – 4053)</a></li>
+<li class="tocitem"><a aria-label="Chapter 67—Arctic Research And Policy (§§ 4101 – 4112)" href="/uscode/text/15/chapter-67" title="ARCTIC RESEARCH AND POLICY">CHAPTER 67—ARCTIC RESEARCH AND POLICY (§§ 4101 – 4112)</a></li>
+<li class="tocitem"><a aria-label="Chapter 68—Land Remote-Sensing Commercialization (§§ 4201 – 4291)" href="/uscode/text/15/chapter-68" title="LAND REMOTE-SENSING COMMERCIALIZATION">CHAPTER 68—LAND REMOTE-SENSING COMMERCIALIZATION (§§ 4201 – 4291)</a></li>
+<li class="tocitem"><a aria-label="Chapter 69—Cooperative Research (§§ 4301 – 4306)" href="/uscode/text/15/chapter-69" title="COOPERATIVE RESEARCH">CHAPTER 69—COOPERATIVE RESEARCH (§§ 4301 – 4306)</a></li>
+<li class="tocitem"><a aria-label="Chapter 70—Comprehensive Smokeless Tobacco Health Education (§§ 4401 – 4408)" href="/uscode/text/15/chapter-70" title="COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION">CHAPTER 70—COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION (§§ 4401 – 4408)</a></li>
+<li class="tocitem"><a aria-label="Chapter 71—Petroleum Overcharge Distribution And Restitution (§§ 4501 – 4507)" href="/uscode/text/15/chapter-71" title="PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION">CHAPTER 71—PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION (§§ 4501 – 4507)</a></li>
+<li class="tocitem"><a aria-label="Chapter 72—Semiconductor Research (§§ 4601 – 4632)" href="/uscode/text/15/chapter-72" title="SEMICONDUCTOR RESEARCH">CHAPTER 72—SEMICONDUCTOR RESEARCH (§§ 4601 – 4632)</a></li>
+<li class="tocitem"><a aria-label="Chapter 72A—Creating Helpful Incentives To Produce Semiconductors For America (§§ 4651 – 4659)" href="/uscode/text/15/chapter-72A" title="CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA">CHAPTER 72A—CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA (§§ 4651 – 4659)</a></li>
+<li class="tocitem"><a aria-label="Chapter 73—Export Enhancement (§§ 4701 – 4729)" href="/uscode/text/15/chapter-73" title="EXPORT ENHANCEMENT">CHAPTER 73—EXPORT ENHANCEMENT (§§ 4701 – 4729)</a></li>
+<li class="tocitem"><a aria-label="Chapter 74—Competitiveness Policy Council (§§ 4801 – 4809)" href="/uscode/text/15/chapter-74" title="COMPETITIVENESS POLICY COUNCIL">CHAPTER 74—COMPETITIVENESS POLICY COUNCIL (§§ 4801 – 4809)</a></li>
+<li class="tocitem"><a aria-label="Chapter 75—National Trade DATA Bank (§§ 4901 – 4913)" href="/uscode/text/15/chapter-75" title="NATIONAL TRADE DATA BANK">CHAPTER 75—NATIONAL TRADE DATA BANK (§§ 4901 – 4913)</a></li>
+<li class="tocitem"><a aria-label="Chapter 76—Imitation Firearms (§ 5001)" href="/uscode/text/15/chapter-76" title="IMITATION FIREARMS">CHAPTER 76—IMITATION FIREARMS (§ 5001)</a></li>
+<li class="tocitem"><a aria-label="Chapter 77—Steel And Aluminum Energy Conservation And Technology Competitiveness (§§ 5101 – 5110)" href="/uscode/text/15/chapter-77" title="STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS">CHAPTER 77—STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS (§§ 5101 – 5110)</a></li>
+<li class="tocitem"><a aria-label="Chapter 78—Superconductivity And Competitiveness (§§ 5201 – 5209)" href="/uscode/text/15/chapter-78" title="SUPERCONDUCTIVITY AND COMPETITIVENESS">CHAPTER 78—SUPERCONDUCTIVITY AND COMPETITIVENESS (§§ 5201 – 5209)</a></li>
+<li class="tocitem"><a aria-label="Chapter 79—Metal Casting Competitiveness Research Program (§§ 5301 – 5309)" href="/uscode/text/15/chapter-79" title="METAL CASTING COMPETITIVENESS RESEARCH PROGRAM">CHAPTER 79—METAL CASTING COMPETITIVENESS RESEARCH PROGRAM (§§ 5301 – 5309)</a></li>
+<li class="tocitem"><a aria-label="Chapter 80—Fasteners (§§ 5401 – 5414)" href="/uscode/text/15/chapter-80" title="FASTENERS">CHAPTER 80—FASTENERS (§§ 5401 – 5414)</a></li>
+<li class="tocitem"><a aria-label="Chapter 81—High-Performance Computing (§§ 5501 – 5544)" href="/uscode/text/15/chapter-81" title="HIGH-PERFORMANCE COMPUTING">CHAPTER 81—HIGH-PERFORMANCE COMPUTING (§§ 5501 – 5544)</a></li>
+<li class="tocitem"><a aria-label="Chapter 82—Land Remote Sensing Policy (§§ 5601 – 5671)" href="/uscode/text/15/chapter-82" title="LAND REMOTE SENSING POLICY">CHAPTER 82—LAND REMOTE SENSING POLICY (§§ 5601 – 5671)</a></li>
+<li class="tocitem"><a aria-label="Chapter 83—Telephone Disclosure And Dispute Resolution (§§ 5701 – 5724)" href="/uscode/text/15/chapter-83" title="TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION">CHAPTER 83—TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION (§§ 5701 – 5724)</a></li>
+<li class="tocitem"><a aria-label="Chapter 84—Commercial Space Competitiveness (§§ 5801 – 5805)" href="/uscode/text/15/chapter-84" title="COMMERCIAL SPACE COMPETITIVENESS">CHAPTER 84—COMMERCIAL SPACE COMPETITIVENESS (§§ 5801 – 5805)</a></li>
+<li class="tocitem"><a aria-label="Chapter 85—Armored Car Industry Reciprocity (§§ 5901 – 5904)" href="/uscode/text/15/chapter-85" title="ARMORED CAR INDUSTRY RECIPROCITY">CHAPTER 85—ARMORED CAR INDUSTRY RECIPROCITY (§§ 5901 – 5904)</a></li>
+<li class="tocitem"><a aria-label="Chapter 86—Children’S Bicycle Helmet Safety (§§ 6001 – 6006)" href="/uscode/text/15/chapter-86" title="CHILDREN’S BICYCLE HELMET SAFETY">CHAPTER 86—CHILDREN’S BICYCLE HELMET SAFETY (§§ 6001 – 6006)</a></li>
+<li class="tocitem"><a aria-label="Chapter 87—Telemarketing And Consumer Fraud And Abuse Prevention (§§ 6101 – 6108)" href="/uscode/text/15/chapter-87" title="TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION">CHAPTER 87—TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION (§§ 6101 – 6108)</a></li>
+<li class="tocitem"><a aria-label="Chapter 87A—National Do-Not-Call Registry (§§ 6151 – 6155)" href="/uscode/text/15/chapter-87A" title="NATIONAL DO-NOT-CALL REGISTRY">CHAPTER 87A—NATIONAL DO-NOT-CALL REGISTRY (§§ 6151 – 6155)</a></li>
+<li class="tocitem"><a aria-label="Chapter 88—International Antitrust Enforcement Assistance (§§ 6201 – 6212)" href="/uscode/text/15/chapter-88" title="INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE">CHAPTER 88—INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE (§§ 6201 – 6212)</a></li>
+<li class="tocitem"><a aria-label="Chapter 89—Professional Boxing Safety (§§ 6301 – 6313)" href="/uscode/text/15/chapter-89" title="PROFESSIONAL BOXING SAFETY">CHAPTER 89—PROFESSIONAL BOXING SAFETY (§§ 6301 – 6313)</a></li>
+<li class="tocitem"><a aria-label="Chapter 90—Propane Education And Research (§§ 6401 – 6411)" href="/uscode/text/15/chapter-90" title="PROPANE EDUCATION AND RESEARCH">CHAPTER 90—PROPANE EDUCATION AND RESEARCH (§§ 6401 – 6411)</a></li>
+<li class="tocitem"><a aria-label="Chapter 91—Children’S Online Privacy Protection (§§ 6501 – 6506)" href="/uscode/text/15/chapter-91" title="CHILDREN’S ONLINE PRIVACY PROTECTION">CHAPTER 91—CHILDREN’S ONLINE PRIVACY PROTECTION (§§ 6501 – 6506)</a></li>
+<li class="tocitem"><a aria-label="Chapter 91A—Promoting A SAFE Internet For Children (§§ 6551 – 6555)" href="/uscode/text/15/chapter-91A" title="PROMOTING A SAFE INTERNET FOR CHILDREN">CHAPTER 91A—PROMOTING A SAFE INTERNET FOR CHILDREN (§§ 6551 – 6555)</a></li>
+<li class="tocitem"><a aria-label="Chapter 92—Year 2000 Computer Date Change (§§ 6601 – 6617)" href="/uscode/text/15/chapter-92" title="YEAR 2000 COMPUTER DATE CHANGE">CHAPTER 92—YEAR 2000 COMPUTER DATE CHANGE (§§ 6601 – 6617)</a></li>
+<li class="tocitem"><a aria-label="Chapter 93—Insurance (§§ 6701 – 6781)" href="/uscode/text/15/chapter-93" title="INSURANCE">CHAPTER 93—INSURANCE (§§ 6701 – 6781)</a></li>
+<li class="tocitem"><a aria-label="Chapter 94—Privacy (§§ 6801 – 6827)" href="/uscode/text/15/chapter-94" title="PRIVACY">CHAPTER 94—PRIVACY (§§ 6801 – 6827)</a></li>
+<li class="tocitem"><a aria-label="Chapter 94A—Visual Depiction Privacy (§ 6851)" href="/uscode/text/15/chapter-94A" title="VISUAL DEPICTION PRIVACY">CHAPTER 94A—VISUAL DEPICTION PRIVACY (§ 6851)</a></li>
+<li class="tocitem"><a aria-label="Chapter 95—Microenterprise Technical Assistance And Capacity Building Program (§§ 6901 – 6910)" href="/uscode/text/15/chapter-95" title="MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM">CHAPTER 95—MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM (§§ 6901 – 6910)</a></li>
+<li class="tocitem"><a aria-label="Chapter 96—Electronic Signatures In Global And National Commerce (§§ 7001 – 7031)" href="/uscode/text/15/chapter-96" title="ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE">CHAPTER 96—ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE (§§ 7001 – 7031)</a></li>
+<li class="tocitem"><a aria-label="Chapter 97—Women’S Business Enterprise Development (§§ 7101 – 7110)" href="/uscode/text/15/chapter-97" title="WOMEN’S BUSINESS ENTERPRISE DEVELOPMENT">CHAPTER 97—WOMEN’S BUSINESS ENTERPRISE DEVELOPMENT (§§ 7101 – 7110)</a></li>
+<li class="tocitem"><a aria-label="Chapter 98—Public Company Accounting Reform And Corporate Responsibility (§§ 7201 – 7266)" href="/uscode/text/15/chapter-98" title="PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY">CHAPTER 98—PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY (§§ 7201 – 7266)</a></li>
+<li class="tocitem"><a aria-label="Chapter 99—National Construction Safety Team (§§ 7301 – 7313)" href="/uscode/text/15/chapter-99" title="NATIONAL CONSTRUCTION SAFETY TEAM">CHAPTER 99—NATIONAL CONSTRUCTION SAFETY TEAM (§§ 7301 – 7313)</a></li>
+<li class="tocitem"><a aria-label="Chapter 100—Cyber Security Research And Development (§§ 7401 – 7411)" href="/uscode/text/15/chapter-100" title="CYBER SECURITY RESEARCH AND DEVELOPMENT">CHAPTER 100—CYBER SECURITY RESEARCH AND DEVELOPMENT (§§ 7401 – 7411)</a></li>
+<li class="tocitem"><a aria-label="Chapter 100A—Cybersecurity Enhancement (§§ 7421 – 7464)" href="/uscode/text/15/chapter-100A" title="CYBERSECURITY ENHANCEMENT">CHAPTER 100A—CYBERSECURITY ENHANCEMENT (§§ 7421 – 7464)</a></li>
+<li class="tocitem"><a aria-label="Chapter 101—Nanotechnology Research And Development (§§ 7501 – 7509)" href="/uscode/text/15/chapter-101" title="NANOTECHNOLOGY RESEARCH AND DEVELOPMENT">CHAPTER 101—NANOTECHNOLOGY RESEARCH AND DEVELOPMENT (§§ 7501 – 7509)</a></li>
+<li class="tocitem"><a aria-label="Chapter 102—Fairness To Contact Lens Consumers (§§ 7601 – 7610)" href="/uscode/text/15/chapter-102" title="FAIRNESS TO CONTACT LENS CONSUMERS">CHAPTER 102—FAIRNESS TO CONTACT LENS CONSUMERS (§§ 7601 – 7610)</a></li>
+<li class="tocitem"><a aria-label="Chapter 103—Controlling The Assault Of Non-Solicited Pornography And Marketing (§§ 7701 – 7713)" href="/uscode/text/15/chapter-103" title="CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING">CHAPTER 103—CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING (§§ 7701 – 7713)</a></li>
+<li class="tocitem"><a aria-label="Chapter 104—Sports Agent Responsibility And Trust (§§ 7801 – 7807)" href="/uscode/text/15/chapter-104" title="SPORTS AGENT RESPONSIBILITY AND TRUST">CHAPTER 104—SPORTS AGENT RESPONSIBILITY AND TRUST (§§ 7801 – 7807)</a></li>
+<li class="tocitem"><a aria-label="Chapter 105—Protection Of Lawful Commerce In ARMS (§§ 7901 – 7903)" href="/uscode/text/15/chapter-105" title="PROTECTION OF LAWFUL COMMERCE IN ARMS">CHAPTER 105—PROTECTION OF LAWFUL COMMERCE IN ARMS (§§ 7901 – 7903)</a></li>
+<li class="tocitem"><a aria-label="Chapter 106—Pool And Spa Safety (§§ 8001 – 8008)" href="/uscode/text/15/chapter-106" title="POOL AND SPA SAFETY">CHAPTER 106—POOL AND SPA SAFETY (§§ 8001 – 8008)</a></li>
+<li class="tocitem"><a aria-label="Chapter 107—Protection Of Intellectual Property Rights (§§ 8101 – 8131)" href="/uscode/text/15/chapter-107" title="PROTECTION OF INTELLECTUAL PROPERTY RIGHTS">CHAPTER 107—PROTECTION OF INTELLECTUAL PROPERTY RIGHTS (§§ 8101 – 8131)</a></li>
+<li class="tocitem"><a aria-label="Chapter 108—State-Based Insurance Reform (§§ 8201 – 8232)" href="/uscode/text/15/chapter-108" title="STATE-BASED INSURANCE REFORM">CHAPTER 108—STATE-BASED INSURANCE REFORM (§§ 8201 – 8232)</a></li>
+<li class="tocitem"><a aria-label="Chapter 109—Wall Street Transparency And Accountability (§§ 8301 – 8344)" href="/uscode/text/15/chapter-109" title="WALL STREET TRANSPARENCY AND ACCOUNTABILITY">CHAPTER 109—WALL STREET TRANSPARENCY AND ACCOUNTABILITY (§§ 8301 – 8344)</a></li>
+<li class="tocitem"><a aria-label="Chapter 110—Online Shopper Protection (§§ 8401 – 8405)" href="/uscode/text/15/chapter-110" title="ONLINE SHOPPER PROTECTION">CHAPTER 110—ONLINE SHOPPER PROTECTION (§§ 8401 – 8405)</a></li>
+<li class="tocitem"><a aria-label="Chapter 111—Weather Research And Forecasting Innovation (§§ 8501 – 8563)" href="/uscode/text/15/chapter-111" title="WEATHER RESEARCH AND FORECASTING INNOVATION">CHAPTER 111—WEATHER RESEARCH AND FORECASTING INNOVATION (§§ 8501 – 8563)</a></li>
+<li class="tocitem"><a aria-label="Chapter 112—Sports Medicine Licensure (§ 8601)" href="/uscode/text/15/chapter-112" title="SPORTS MEDICINE LICENSURE">CHAPTER 112—SPORTS MEDICINE LICENSURE (§ 8601)</a></li>
+<li class="tocitem"><a aria-label="Chapter 113—Concrete Masonry Products Research, Education, And Promotion (§§ 8701 – 8717)" href="/uscode/text/15/chapter-113" title="CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION">CHAPTER 113—CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION (§§ 8701 – 8717)</a></li>
+<li class="tocitem"><a aria-label="Chapter 114—National Quantum Initiative (§§ 8801 – 8854)" href="/uscode/text/15/chapter-114" title="NATIONAL QUANTUM INITIATIVE">CHAPTER 114—NATIONAL QUANTUM INITIATIVE (§§ 8801 – 8854)</a></li>
+<li class="tocitem"><a aria-label="Chapter 115—Perfluoroalkyl And Polyfluoroalkyl Substances And Emerging Contaminants (§§ 8901 – 8963)" href="/uscode/text/15/chapter-115" title="PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS">CHAPTER 115—PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS (§§ 8901 – 8963)</a></li>
+<li class="tocitem"><a aria-label="Chapter 116—Coronavirus Economic Stabilization (Cares Act) (§§ 9001 – 9141)" href="/uscode/text/15/chapter-116" title="CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)">CHAPTER 116—CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT) (§§ 9001 – 9141)</a></li>
+<li class="tocitem"><a aria-label="Chapter 117—Identifying Outputs Of Generative Adversarial Networks (§§ 9201 – 9204)" href="/uscode/text/15/chapter-117" title="IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS">CHAPTER 117—IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS (§§ 9201 – 9204)</a></li>
+<li class="tocitem"><a aria-label="Chapter 118—Sustainable Chemistry (§§ 9301 – 9306)" href="/uscode/text/15/chapter-118" title="SUSTAINABLE CHEMISTRY">CHAPTER 118—SUSTAINABLE CHEMISTRY (§§ 9301 – 9306)</a></li>
+<li class="tocitem"><a aria-label="Chapter 119—National Artificial Intelligence Initiative (§§ 9401 – 9462)" href="/uscode/text/15/chapter-119" title="NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE">CHAPTER 119—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE (§§ 9401 – 9462)</a></li>
+<li class="tocitem"><a aria-label="Chapter 120—Minority Business Development (§§ 9501 – 9598)" href="/uscode/text/15/chapter-120" title="MINORITY BUSINESS DEVELOPMENT">CHAPTER 120—MINORITY BUSINESS DEVELOPMENT (§§ 9501 – 9598)</a></li>
+<li class="tocitem"><a aria-label="Chapter 121—Flood Level Observation, Operations, And Decision Support (§§ 9701 – 9712)" href="/uscode/text/15/chapter-121" title="FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT">CHAPTER 121—FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT (§§ 9701 – 9712)</a></li>
+<li class="tocitem"><a aria-label="Chapter 122—Travel And Tourism (§§ 9801 – 9805)" href="/uscode/text/15/chapter-122" title="TRAVEL AND TOURISM">CHAPTER 122—TRAVEL AND TOURISM (§§ 9801 – 9805)</a></li>
+<li class="tocitem"><a href="/uscode/text/15/chapter-123" title="PROTECTING AMERICANS’ DATA FROM FOREIGN ADVERSARIES">CHAPTER 123—PROTECTING AMERICANS’ DATA FROM FOREIGN ADVERSARIES (Section 9901)</a></li>
+</ol>
+</div>
+</div></text>
+</div>
+<div class="tab-pane" id="tab_default_2">
+<!-- 'notes' content area -->
+</div>
+</div>
+</div>
+</div>
+						
+						
+					</div>
+				</div>
+			</div>
+			
+
+			<div id="page-bottom" aria-hidden="true">
+				<div class="region region-bottom">
+					<div id="block-liidfp-2" class="block block-liidfp first last odd">
+
+
+						<div class="gfs">
+							<div id="div-gpt-ad-bottom" data-google-query-id="CNH77Z7C7d8CFURLAQodp9oMpg">
+								<script type="text/javascript">
+									googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+								</script>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+
+		<aside id="supersizeme" class="col-sm-4" aria-label="Sponsor Listings and Toolbox panel">
+			
+			<div class="block" id="toolbox">
+
+				<h2 class="title toolbox"><span class="glyphicon glyphicon-briefcase"></span> U.S. Code Toolbox
+				</h2>
+
+				
+<div class="clear-block wexlink">
+    <a href="/wex/wex_articles">Law about... Articles from Wex</a>
+</div>
+<div id="topnlink" class="toolboxlink">
+    <a href="/topn">Table of Popular Names</a>
+</div>
+<div id="ptoalink" class="toolboxlink">
+    <a href="/ptoa">Parallel Table of Authorities</a>
+</div>
+<div id="updatelink" class="toolboxlink">
+    <a href=/uscode/about/how-current>How
+        current is this?</a>
+</div>
+
+
+				
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<div class="addthis_sharing_toolbox"></div>
+
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<script type="text/javascript">
+					var addthis_config = {
+						data_track_addressbar: false,
+						data_track_clickback: true,
+						publid: 'liiadverts',
+						ui_tabindex: 0,
+						ui_508_compliant: true
+					};
+					var addthis_share = {
+						url_transforms: {
+							shorten: {
+								twitter: 'bitly'
+							}
+						},
+						shorteners: {
+							bitly: {
+								login: 'liicornell',
+								apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+							}
+						},
+						passthrough: {
+							twitter: {
+								via: 'LIICornell'
+							}
+						}
+					};
+				</script>
+
+				<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=liiadverts"
+					async="async"></script>
+
+				
+
+			</div>
+			
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-top'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-middle'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			
+			<div id="block-lii-justia-find-lawyers-sidebar" class="block block-lii last even">
+				<div id="block-lii-justia-lawyers" class="block block-lii last even">
+					<div class="sidebar">
+						<div class="results-sponsored">
+							<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+								data-domain="lawyers.law.cornell.edu">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+		</aside>
+
+
+	</main>
+
+	<footer id="liifooter" class="container-fluid">
+		<ul id="liifooternav" class="nav navbar-nav">
+			<li class="first">
+				<a href="/lii/about/accessibility" class="nav">Accessibility</a>
+			</li>
+			<li class="first">
+				<a href="/lii/about/about_lii" class="nav">About LII</a>
+			</li>
+			<li>
+				<a href="/lii/about/contact_us" class="nav">Contact us</a>
+			</li>
+			<li>
+				<a href="/lii/help_out/sponsor">Advertise here</a>
+			</li>
+			<li>
+				<a href="/lii/help" class="nav">Help</a>
+			</li>
+			<li>
+				<a href="/lii/terms/documentation" class="nav">Terms of use</a>
+			</li>
+			<li class="last">
+				<a href="/lii/terms/privacy_policy" class="nav">Privacy</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li>
+				<a href="/" title="LII home page">
+					<img width="62" height="43"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+						alt="LII logo">
+				</a>
+			</li>
+		</ul>
+	</footer>
+
+	<script>
+		jQuery(document).ready(function () {
+			jQuery("#liisearchlink").click(function () {
+				jQuery("#liisearch").toggle('slide');
+				jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+			});
+		});
+
+		jQuery(document).ready(function () {
+			jQuery('[data-toggle="tooltip"]').each(function () {
+				var $elem = jQuery(this);
+				$elem.tooltip({
+					html: true,
+					container: $elem,
+					delay: { hide: 400 }
+				});
+			});
+		});
+	</script>
+
+	
+	<script type="text/javascript" src="/staticsite_scripts/htmldiff.js"> </script>
+	 
+	<script type="text/javascript" src="/staticsite_scripts/lii_scriptinator.min.js"> </script>
+	 
+	
+	<script>
+		window.addEventListener("load", function () {
+			window.cookieconsent.initialise(
+				{
+					"palette": {
+						"popup": {
+							"background": "#000"
+						}, "button": {
+							"background": "#f1d600"
+						}
+					}
+				})
+		});
+	</script>
+	
+
+</body>

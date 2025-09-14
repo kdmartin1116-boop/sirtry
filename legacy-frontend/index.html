@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EndorseMyBill</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>EndorseMyBill</h1>
+
+  <input type="file" id="pdfUpload" accept="application/pdf"><br><br>
+
+  <input type="text" id="name" placeholder="Your Name"><br>
+  <input type="text" id="account" placeholder="Account Number"><br>
+  <input type="date" id="date"><br><br>
+
+  <h3>Choose Endorsement Placement</h3>
+  <label><input type="radio" name="placement" value="invoice"> On Invoice Page</label><br>
+  <label><input type="radio" name="placement" value="remittance"> On Remittance Slip</label><br>
+  <label><input type="radio" name="placement" value="custom"> Custom Location</label><br>
+<label>Page Number: <input type="number" id="pageNumber" value="0" min="0"></label><br>
+
+<div id="customCoords" style="display:none;">
+    <label>X Position: <input type="number" id="xPos" value="50"></label>
+    <label>Y Position: <input type="number" id="yPos" value="700"></label>
+  </div><br>
+
+  <canvas id="signaturePad" width="300" height="100" style="border:1px solid #ccc;"></canvas><br><br>
+
+  <button onclick="generatePDF()">Generate PDF</button>
+
+<h3>Preview and click to place</h3>
+<button id="renderPreview">Render Preview</button>
+<canvas id="previewCanvas" width="800" style="border:1px solid #ccc; display:block; margin-top:10px;"></canvas>
+  <!-- Load PDF-lib library -->
+<script src="https://unpkg.com/pdf-lib/dist/pdf-lib.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+  pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+</script>
+<script src="script.js"></script>
+</body>
+</html>

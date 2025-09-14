@@ -1,0 +1,272 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Amendment I. Fundamental Freedoms | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Amendment I. Fundamental Freedoms
+First Amendment  Fundamental Freedoms
+Overview of First Amendment, Fundamental Freedoms
+Relationship Between the Establishment and Free Exercise Clauses
+Relationship Between Religion Clauses and Free Speech Clause
+Religion
+Overview of the Religion Clauses (Establishment and Free Exercise Clauses)
+Historical Background
+Introduction to the Historical Background on the Religion Clauses
+England and Religious Freedom
+State-Established Religion in the Colonies
+Colonial Concepts of Religious Liberty
+Virginia's Movement Towards Religious Freedom
+Continental Congresses and Religious Freedom
+Constitutional Convention, Ratification, and the Bill of Rights
+Early Interpretations of the Religion Clauses
+Religious Disputes
+Overview of Government Resolution of Religious Disputes
+Doctrinal Basis of Government Resolution of Religious Disputes
+Neutral Principles of Law and Government Resolution of Religious Disputes
+Church Leadership and the Ministerial Exception
+Establishment Clause
+General Principle of Government Neutrality to Religion
+Accommodationist and Separationist Theories of the Establishment Clause
+Establishment Clause Tests Generally
+Financial Assistance to Religion
+Overview of Financial Assistance to Religion
+Early Cases on Financial Assistance to Religion
+Adoption of the Lemon Test
+Application of the Lemon Test
+Zelman and Indirect Assistance to Religion
+Denying Financial Assistance to Religion
+Non-Financial Assistance to Religion
+Overview of Non-Financial Assistance to Religion
+Early Cases on Non-Financial Assistance to Religion
+Purpose and Effect Test Before Lemon
+Non-Financial Assistance to Religion and the Lemon Test
+Lemon's Purpose Prong
+Overview of Lemon's Effect Prong
+Lemon's Effect Prong and Accommodation of Religion
+Lemon's Effect Prong and Pervasively Sectarian Institutions
+Lemon's Entanglement Prong
+Endorsement Variation on Lemon
+Non-Financial Assistance to Religion and Non-Lemon Tests
+Abandonment of the Lemon Test
+Coercion and Establishment Clause Doctrine
+Establishment Clause and Historical Practices and Tradition
+Free Exercise Clause
+Overview of Free Exercise Clause
+Laws Regulating Religious Belief
+Laws that Discriminate Against Religious Practice
+Laws Neutral to Religious Practice
+Laws Neutral to Religious Practice during the 1940s and 1950s
+Laws Neutral to Religious Practice from the 1960s through the 1980s
+Laws Neutral to Religious Practice and Internal Government Affairs
+Laws Neutral to Religious Practice and Current Doctrine
+Laws Neutral to Religious Practice Regulating Prisons and the Military
+Free Speech Clause
+Historical Background on Free Speech Clause
+Procedural Matters
+The Overbreadth Doctrine, Statutory Language, and Free Speech
+Vagueness, Statutory Language, and Free Speech
+Prior Restraints on Speech
+State Action Doctrine and Free Speech
+Retaliatory Prosecution and Arrest
+Content-Based and Content-Neutral Regulation of Speech
+Overview of Content-Based and Content-Neutral Regulation of Speech
+Development of a Judicial Approach to Content-Based Speech Laws
+Laws Making Facial Content-Based Distinctions Regarding Speech
+Laws Regulating Speech with a Content-Discriminatory Purpose
+Laws Making Speaker-Based Distinctions in Regulating Speech
+Content-Based and Compelled Speech
+Content-Neutral Laws Burdening Speech
+Viewpoint-Based Regulation of Speech
+Overview of Viewpoint-Based Regulation of Speech
+Viewpoint-Based Distinctions on the Face of a Law
+Viewpoint Discrimination in Facially Neutral Laws
+Viewpoint-Based Distinctions Within Proscribable Speech
+Viewpoint Neutrality in Forum Analysis
+Categorical Approach
+Overview of Categorical Approach to Restricting Speech
+Early Doctrine of Incitement
+Incitement Movement from Clear and Present Danger Test
+Incitement Current Doctrine
+Fighting Words
+True Threats
+Defamation
+Application of Defamation Cases to Group Libel, Hate Speech
+False Statements Outside of Defamation
+Privacy Torts
+Obscenity
+Child Pornography
+Commercial Speech
+Commercial Speech Early Doctrine
+Central Hudson Test and Current Doctrine
+Public Forum Doctrine
+The Public Forum
+Public and Nonpublic Forums
+Quasi-Public Places
+Role of Government
+Overview of Government Roles
+Government Speech and Government as Speaker
+Coercive Government Speech
+School Free Speech and Government as Educator
+Prison Free Speech and Government as Prison Administrator
+Public Employee Speech and Government as Employer
+Loyalty Oaths
+Political Activities and Government Employees
+Honoraria and Government Employees
+Pickering Balancing Test for Government Employee Speech
+Regulation of the Media
+Overview of Regulation of the Media
+Taxation and Financial Regulation of Media
+Broadcast Radio and Television
+Cable Television
+Print, Telephone, and the Internet
+Overview of Print, Telephone, and the Internet
+Print Media
+Telephone Communications
+The Internet
+Governmentally Required Access and Editorial Discretion
+Overview of Access and Editorial Discretion
+Access and Editorial Discretion in Broadcast Media
+Access and Editorial Discretion in Cable Television
+Political Speech
+Overview of Campaign Finance
+Campaign Finance Contribution Limits and Source Restrictions
+Campaign Finance Expenditure Limits
+Campaign Finance Disclosure and Disclaimer Requirements
+Lobbying
+Legislative Investigations
+Compelled Speech
+Overview of Compelled Speech
+Flag Salutes and Other Compelled Speech
+Compelled Subsidization
+Unconstitutional Conditions on Speech
+Overview of Unconstitutional Conditions Doctrine
+Conditions of Public Employment
+Conditions on Tax Exemptions
+Conditions on Federal Funding
+Restrictions on Editorializing
+Selective Funding Arrangements
+Government's Message Versus Private Speakers
+Public Entities and Private Access
+Conditions Exceeding the Scope of the Program
+Requirements That Can Be Imposed Directly
+Symbolic Speech
+Overview of Symbolic Speech
+Leaflets and Handbills
+Flags as a Case Study in Symbolic Speech
+Public Issue Picketing and Parading
+Labor Union Protests and Marches
+Solicitation
+Freedom of Association
+Overview of Freedom of Association
+Intimate Association
+Restrictions on Expressive Association
+Barriers to Group Advocacy and Legal Action
+Election Laws
+Denial of Employment or Public Benefits
+Conditions of Incarceration
+Material Support Bar
+Disclosure of Association
+Associational Privacy
+Disclosure of Membership Lists
+Character and Fitness and Evidentiary Disclosures
+Legislative Inquiries
+Donor Disclosure Requirements
+Compelled Association
+Union Membership and Fees
+Nondiscrimination and Equal-Access Requirements
+Freedom of the Press
+Overview of Freedom of the Press
+Protection of Confidential Sources
+Access to Government Places and Papers
+Freedoms of Assembly and Petition
+Historical Background on Freedoms of Assembly and Petition
+Doctrine on Freedoms of Assembly and Petition
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

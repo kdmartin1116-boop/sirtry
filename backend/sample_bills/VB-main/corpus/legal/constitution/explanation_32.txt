@@ -1,0 +1,184 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Section II" />
+Section II | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Article II. Executive Branch
+Section II
+prev | next
+Section 2 Powers
+Clause 1 Military, Administrative, and Clemency
+The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
+Executive Departments
+Commander in Chief
+Historical Background on Commander in Chief Clause
+Prize Cases and Commander in Chief Clause
+Wartime Powers of President in World War II
+Evacuation of the West Coast Japanese
+The President and Labor Relations in World War II
+Presidential Directives and Sanctions in World War II
+Treatment of Enemy Combatants and Nazi Saboteurs
+World War II War Crimes Tribunals
+Postwar Period and Commander in Chief Clause
+Use of Troops Overseas and Congressional Authorization
+Presidential Power and Commander in Chief Clause
+Congressional Control Over President's Discretion
+President as Commander of Armed Forces
+Martial Law Generally
+Martial Law in Hawaii
+Martial Law and Domestic Disorder
+Response to Terrorist Attacks of September 11, 2001
+Detention Authority
+Military Commissions
+Pardons
+Overview of Pardon Power
+Historical Background on Pardon Power
+Pardon Power and Forms of Clemency Generally
+Scope of Pardon Power
+Rejection of a Pardon
+Legal Effect of a Pardon
+Congress's Role in Pardons
+Presidential Self-Pardons
+Types
+Pardons Generally
+Amnesties
+Commutations, Remissions, and Reprieves
+Clause 2 Advice and Consent
+He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+Treaty-Making Power
+Overview of President's Treaty-Making Power
+Historical Background on Treaty-Making Power
+Scope of Treaty-Making Power
+Self-Executing and Non-Self-Executing Treaties
+Congressional Implementation of Treaties
+Interpreting Treaties
+Legal Effect of Treaties on Prior Acts of Congress
+Preemptive Effect of Treaties
+Effect of Treaties on the Constitution
+Breach and Termination of Treaties
+Alternatives to Treaties
+Overview of Alternatives to Treaties
+Legal Basis for Executive Agreements
+Legal Effect of Executive Agreements
+State Laws Affecting Foreign Relations
+Congressional Executive Agreements
+Appointments
+Overview of Appointments Clause
+Historical Background on Appointments Clause
+Process of Appointment for Principal Officers
+Ambassadors, Ministers, and Consuls Appointments
+Appointments of Justices to the Supreme Court
+Creation of Federal Offices
+Creation of Federal Offices with Blended Features
+Federal Versus Territorial Officers
+Restrictions on Congress's Authority
+Officer and Non-Officer Appointments
+Departments Heads and Courts of Law
+Changing the Duties of an Existing Officer
+Interbranch Appointments
+Principal and Inferior Officers
+Overview of Principal and Inferior Officers
+Early Doctrine on Principal and Inferior Officers
+Modern Doctrine on Principal and Inferior Officers
+Removals
+Overview of Removal of Executive Branch Officers
+Decision of 1789 and Removals in Early Republic
+Removals in Jacksonian America Through the Nineteenth Century
+Removals in the 1920s
+Removals in the 1930s
+Later Twentieth Century Cases on Removal
+Twenty-First Century Cases on Removal
+Clause 3 Senate Recess
+The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+Overview of Recess Appointments Clause
+Recess Appointments of Article III Judges
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

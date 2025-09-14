@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1734385-15"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	</script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDVVHXRDE6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+	</script>
+
+	<meta charset="utf-8" />
+	<meta name="version" content="v10.15.3" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+		type="image/vnd.microsoft.icon" />
+	<link rel="canonical" href="https://www.law.cornell.edu/uscode/text/22">
+
+	<meta property="og:site_name" content="LII / Legal Information Institute" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.law.cornell.edu/uscode/text/22" />
+	<meta property="og:title" content="U.S. Code: Title 22 — FOREIGN RELATIONS AND INTERCOURSE" />
+	<meta property="og:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	
+	<meta name="twitter:card" content="US Code - Title 22" />
+	<meta name="twitter:site" content="@LIICornell" />
+	<meta name="twitter:url" content="https://www.law.cornell.edu/uscode/text/22" />
+	<meta name="twitter:title" content="U.S. Code: Title 22 — FOREIGN RELATIONS AND INTERCOURSE" />
+	<meta name="twitter:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	<meta name="dcterms.title" content="U.S. Code: Title 22 — FOREIGN RELATIONS AND INTERCOURSE" />
+
+
+	<title>U.S. Code: Title 22 — FOREIGN RELATIONS AND INTERCOURSE | U.S. Code | US Law | LII / Legal Information Institute</title>
+	
+
+	<!-- schema.org metadata -->
+	<script type="application/ld+json">
+		{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/uscode/text", "name": "U.S. Code"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/uscode/text/22", "name": "Title 22"}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/uscode/text/22", "name": "Title 22", "author": {"@type": "Organization", "name": "Office of the Law Revision Counsel", "url": "http://uscode.house.gov/about_office.xhtml"}, "description": "US Code - Title 22", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+	</script>
+	<!-- /schema.org -->
+
+	<!-- API url -->
+	<script>
+		SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+	</script>
+
+	<script src="/js/jquery-3.6.1.min.js"></script>
+	<script src="/js/js.cookie.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/fonts/open-sans.css">
+
+	
+	<link rel="stylesheet" type="text/css" href="/staticsite_styles/lii_stylenator_v48.min.css" />
+	 
+
+	
+
+	<!-- include adcode -->
+	<script type='text/javascript'>
+		!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+	</script>
+
+	<!-- mobile: vignettes and page-level -->
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'>
+	</script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+	</script>
+
+	<!-- adsense -->
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/USC_ROC_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/USC_ROC_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/USC_ROC_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/USC_ROC_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+	</script>
+	<!-- /adsense -->
+	<!-- /include adcode -->
+
+	
+	<script src="https://justatic.com/v/20160725b/shared/js/widgets/find-a-lawyer.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	
+
+	
+<div id="liisurveymodal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="liisurveymodal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+                <div class="modal-title-box">Please help us improve our site!</div>	
+            <div class="modal-header">
+                <button type="button" class="close" onclick="snooze_survey()" data-dismiss="modal">&times;</button>
+            </div>			
+            <div class="modal-body">	  
+                <iframe title="Survey Frame" class="survey-content" id="iframeHolder"></iframe>
+            </div>		
+            <div class="modal-footer">
+                <a href="#" class="btn btn-primary" class="close" data-dismiss="modal" onclick="snooze_survey()">No thank you</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<header id="conannav" class="navbar navbar-fixed-top active">
+		<a href="#content" class="skip">Skip to main content</a>
+
+		<div id="cu-identity">
+			<div class="container-fluid">
+				<a href="https://www.cornell.edu" id="insignialink" title="Cornell University">
+					<img class="img-responsive"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+						alt="Cornell University insignia" />
+				</a>
+				<a href="https://www.lawschool.cornell.edu/" id="clslink" title="Cornell Law School">Cornell Law
+					School</a>
+				<a href="https://www.cornell.edu/search/" id="cusearch" title="Search Cornell University">Search
+					Cornell</a>
+			</div>
+		</div>
+
+		<div id="lii-identity" class="col-12 identity-header">
+			<div id="liiheader" class="container-fluid">
+				<nav id="liiallnav" class="navbar" aria-label="Main">
+					<div id="liibanner" class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+							href="#liinav">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<div id="liilogodiv">
+							<a id="liilogo" class="navbar-brand" href="/" aria-label="lii logo"></a>
+						</div>
+						<div class="navbar-right" id="liinavbarstuff">
+							
+							<button id="survey" class="btn btn-primary icon-pencil icon-white"
+								style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+								us improve our site!</button>
+
+							<div id="liidonatewrap">
+								<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+									aria-label="Donate to LII">
+									<span class="glyphicon glyphicon-gift"></span>
+									<span class="gltxt">Support Us!</span>
+								</a>
+							</div>
+
+							<div id="liisearchlinkwrap">
+								<a id="liisearchlink" href="#" class="navbar-link cured" aria-label="Search LII">
+									<span class="glyphicon glyphicon-search"></span>
+									<span class="gltxt">Search</span>
+								</a>
+							</div>
+
+							<div id="liisearch" href="#">
+								<div class="input-group" id="adv-search" role="search">
+									<input label="Enter the terms you wish to search for." placeholder="Search"
+										class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+										list="autocomplete_list" aria-label="Enter search terms text box">
+									<datalist id="autocomplete_list">
+									</datalist>
+									<div class="input-group-btn">
+										<div class="btn-group" role="group" aria-label="Filter and search buttons">
+											<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+												aria-label="Find now"><span class="glyphicon glyphicon-search"
+													aria-hidden="true" role="button"></span></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="liinav" class="collapse navbar-collapse">
+							<ul id="liiheadernav" class="nav navbar-nav" role="menubar" aria-hidden="false">
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">About
+										LII</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/lii/about/who_we_are">Who We Are</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/what_we_do">What We Do</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/who_pays_for_this">Who Pays For This</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/contact_us">Contact Us</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Get the
+										law</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a title="U.S. Constitution" href="/constitution">Constitution</a>
+										</li>
+										<li role="menuitem">
+											<a title="Supreme Court" href="/supremecourt/text/home">Supreme Court</a>
+										</li>
+										<li role="menuitem">
+											<a title="U.S. Code" href="/uscode/text">U.S. Code</a>
+										</li>
+										<li role="menuitem">
+											<a title="C.F.R." href="/cfr/text">CFR</a>
+										</li>
+										<li role="menuitem" aria-haspopup="true"
+											class="menu-item dropdown dropdown-submenu">
+											<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Federal Rules</a>
+											<ul role="menu" aria-hidden="true" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/rules/frap">Federal Rules of Appellate Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcp">Federal Rules of Civil Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcrmp">Federal Rules of Criminal Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/fre">Federal Rules of Evidence</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frbp">Federal Rules of Bankruptcy Procedure</a>
+												</li>
+											</ul>
+										</li>
+										<li role="menuitem">
+											<a title="U.C.C." href="/ucc">U.C.C.</a>
+										</li>
+										<li aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+											<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Law by jurisdiction</a>
+											<ul role="menu" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/states">State law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/uniform">Uniform laws</a>
+												</li>
+												<li role="menuitem">
+													<a href="/federal">Federal law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/world">World law</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem">
+									<a href="https://lawyers.law.cornell.edu/">Lawyer directory</a>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Legal encyclopedia</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/wex/category/business_law">Business law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/constitutional_law">Constitutional law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/criminal_law_and_procedure">Criminal law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/family_law">Family law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/employment_law">Employment law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/money_and_financial_problems">Money and Finances</a>
+										</li>
+
+										<li role="menuitem">
+											<a href="/wex/wex_articles">More...</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Help out</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem" aria-hidden="true">
+											<a href="/donate">Give</a>
+										</li>
+										<li role="menuitem" aria-hidden="true">
+											<a href="/lii/help_out/sponsor">Sponsor</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/advertise">Advertise</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/create">Create</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/promote">Promote</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/join_directory">Join Lawyer Directory</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<ul id="liinavsoc" class="nav navbar-nav navbar-right">
+								<li>
+									
+									<div class="addthis_horizontal_follow_toolbox"></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					
+				</nav>
+			</div>
+		</div>
+		
+		
+	</header>
+	<br><br>
+	
+	<div id="breadcrumb" class="container-fluid">
+		<div class="row">
+			<div class="navbar-header">
+				<nav aria-label="breadcrumb" class="bc-icons-2">
+					<ol class="breadcrumb">
+						
+						
+						
+						<li class="breadcrumb-item"><a href="/">LII</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item" aria-label="U.S. Code table of contents"><a
+								href="/uscode/text">U.S. Code</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item breadcrumb-last">Title 22</li>
+						
+						 
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+	
+
+	<main id="main" class="container-fluid">
+		<div id="content" class="col-sm-8">
+			<div class="pagewrapper">
+				<div class="container-fluid">
+					<div class="row">
+						
+						<div title="Definitions Frame"></div>
+						
+<small id="titleHelp" class="form-text">Quick search by citation:</small>
+<form class="form-inline">
+    <div class="form-group mb-2">
+        <label for="titleinput">Title</label>
+        <input type="number" name="quicksearch" class="form-control" id="titleinput" aria-describedby="titleHelp" placeholder="enter title"
+            title="US Code Title number" type="number" value="">
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label for="sectioninput">Section</label>
+        <input type="text" name="quicksearch" class="form-control" id="sectioninput" pattern="[A-Za-z0-9]+" placeholder="section"
+            title="US Code Section number" value="">
+    </div>
+    <button id="RedirectUSC" type="submit" class="btn btn-primary">Go!</button>
+</form>
+
+						
+						
+						<h1 class="title" id="page_title"> U.S. Code: Title 22 — FOREIGN RELATIONS AND INTERCOURSE </h1>
+<div class="tabbable-panel">
+<div class="tabbable-line">
+<ul class="nav nav-tabs ">
+<li class="active">
+<a data-toggle="tab" href="#tab_default_1">
+                        U.S. Code </a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="prevnext">
+<a href="/uscode/text/21" title="FOOD AND DRUGS">prev</a> | <a href="/uscode/text/23" title="HIGHWAYS">next</a>
+</div>
+<div class="tab-pane active" id="tab_default_1">
+<!-- 'text' content area -->
+<text><div class="text">
+<div class="title">
+</div>
+<div class="toc title">
+<ol class="list-unstyled">
+<li class="tocitem"><a aria-label="Chapter 1—Diplomatic And Consular Service Generally (§§ 1 – 135)" href="/uscode/text/22/chapter-1" title="DIPLOMATIC AND CONSULAR SERVICE GENERALLY">CHAPTER 1—DIPLOMATIC AND CONSULAR SERVICE GENERALLY (§§ 1 – 135)</a></li>
+<li class="tocitem"><a aria-label="Chapter 2—Consular Courts (§§ 141 – 183)" href="/uscode/text/22/chapter-2" title="CONSULAR COURTS">CHAPTER 2—CONSULAR COURTS (§§ 141 – 183)</a></li>
+<li class="tocitem"><a aria-label="Chapter 3—United States Court For China (§§ 191 – 202)" href="/uscode/text/22/chapter-3" title="UNITED STATES COURT FOR CHINA">CHAPTER 3—UNITED STATES COURT FOR CHINA (§§ 191 – 202)</a></li>
+<li class="tocitem"><a aria-label="Chapter 4—Passports (§§ 211 – 223)" href="/uscode/text/22/chapter-4" title="PASSPORTS">CHAPTER 4—PASSPORTS (§§ 211 – 223)</a></li>
+<li class="tocitem"><a aria-label="Chapter 5—Preservation Of Friendly Foreign Relations Generally (§§ 231 – 249)" href="/uscode/text/22/chapter-5" title="PRESERVATION OF FRIENDLY FOREIGN RELATIONS GENERALLY">CHAPTER 5—PRESERVATION OF FRIENDLY FOREIGN RELATIONS GENERALLY (§§ 231 – 249)</a></li>
+<li class="tocitem"><a aria-label="Chapter 6—Foreign Diplomatic And Consular Officers (§§ 251 – 259)" href="/uscode/text/22/chapter-6" title="FOREIGN DIPLOMATIC AND CONSULAR OFFICERS">CHAPTER 6—FOREIGN DIPLOMATIC AND CONSULAR OFFICERS (§§ 251 – 259)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-7" title="INTERNATIONAL BUREAUS, CONGRESSES, ETC.">CHAPTER 7—INTERNATIONAL BUREAUS, CONGRESSES, ETC. (Sections 261 – 276c–7)</a></li>
+<li class="tocitem"><a aria-label="Chapter 8—Foreign Service Buildings (§§ 291 – 306)" href="/uscode/text/22/chapter-8" title="FOREIGN SERVICE BUILDINGS">CHAPTER 8—FOREIGN SERVICE BUILDINGS (§§ 291 – 306)</a></li>
+<li class="tocitem"><a aria-label="Chapter 9—Foreign Wars, War Materials, And Neutrality (§§ 401 – 465)" href="/uscode/text/22/chapter-9" title="FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY">CHAPTER 9—FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY (§§ 401 – 465)</a></li>
+<li class="tocitem"><a aria-label="Chapter 10—Hemispheral Relations (§§ 501 – 527)" href="/uscode/text/22/chapter-10" title="HEMISPHERAL RELATIONS">CHAPTER 10—HEMISPHERAL RELATIONS (§§ 501 – 527)</a></li>
+<li class="tocitem"><a aria-label="Chapter 11—Foreign Agents And Propaganda (§§ 601 – 621)" href="/uscode/text/22/chapter-11" title="FOREIGN AGENTS AND PROPAGANDA">CHAPTER 11—FOREIGN AGENTS AND PROPAGANDA (§§ 601 – 621)</a></li>
+<li class="tocitem"><a aria-label="Chapter 12—Claims Commissions (§ 661)" href="/uscode/text/22/chapter-12" title="CLAIMS COMMISSIONS">CHAPTER 12—CLAIMS COMMISSIONS (§ 661)</a></li>
+<li class="tocitem"><a aria-label="Chapter 13—Service Courts Of Friendly Foreign Forces (§§ 701 – 706)" href="/uscode/text/22/chapter-13" title="SERVICE COURTS OF FRIENDLY FOREIGN FORCES">CHAPTER 13—SERVICE COURTS OF FRIENDLY FOREIGN FORCES (§§ 701 – 706)</a></li>
+<li class="tocitem"><a aria-label="Chapter 14—Foreign Service (§§ 801 – 1200)" href="/uscode/text/22/chapter-14" title="FOREIGN SERVICE">CHAPTER 14—FOREIGN SERVICE (§§ 801 – 1200)</a></li>
+<li class="tocitem"><a aria-label="Chapter 14A—Foreign Service Information Officers Corps (§ 1221)" href="/uscode/text/22/chapter-14A" title="FOREIGN SERVICE INFORMATION OFFICERS CORPS">CHAPTER 14A—FOREIGN SERVICE INFORMATION OFFICERS CORPS (§ 1221)</a></li>
+<li class="tocitem"><a aria-label="Chapter 15—The Republic Of The Philippines (§§ 1251 – 1395)" href="/uscode/text/22/chapter-15" title="THE REPUBLIC OF THE PHILIPPINES">CHAPTER 15—THE REPUBLIC OF THE PHILIPPINES (§§ 1251 – 1395)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16—Greek And Turkish Assistance (§ 1401)" href="/uscode/text/22/chapter-16" title="GREEK AND TURKISH ASSISTANCE">CHAPTER 16—GREEK AND TURKISH ASSISTANCE (§ 1401)</a></li>
+<li class="tocitem"><a aria-label="Chapter 17—Relief AID To War-Devastated Countries (§ 1411)" href="/uscode/text/22/chapter-17" title="RELIEF AID TO WAR-DEVASTATED COUNTRIES">CHAPTER 17—RELIEF AID TO WAR-DEVASTATED COUNTRIES (§ 1411)</a></li>
+<li class="tocitem"><a aria-label="Chapter 18—United States Information And Educational Exchange Programs (§§ 1431 – 1480)" href="/uscode/text/22/chapter-18" title="UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS">CHAPTER 18—UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS (§§ 1431 – 1480)</a></li>
+<li class="tocitem"><a aria-label="Chapter 19—Foreign Assistance Program (§§ 1501 – 1558)" href="/uscode/text/22/chapter-19" title="FOREIGN ASSISTANCE PROGRAM">CHAPTER 19—FOREIGN ASSISTANCE PROGRAM (§§ 1501 – 1558)</a></li>
+<li class="tocitem"><a aria-label="Chapter 20—Mutual Defense Assistance Program (§§ 1571 – 1601)" href="/uscode/text/22/chapter-20" title="MUTUAL DEFENSE ASSISTANCE PROGRAM">CHAPTER 20—MUTUAL DEFENSE ASSISTANCE PROGRAM (§§ 1571 – 1601)</a></li>
+<li class="tocitem"><a aria-label="Chapter 20A—Mutual Defense Assistance Control Program (§§ 1611 – 1613)" href="/uscode/text/22/chapter-20A" title="MUTUAL DEFENSE ASSISTANCE CONTROL PROGRAM">CHAPTER 20A—MUTUAL DEFENSE ASSISTANCE CONTROL PROGRAM (§§ 1611 – 1613)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-21" title="SETTLEMENT OF INTERNATIONAL CLAIMS">CHAPTER 21—SETTLEMENT OF INTERNATIONAL CLAIMS (§§ 1621 – 1645o)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-21A" title="SETTLEMENT OF INVESTMENT DISPUTES">CHAPTER 21A—SETTLEMENT OF INVESTMENT DISPUTES (§§ 1650 – 1650a)</a></li>
+<li class="tocitem"><a aria-label="Chapter 22—Mutual Security Assistance (§§ 1651 – 1711)" href="/uscode/text/22/chapter-22" title="MUTUAL SECURITY ASSISTANCE">CHAPTER 22—MUTUAL SECURITY ASSISTANCE (§§ 1651 – 1711)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-23" title="PROTECTION OF CITIZENS ABROAD">CHAPTER 23—PROTECTION OF CITIZENS ABROAD (§§ 1731 – 1741f)</a></li>
+<li class="tocitem"><a aria-label="Chapter 24—Mutual Security Program (§§ 1750 – 1951)" href="/uscode/text/22/chapter-24" title="MUTUAL SECURITY PROGRAM">CHAPTER 24—MUTUAL SECURITY PROGRAM (§§ 1750 – 1951)</a></li>
+<li class="tocitem"><a aria-label="Chapter 24A—Middle East Peace And Stability (§§ 1961 – 1965)" href="/uscode/text/22/chapter-24A" title="MIDDLE EAST PEACE AND STABILITY">CHAPTER 24A—MIDDLE EAST PEACE AND STABILITY (§§ 1961 – 1965)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-25" title="PROTECTION OF VESSELS ON THE HIGH SEAS AND IN TERRITORIAL WATERS OF FOREIGN COUNTRIES">CHAPTER 25—PROTECTION OF VESSELS ON THE HIGH SEAS AND IN TERRITORIAL WATERS OF FOREIGN COUNTRIES (§§ 1971 – 1980b)</a></li>
+<li class="tocitem"><a aria-label="Chapter 26—Armed Forces Participation In International Amateur Sports Competitions (§ 1981)" href="/uscode/text/22/chapter-26" title="ARMED FORCES PARTICIPATION IN INTERNATIONAL AMATEUR SPORTS COMPETITIONS">CHAPTER 26—ARMED FORCES PARTICIPATION IN INTERNATIONAL AMATEUR SPORTS COMPETITIONS (§ 1981)</a></li>
+<li class="tocitem"><a aria-label="Chapter 27—International Cultural Exchange And Trade Fair Participation (§ 1991)" href="/uscode/text/22/chapter-27" title="INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION">CHAPTER 27—INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION (§ 1991)</a></li>
+<li class="tocitem"><a aria-label="Chapter 28—International Atomic Energy Agency Participation (§§ 2021 – 2027)" href="/uscode/text/22/chapter-28" title="INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION">CHAPTER 28—INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION (§§ 2021 – 2027)</a></li>
+<li class="tocitem"><a aria-label="Chapter 29—Cultural, Technical, And Educational Centers (§§ 2051 – 2078)" href="/uscode/text/22/chapter-29" title="CULTURAL, TECHNICAL, AND EDUCATIONAL CENTERS">CHAPTER 29—CULTURAL, TECHNICAL, AND EDUCATIONAL CENTERS (§§ 2051 – 2078)</a></li>
+<li class="tocitem"><a aria-label="Chapter 29A—Inter-American Cultural And Trade Center (§§ 2081 – 2085)" href="/uscode/text/22/chapter-29A" title="INTER-AMERICAN CULTURAL AND TRADE CENTER">CHAPTER 29A—INTER-AMERICAN CULTURAL AND TRADE CENTER (§§ 2081 – 2085)</a></li>
+<li class="tocitem"><a aria-label="Chapter 30—International Cooperation In Health And Medical Research (§§ 2101 – 2104)" href="/uscode/text/22/chapter-30" title="INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH">CHAPTER 30—INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH (§§ 2101 – 2104)</a></li>
+<li class="tocitem"><a aria-label="Chapter 31—International Travel (§§ 2121 – 2131)" href="/uscode/text/22/chapter-31" title="INTERNATIONAL TRAVEL">CHAPTER 31—INTERNATIONAL TRAVEL (§§ 2121 – 2131)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-31A" title="NATIONAL TOURISM ORGANIZATION">CHAPTER 31A—NATIONAL TOURISM ORGANIZATION (§§ 2141 – 2141e)</a></li>
+<li class="tocitem"><a aria-label="Chapter 32—Foreign Assistance (§§ 2151 – 2441)" href="/uscode/text/22/chapter-32" title="FOREIGN ASSISTANCE">CHAPTER 32—FOREIGN ASSISTANCE (§§ 2151 – 2441)</a></li>
+<li class="tocitem"><a aria-label="Chapter 33—Mutual Educational And Cultural Exchange Program (§§ 2451 – 2465)" href="/uscode/text/22/chapter-33" title="MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM">CHAPTER 33—MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM (§§ 2451 – 2465)</a></li>
+<li class="tocitem"><a aria-label="Chapter 34—The Peace Corps (§§ 2501 – 2523)" href="/uscode/text/22/chapter-34" title="THE PEACE CORPS">CHAPTER 34—THE PEACE CORPS (§§ 2501 – 2523)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-35" title="ARMS CONTROL AND DISARMAMENT">CHAPTER 35—ARMS CONTROL AND DISARMAMENT (§§ 2551 – 2595d)</a></li>
+<li class="tocitem"><a aria-label="Chapter 36—Migration And Refugee Assistance (§§ 2601 – 2606)" href="/uscode/text/22/chapter-36" title="MIGRATION AND REFUGEE ASSISTANCE">CHAPTER 36—MIGRATION AND REFUGEE ASSISTANCE (§§ 2601 – 2606)</a></li>
+<li class="tocitem"><a aria-label="Chapter 37—Foreign Gifts And Decorations (§§ 2621 – 2626)" href="/uscode/text/22/chapter-37" title="FOREIGN GIFTS AND DECORATIONS">CHAPTER 37—FOREIGN GIFTS AND DECORATIONS (§§ 2621 – 2626)</a></li>
+<li class="tocitem"><a aria-label="Chapter 38—Department Of State (§§ 2651 – 2741)" href="/uscode/text/22/chapter-38" title="DEPARTMENT OF STATE">CHAPTER 38—DEPARTMENT OF STATE (§§ 2651 – 2741)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-39" title="ARMS EXPORT CONTROL">CHAPTER 39—ARMS EXPORT CONTROL (§§ 2751 – 2799aa–2)</a></li>
+<li class="tocitem"><a aria-label="Chapter 40—International Expositions (§§ 2801 – 2807)" href="/uscode/text/22/chapter-40" title="INTERNATIONAL EXPOSITIONS">CHAPTER 40—INTERNATIONAL EXPOSITIONS (§§ 2801 – 2807)</a></li>
+<li class="tocitem"><a aria-label="Chapter 41—Study Commission Relating To Foreign Policy (§ 2821)" href="/uscode/text/22/chapter-41" title="STUDY COMMISSION RELATING TO FOREIGN POLICY">CHAPTER 41—STUDY COMMISSION RELATING TO FOREIGN POLICY (§ 2821)</a></li>
+<li class="tocitem"><a aria-label="Chapter 42—International Economic Policy (§ 2841)" href="/uscode/text/22/chapter-42" title="INTERNATIONAL ECONOMIC POLICY">CHAPTER 42—INTERNATIONAL ECONOMIC POLICY (§ 2841)</a></li>
+<li class="tocitem"><a aria-label="Chapter 43—International Broadcasting (§§ 2871 – 2878)" href="/uscode/text/22/chapter-43" title="INTERNATIONAL BROADCASTING">CHAPTER 43—INTERNATIONAL BROADCASTING (§§ 2871 – 2878)</a></li>
+<li class="tocitem"><a aria-label="Chapter 44—Japan-United States Friendship (§§ 2901 – 2906)" href="/uscode/text/22/chapter-44" title="JAPAN-UNITED STATES FRIENDSHIP">CHAPTER 44—JAPAN-UNITED STATES FRIENDSHIP (§§ 2901 – 2906)</a></li>
+<li class="tocitem"><a aria-label="Chapter 45—Commission On Security And Cooperation In Europe (§§ 3001 – 3009)" href="/uscode/text/22/chapter-45" title="COMMISSION ON SECURITY AND COOPERATION IN EUROPE">CHAPTER 45—COMMISSION ON SECURITY AND COOPERATION IN EUROPE (§§ 3001 – 3009)</a></li>
+<li class="tocitem"><a aria-label="Chapter 46—International Investment And Trade In Services Survey (§§ 3101 – 3108)" href="/uscode/text/22/chapter-46" title="INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY">CHAPTER 46—INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY (§§ 3101 – 3108)</a></li>
+<li class="tocitem"><a aria-label="Chapter 46A—Foreign Direct Investment And International Financial DATA (§§ 3141 – 3146)" href="/uscode/text/22/chapter-46A" title="FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA">CHAPTER 46A—FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA (§§ 3141 – 3146)</a></li>
+<li class="tocitem"><a aria-label="Chapter 47—Nuclear Non-Proliferation (§§ 3201 – 3282)" href="/uscode/text/22/chapter-47" title="NUCLEAR NON-PROLIFERATION">CHAPTER 47—NUCLEAR NON-PROLIFERATION (§§ 3201 – 3282)</a></li>
+<li class="tocitem"><a aria-label="Chapter 48—Taiwan Relations (§§ 3301 – 3316)" href="/uscode/text/22/chapter-48" title="TAIWAN RELATIONS">CHAPTER 48—TAIWAN RELATIONS (§§ 3301 – 3316)</a></li>
+<li class="tocitem"><a aria-label="Chapter 48A—Taiwan Enhanced Resilience (§§ 3351 – 3392)" href="/uscode/text/22/chapter-48A" title="TAIWAN ENHANCED RESILIENCE">CHAPTER 48A—TAIWAN ENHANCED RESILIENCE (§§ 3351 – 3392)</a></li>
+<li class="tocitem"><a aria-label="Chapter 49—Support Of Peace Treaty Between Egypt And Israel (§§ 3401 – 3427)" href="/uscode/text/22/chapter-49" title="SUPPORT OF PEACE TREATY BETWEEN EGYPT AND ISRAEL">CHAPTER 49—SUPPORT OF PEACE TREATY BETWEEN EGYPT AND ISRAEL (§§ 3401 – 3427)</a></li>
+<li class="tocitem"><a aria-label="Chapter 50—Institute For Scientific And Technological Cooperation (§§ 3501 – 3513)" href="/uscode/text/22/chapter-50" title="INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION">CHAPTER 50—INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION (§§ 3501 – 3513)</a></li>
+<li class="tocitem"><a aria-label="Chapter 51—Panama Canal (§§ 3601 – 3873)" href="/uscode/text/22/chapter-51" title="PANAMA CANAL">CHAPTER 51—PANAMA CANAL (§§ 3601 – 3873)</a></li>
+<li class="tocitem"><a aria-label="Chapter 52—Foreign Service (§§ 3901 – 4226)" href="/uscode/text/22/chapter-52" title="FOREIGN SERVICE">CHAPTER 52—FOREIGN SERVICE (§§ 3901 – 4226)</a></li>
+<li class="tocitem"><a aria-label="Chapter 53—Authorities Relating To The Regulation Of Foreign Missions (§§ 4301 – 4316)" href="/uscode/text/22/chapter-53" title="AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS">CHAPTER 53—AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS (§§ 4301 – 4316)</a></li>
+<li class="tocitem"><a aria-label="Chapter 53A—Disposition Of Personal Property Abroad (§§ 4341 – 4343)" href="/uscode/text/22/chapter-53A" title="DISPOSITION OF PERSONAL PROPERTY ABROAD">CHAPTER 53A—DISPOSITION OF PERSONAL PROPERTY ABROAD (§§ 4341 – 4343)</a></li>
+<li class="tocitem"><a aria-label="Chapter 53B—Foreign Relations Of The United States Historical Series (§§ 4351 – 4357)" href="/uscode/text/22/chapter-53B" title="FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES">CHAPTER 53B—FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES (§§ 4351 – 4357)</a></li>
+<li class="tocitem"><a aria-label="Chapter 54—Private Organization Assistance (§§ 4401 – 4416)" href="/uscode/text/22/chapter-54" title="PRIVATE ORGANIZATION ASSISTANCE">CHAPTER 54—PRIVATE ORGANIZATION ASSISTANCE (§§ 4401 – 4416)</a></li>
+<li class="tocitem"><a aria-label="Chapter 55—Research And Training For Eastern Europe And Independent States Of Former Soviet Union (§§ 4501 – 4509)" href="/uscode/text/22/chapter-55" title="RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION">CHAPTER 55—RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION (§§ 4501 – 4509)</a></li>
+<li class="tocitem"><a aria-label="Chapter 56—United States Institute Of Peace (§§ 4601 – 4611)" href="/uscode/text/22/chapter-56" title="UNITED STATES INSTITUTE OF PEACE">CHAPTER 56—UNITED STATES INSTITUTE OF PEACE (§§ 4601 – 4611)</a></li>
+<li class="tocitem"><a aria-label="Chapter 57—United States Scholarship Program For Developing Countries (§§ 4701 – 4715)" href="/uscode/text/22/chapter-57" title="UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES">CHAPTER 57—UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES (§§ 4701 – 4715)</a></li>
+<li class="tocitem"><a aria-label="Chapter 58—Diplomatic Security (§§ 4801 – 4868)" href="/uscode/text/22/chapter-58" title="DIPLOMATIC SECURITY">CHAPTER 58—DIPLOMATIC SECURITY (§§ 4801 – 4868)</a></li>
+<li class="tocitem"><a aria-label="Chapter 59—Fascell Fellowship Program (§§ 4901 – 4904)" href="/uscode/text/22/chapter-59" title="FASCELL FELLOWSHIP PROGRAM">CHAPTER 59—FASCELL FELLOWSHIP PROGRAM (§§ 4901 – 4904)</a></li>
+<li class="tocitem"><a aria-label="Chapter 60—Anti-Apartheid Program (§§ 5001 – 5117)" href="/uscode/text/22/chapter-60" title="ANTI-APARTHEID PROGRAM">CHAPTER 60—ANTI-APARTHEID PROGRAM (§§ 5001 – 5117)</a></li>
+<li class="tocitem"><a aria-label="Chapter 61—Anti-Terrorism—Plo (§§ 5201 – 5203)" href="/uscode/text/22/chapter-61" title="ANTI-TERRORISM—PLO">CHAPTER 61—ANTI-TERRORISM—PLO (§§ 5201 – 5203)</a></li>
+<li class="tocitem"><a aria-label="Chapter 62—International Financial Policy (§§ 5301 – 5354)" href="/uscode/text/22/chapter-62" title="INTERNATIONAL FINANCIAL POLICY">CHAPTER 62—INTERNATIONAL FINANCIAL POLICY (§§ 5301 – 5354)</a></li>
+<li class="tocitem"><a aria-label="Chapter 63—Support For East European Democracy (Seed) (§§ 5401 – 5495)" href="/uscode/text/22/chapter-63" title="SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED)">CHAPTER 63—SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED) (§§ 5401 – 5495)</a></li>
+<li class="tocitem"><a aria-label="Chapter 64—United States Response To Terrorism Affecting Americans Abroad (§§ 5501 – 5513)" href="/uscode/text/22/chapter-64" title="UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD">CHAPTER 64—UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD (§§ 5501 – 5513)</a></li>
+<li class="tocitem"><a aria-label="Chapter 65—Control And Elimination Of Chemical And Biological Weapons (§§ 5601 – 5606)" href="/uscode/text/22/chapter-65" title="CONTROL AND ELIMINATION OF CHEMICAL AND BIOLOGICAL WEAPONS">CHAPTER 65—CONTROL AND ELIMINATION OF CHEMICAL AND BIOLOGICAL WEAPONS (§§ 5601 – 5606)</a></li>
+<li class="tocitem"><a aria-label="Chapter 66—United States-Hong Kong Policy (§§ 5701 – 5732)" href="/uscode/text/22/chapter-66" title="UNITED STATES-HONG KONG POLICY">CHAPTER 66—UNITED STATES-HONG KONG POLICY (§§ 5701 – 5732)</a></li>
+<li class="tocitem"><a aria-label="Chapter 67—Freedom For Russia And Emerging Eurasian Democracies And Open Markets Support (§§ 5801 – 5874)" href="/uscode/text/22/chapter-67" title="FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT">CHAPTER 67—FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT (§§ 5801 – 5874)</a></li>
+<li class="tocitem"><a aria-label="Chapter 68—Demilitarization Of Former Soviet Union (§§ 5901 – 5931)" href="/uscode/text/22/chapter-68" title="DEMILITARIZATION OF FORMER SOVIET UNION">CHAPTER 68—DEMILITARIZATION OF FORMER SOVIET UNION (§§ 5901 – 5931)</a></li>
+<li class="tocitem"><a aria-label="Chapter 68A—Cooperative Threat Reduction With States Of Former Soviet Union (§§ 5951 – 5964)" href="/uscode/text/22/chapter-68A" title="COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION">CHAPTER 68A—COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION (§§ 5951 – 5964)</a></li>
+<li class="tocitem"><a aria-label="Chapter 69—Cuban Democracy (§§ 6001 – 6010)" href="/uscode/text/22/chapter-69" title="CUBAN DEMOCRACY">CHAPTER 69—CUBAN DEMOCRACY (§§ 6001 – 6010)</a></li>
+<li class="tocitem"><a aria-label="Chapter 69A—Cuban Liberty And Democratic Solidarity (Libertad) (§§ 6021 – 6091)" href="/uscode/text/22/chapter-69A" title="CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD)">CHAPTER 69A—CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD) (§§ 6021 – 6091)</a></li>
+<li class="tocitem"><a aria-label="Chapter 70—Mansfield Fellowship Program (§§ 6101 – 6106)" href="/uscode/text/22/chapter-70" title="MANSFIELD FELLOWSHIP PROGRAM">CHAPTER 70—MANSFIELD FELLOWSHIP PROGRAM (§§ 6101 – 6106)</a></li>
+<li class="tocitem"><a aria-label="Chapter 71—United States International Broadcasting (§§ 6201 – 6217)" href="/uscode/text/22/chapter-71" title="UNITED STATES INTERNATIONAL BROADCASTING">CHAPTER 71—UNITED STATES INTERNATIONAL BROADCASTING (§§ 6201 – 6217)</a></li>
+<li class="tocitem"><a aria-label="Chapter 72—Nuclear Proliferation Prevention (§§ 6301 – 6324)" href="/uscode/text/22/chapter-72" title="NUCLEAR PROLIFERATION PREVENTION">CHAPTER 72—NUCLEAR PROLIFERATION PREVENTION (§§ 6301 – 6324)</a></li>
+<li class="tocitem"><a aria-label="Chapter 73—International Religious Freedom (§§ 6401 – 6483)" href="/uscode/text/22/chapter-73" title="INTERNATIONAL RELIGIOUS FREEDOM">CHAPTER 73—INTERNATIONAL RELIGIOUS FREEDOM (§§ 6401 – 6483)</a></li>
+<li class="tocitem"><a aria-label="Chapter 74—Foreign Affairs Agencies Consolidation (§§ 6501 – 6617)" href="/uscode/text/22/chapter-74" title="FOREIGN AFFAIRS AGENCIES CONSOLIDATION">CHAPTER 74—FOREIGN AFFAIRS AGENCIES CONSOLIDATION (§§ 6501 – 6617)</a></li>
+<li class="tocitem"><a aria-label="Chapter 75—Chemical Weapons Convention Implementation (§§ 6701 – 6771)" href="/uscode/text/22/chapter-75" title="CHEMICAL WEAPONS CONVENTION IMPLEMENTATION">CHAPTER 75—CHEMICAL WEAPONS CONVENTION IMPLEMENTATION (§§ 6701 – 6771)</a></li>
+<li class="tocitem"><a aria-label="Chapter 76—Assistance To Countries With Large Populations Having HIV/AIDS (§§ 6801 – 6842)" href="/uscode/text/22/chapter-76" title="ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS">CHAPTER 76—ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS (§§ 6801 – 6842)</a></li>
+<li class="tocitem"><a aria-label="Chapter 77—United States-China Relations (§§ 6901 – 7002)" href="/uscode/text/22/chapter-77" title="UNITED STATES-CHINA RELATIONS">CHAPTER 77—UNITED STATES-CHINA RELATIONS (§§ 6901 – 7002)</a></li>
+<li class="tocitem"><a aria-label="Chapter 78—Trafficking Victims Protection (§§ 7101 – 7115)" href="/uscode/text/22/chapter-78" title="TRAFFICKING VICTIMS PROTECTION">CHAPTER 78—TRAFFICKING VICTIMS PROTECTION (§§ 7101 – 7115)</a></li>
+<li class="tocitem"><a aria-label="Chapter 79—Trade Sanctions Reform And Export Enhancement (§§ 7201 – 7211)" href="/uscode/text/22/chapter-79" title="TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT">CHAPTER 79—TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT (§§ 7201 – 7211)</a></li>
+<li class="tocitem"><a aria-label="Chapter 80—Diplomatic Telecommunications Service Program Office (Dts-Po) (§§ 7301 – 7304)" href="/uscode/text/22/chapter-80" title="DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO)">CHAPTER 80—DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO) (§§ 7301 – 7304)</a></li>
+<li class="tocitem"><a aria-label="Chapter 81—International Criminal Court (§§ 7401 – 7433)" href="/uscode/text/22/chapter-81" title="INTERNATIONAL CRIMINAL COURT">CHAPTER 81—INTERNATIONAL CRIMINAL COURT (§§ 7401 – 7433)</a></li>
+<li class="tocitem"><a aria-label="Chapter 82—Afghanistan Freedom Support (§§ 7501 – 7556)" href="/uscode/text/22/chapter-82" title="AFGHANISTAN FREEDOM SUPPORT">CHAPTER 82—AFGHANISTAN FREEDOM SUPPORT (§§ 7501 – 7556)</a></li>
+<li class="tocitem"><a aria-label="Chapter 83—United States Leadership Against Hiv/Aids, Tuberculosis, And Malaria (§§ 7601 – 7682)" href="/uscode/text/22/chapter-83" title="UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA">CHAPTER 83—UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA (§§ 7601 – 7682)</a></li>
+<li class="tocitem"><a aria-label="Chapter 84—Millennium Challenge (§§ 7701 – 7718)" href="/uscode/text/22/chapter-84" title="MILLENNIUM CHALLENGE">CHAPTER 84—MILLENNIUM CHALLENGE (§§ 7701 – 7718)</a></li>
+<li class="tocitem"><a aria-label="Chapter 85—North Korean Human Rights (§§ 7801 – 7846)" href="/uscode/text/22/chapter-85" title="NORTH KOREAN HUMAN RIGHTS">CHAPTER 85—NORTH KOREAN HUMAN RIGHTS (§§ 7801 – 7846)</a></li>
+<li class="tocitem"><a aria-label="Chapter 86—Climate Change Technology Deployment In Developing Countries (§§ 7901 – 7909)" href="/uscode/text/22/chapter-86" title="CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES">CHAPTER 86—CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES (§§ 7901 – 7909)</a></li>
+<li class="tocitem"><a aria-label="Chapter 87—United States And India Nuclear Cooperation (§§ 8001 – 8008)" href="/uscode/text/22/chapter-87" title="UNITED STATES AND INDIA NUCLEAR COOPERATION">CHAPTER 87—UNITED STATES AND INDIA NUCLEAR COOPERATION (§§ 8001 – 8008)</a></li>
+<li class="tocitem"><a aria-label="Chapter 88—Nuclear Non-Proliferation Treaty—United States Additional Protocol Implementation (§§ 8101 – 8181)" href="/uscode/text/22/chapter-88" title="NUCLEAR NON-PROLIFERATION TREATY—UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION">CHAPTER 88—NUCLEAR NON-PROLIFERATION TREATY—UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION (§§ 8101 – 8181)</a></li>
+<li class="tocitem"><a aria-label="Chapter 89—Advancing Democratic Values (§§ 8201 – 8262)" href="/uscode/text/22/chapter-89" title="ADVANCING DEMOCRATIC VALUES">CHAPTER 89—ADVANCING DEMOCRATIC VALUES (§§ 8201 – 8262)</a></li>
+<li class="tocitem"><a aria-label="Chapter 90—Volunteers For Prosperity Program (§§ 8301 – 8304)" href="/uscode/text/22/chapter-90" title="VOLUNTEERS FOR PROSPERITY PROGRAM">CHAPTER 90—VOLUNTEERS FOR PROSPERITY PROGRAM (§§ 8301 – 8304)</a></li>
+<li class="tocitem"><a aria-label="Chapter 91—Enhanced Partnership With Pakistan (§§ 8401 – 8442)" href="/uscode/text/22/chapter-91" title="ENHANCED PARTNERSHIP WITH PAKISTAN">CHAPTER 91—ENHANCED PARTNERSHIP WITH PAKISTAN (§§ 8401 – 8442)</a></li>
+<li class="tocitem"><a aria-label="Chapter 92—Comprehensive Iran Sanctions, Accountability, And Divestment (§§ 8501 – 8575)" href="/uscode/text/22/chapter-92" title="COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT">CHAPTER 92—COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT (§§ 8501 – 8575)</a></li>
+<li class="tocitem"><a aria-label="Chapter 93—United States-Israel Cooperation (§§ 8601 – 8607)" href="/uscode/text/22/chapter-93" title="UNITED STATES-ISRAEL COOPERATION">CHAPTER 93—UNITED STATES-ISRAEL COOPERATION (§§ 8601 – 8607)</a></li>
+<li class="tocitem"><a aria-label="Chapter 94—Iran Threat Reduction And Syria Human Rights (§§ 8701 – 8795)" href="/uscode/text/22/chapter-94" title="IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS">CHAPTER 94—IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS (§§ 8701 – 8795)</a></li>
+<li class="tocitem"><a aria-label="Chapter 95—Iran Freedom And Counterproliferation (§§ 8801 – 8811)" href="/uscode/text/22/chapter-95" title="IRAN FREEDOM AND COUNTERPROLIFERATION">CHAPTER 95—IRAN FREEDOM AND COUNTERPROLIFERATION (§§ 8801 – 8811)</a></li>
+<li class="tocitem"><a aria-label="Chapter 96—Sovereignty, Integrity, Democracy, And Economic Stability Of Ukraine (§§ 8901 – 8910)" href="/uscode/text/22/chapter-96" title="SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE">CHAPTER 96—SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE (§§ 8901 – 8910)</a></li>
+<li class="tocitem"><a aria-label="Chapter 96A—Ukraine Freedom Support (§§ 8921 – 8930)" href="/uscode/text/22/chapter-96A" title="UKRAINE FREEDOM SUPPORT">CHAPTER 96A—UKRAINE FREEDOM SUPPORT (§§ 8921 – 8930)</a></li>
+<li class="tocitem"><a aria-label="Chapter 97—International Child Abduction Remedies (§§ 9001 – 9011)" href="/uscode/text/22/chapter-97" title="INTERNATIONAL CHILD ABDUCTION REMEDIES">CHAPTER 97—INTERNATIONAL CHILD ABDUCTION REMEDIES (§§ 9001 – 9011)</a></li>
+<li class="tocitem"><a aria-label="Chapter 98—International Child Abduction Prevention And Return (§§ 9101 – 9141)" href="/uscode/text/22/chapter-98" title="INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN">CHAPTER 98—INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN (§§ 9101 – 9141)</a></li>
+<li class="tocitem"><a href="/uscode/text/22/chapter-99" title="NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT">CHAPTER 99—NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT (§§ 9201 – 9269d)</a></li>
+<li class="tocitem"><a aria-label="Chapter 100—Global Food Security (§§ 9301 – 9308)" href="/uscode/text/22/chapter-100" title="GLOBAL FOOD SECURITY">CHAPTER 100—GLOBAL FOOD SECURITY (§§ 9301 – 9308)</a></li>
+<li class="tocitem"><a aria-label="Chapter 101—Countering Iran’S Destabilizing Activities (§§ 9401 – 9412)" href="/uscode/text/22/chapter-101" title="COUNTERING IRAN’S DESTABILIZING ACTIVITIES">CHAPTER 101—COUNTERING IRAN’S DESTABILIZING ACTIVITIES (§§ 9401 – 9412)</a></li>
+<li class="tocitem"><a aria-label="Chapter 101A—Fight And Combat Rampant Iranian Missile Exports (§§ 9421 – 9424)" href="/uscode/text/22/chapter-101A" title="FIGHT AND COMBAT RAMPANT IRANIAN MISSILE EXPORTS">CHAPTER 101A—FIGHT AND COMBAT RAMPANT IRANIAN MISSILE EXPORTS (§§ 9421 – 9424)</a></li>
+<li class="tocitem"><a aria-label="Chapter 102—Countering Russian Influence In Europe And Eurasia (§§ 9501 – 9564)" href="/uscode/text/22/chapter-102" title="COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA">CHAPTER 102—COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA (§§ 9501 – 9564)</a></li>
+<li class="tocitem"><a aria-label="Chapter 103—Better Utilization Of Investments Leading To Development (§§ 9601 – 9689)" href="/uscode/text/22/chapter-103" title="BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT">CHAPTER 103—BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT (§§ 9601 – 9689)</a></li>
+<li class="tocitem"><a aria-label="Chapter 104—Venezuela Assistance (§§ 9701 – 9763)" href="/uscode/text/22/chapter-104" title="VENEZUELA ASSISTANCE">CHAPTER 104—VENEZUELA ASSISTANCE (§§ 9701 – 9763)</a></li>
+<li class="tocitem"><a aria-label="Chapter 105—Global Fragility (§§ 9801 – 9810)" href="/uscode/text/22/chapter-105" title="GLOBAL FRAGILITY">CHAPTER 105—GLOBAL FRAGILITY (§§ 9801 – 9810)</a></li>
+<li class="tocitem"><a aria-label="Chapter 106—Championing American Business Through Diplomacy (§§ 9901 – 9906)" href="/uscode/text/22/chapter-106" title="CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY">CHAPTER 106—CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY (§§ 9901 – 9906)</a></li>
+<li class="tocitem"><a aria-label="Chapter 107—Sudan Democratic Transition, Accountability, And Fiscal Transparency (§§ 10001 – 10012)" href="/uscode/text/22/chapter-107" title="SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY">CHAPTER 107—SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY (§§ 10001 – 10012)</a></li>
+<li class="tocitem"><a aria-label="Chapter 108—Global Magnitsky Human Rights Accountability (§§ 10101 – 10103)" href="/uscode/text/22/chapter-108" title="GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY">CHAPTER 108—GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY (§§ 10101 – 10103)</a></li>
+<li class="tocitem"><a aria-label="Chapter 109—Burma Unified Through Rigorous Military Accountability (§§ 10201 – 10261)" href="/uscode/text/22/chapter-109" title="BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY">CHAPTER 109—BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY (§§ 10201 – 10261)</a></li>
+<li class="tocitem"><a aria-label="Chapter 110—Information Security And Cyber Diplomacy (§§ 10301 – 10308)" href="/uscode/text/22/chapter-110" title="INFORMATION SECURITY AND CYBER DIPLOMACY">CHAPTER 110—INFORMATION SECURITY AND CYBER DIPLOMACY (§§ 10301 – 10308)</a></li>
+<li class="tocitem"><a aria-label="Chapter 111—Australia, United Kingdom, And United States (Aukus) Security Partnership (§§ 10401 – 10433)" href="/uscode/text/22/chapter-111" title="AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP">CHAPTER 111—AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP (§§ 10401 – 10433)</a></li>
+<li class="tocitem"><a aria-label="Chapter 112—Combating Global Corruption (§§ 10501 – 10505)" href="/uscode/text/22/chapter-112" title="COMBATING GLOBAL CORRUPTION">CHAPTER 112—COMBATING GLOBAL CORRUPTION (§§ 10501 – 10505)</a></li>
+<li class="tocitem"><a aria-label="Chapter 113—United States Foundation For International Conservation (§§ 10601 – 10609)" href="/uscode/text/22/chapter-113" title="UNITED STATES FOUNDATION FOR INTERNATIONAL CONSERVATION">CHAPTER 113—UNITED STATES FOUNDATION FOR INTERNATIONAL CONSERVATION (§§ 10601 – 10609)</a></li>
+</ol>
+</div>
+</div></text>
+</div>
+<div class="tab-pane" id="tab_default_2">
+<!-- 'notes' content area -->
+</div>
+</div>
+</div>
+</div>
+						
+						
+					</div>
+				</div>
+			</div>
+			
+
+			<div id="page-bottom" aria-hidden="true">
+				<div class="region region-bottom">
+					<div id="block-liidfp-2" class="block block-liidfp first last odd">
+
+
+						<div class="gfs">
+							<div id="div-gpt-ad-bottom" data-google-query-id="CNH77Z7C7d8CFURLAQodp9oMpg">
+								<script type="text/javascript">
+									googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+								</script>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+
+		<aside id="supersizeme" class="col-sm-4" aria-label="Sponsor Listings and Toolbox panel">
+			
+			<div class="block" id="toolbox">
+
+				<h2 class="title toolbox"><span class="glyphicon glyphicon-briefcase"></span> U.S. Code Toolbox
+				</h2>
+
+				
+<div class="clear-block wexlink">
+    <a href="/wex/wex_articles">Law about... Articles from Wex</a>
+</div>
+<div id="topnlink" class="toolboxlink">
+    <a href="/topn">Table of Popular Names</a>
+</div>
+<div id="ptoalink" class="toolboxlink">
+    <a href="/ptoa">Parallel Table of Authorities</a>
+</div>
+<div id="updatelink" class="toolboxlink">
+    <a href=/uscode/about/how-current>How
+        current is this?</a>
+</div>
+
+
+				
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<div class="addthis_sharing_toolbox"></div>
+
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<script type="text/javascript">
+					var addthis_config = {
+						data_track_addressbar: false,
+						data_track_clickback: true,
+						publid: 'liiadverts',
+						ui_tabindex: 0,
+						ui_508_compliant: true
+					};
+					var addthis_share = {
+						url_transforms: {
+							shorten: {
+								twitter: 'bitly'
+							}
+						},
+						shorteners: {
+							bitly: {
+								login: 'liicornell',
+								apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+							}
+						},
+						passthrough: {
+							twitter: {
+								via: 'LIICornell'
+							}
+						}
+					};
+				</script>
+
+				<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=liiadverts"
+					async="async"></script>
+
+				
+
+			</div>
+			
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-top'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-middle'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			
+			<div id="block-lii-justia-find-lawyers-sidebar" class="block block-lii last even">
+				<div id="block-lii-justia-lawyers" class="block block-lii last even">
+					<div class="sidebar">
+						<div class="results-sponsored">
+							<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+								data-domain="lawyers.law.cornell.edu">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+		</aside>
+
+
+	</main>
+
+	<footer id="liifooter" class="container-fluid">
+		<ul id="liifooternav" class="nav navbar-nav">
+			<li class="first">
+				<a href="/lii/about/accessibility" class="nav">Accessibility</a>
+			</li>
+			<li class="first">
+				<a href="/lii/about/about_lii" class="nav">About LII</a>
+			</li>
+			<li>
+				<a href="/lii/about/contact_us" class="nav">Contact us</a>
+			</li>
+			<li>
+				<a href="/lii/help_out/sponsor">Advertise here</a>
+			</li>
+			<li>
+				<a href="/lii/help" class="nav">Help</a>
+			</li>
+			<li>
+				<a href="/lii/terms/documentation" class="nav">Terms of use</a>
+			</li>
+			<li class="last">
+				<a href="/lii/terms/privacy_policy" class="nav">Privacy</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li>
+				<a href="/" title="LII home page">
+					<img width="62" height="43"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+						alt="LII logo">
+				</a>
+			</li>
+		</ul>
+	</footer>
+
+	<script>
+		jQuery(document).ready(function () {
+			jQuery("#liisearchlink").click(function () {
+				jQuery("#liisearch").toggle('slide');
+				jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+			});
+		});
+
+		jQuery(document).ready(function () {
+			jQuery('[data-toggle="tooltip"]').each(function () {
+				var $elem = jQuery(this);
+				$elem.tooltip({
+					html: true,
+					container: $elem,
+					delay: { hide: 400 }
+				});
+			});
+		});
+	</script>
+
+	
+	<script type="text/javascript" src="/staticsite_scripts/htmldiff.js"> </script>
+	 
+	<script type="text/javascript" src="/staticsite_scripts/lii_scriptinator.min.js"> </script>
+	 
+	
+	<script>
+		window.addEventListener("load", function () {
+			window.cookieconsent.initialise(
+				{
+					"palette": {
+						"popup": {
+							"background": "#000"
+						}, "button": {
+							"background": "#f1d600"
+						}
+					}
+				})
+		});
+	</script>
+	
+
+</body>

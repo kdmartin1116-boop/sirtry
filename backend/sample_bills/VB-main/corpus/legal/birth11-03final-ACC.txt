@@ -1,0 +1,889 @@
+LOCAL FILE NO. 
+
+C H I L D   1.  CHILD’S NAME (First, Middle, Last, Suffix) 
+
+2.  TIME OF BIRTH 
+                    (24 hr) 
+
+BIRTH NUMBER:               
+
+3. SEX 
+
+4.  DATE OF BIRTH (Mo/Day/Yr) 
+
+U.S. STANDARD CERTIFICATE OF LIVE BIRTH 
+
+ 5. FACILITY NAME (If not institution, give street and number) 
+
+ 6. CITY, TOWN, OR LOCATION OF BIRTH 
+
+ 7.  COUNTY OF BIRTH 
+
+M O T H E R   8a.  MOTHER’S CURRENT LEGAL NAME (First, Middle, Last, Suffix) 
+
+8b.  DATE OF BIRTH (Mo/Day/Yr)  
+
+ 8c.  MOTHER’S NAME PRIOR TO FIRST MARRIAGE (First, Middle, Last, Suffix) 
+
+ 8d.  BIRTHPLACE (State, Territory, or Foreign Country)  
+
+ 9a. RESIDENCE OF MOTHER-STATE 
+
+ 9b.  COUNTY 
+
+ 9c.  CITY, TOWN, OR LOCATION 
+
+ 9d.  STREET AND NUMBER 
+
+ 9e.  APT. NO. 
+
+ 9f.  ZIP CODE 
+
+ 9g.  INSIDE CITY 
+          LIMITS? 
+
+     □   Yes   □  No 
+
+F A T H E R   10a.  FATHER’S CURRENT LEGAL NAME (First, Middle, Last, Suffix) 
+
+ 10b.  DATE OF BIRTH (Mo/Day/Yr)  
+
+ 10c.  BIRTHPLACE (State, Territory, or Foreign Country)   
+
+C E R T I F I E R   11.  CERTIFIER’S NAME:    _______________________________________________ 
+ TITLE: □  MD    □   DO    □  HOSPITAL  ADMIN.   □ CNM/CM    □  OTHER MIDWIFE 
+
+             □   OTHER (Specify)_____________________________ 
+
+ 12.  DATE CERTIFIED  
+
+ 13.  DATE FILED BY REGISTRAR 
+
+       ______/ ______ / __________ 
+
+       ______/ ______ / __________ 
+
+          MM       DD           YYYY 
+
+          MM       DD           YYYY 
+
+M O T H E R  14.  MOTHER’S MAILING ADDRESS:     9 Same as residence, or:      State:                                                               City, Town, or Location: 
+
+INFORMATION FOR ADMINISTRATIVE USE 
+
+    Street & Number:                                                                                                                                                               Apartment No.:                                              Zip Code:  
+
+15. MOTHER MARRIED? (At birth, conception, or any time between)                                     □ Yes     □ No 
+       IF NO, HAS PATERNITY ACKNOWLEDGEMENT BEEN SIGNED IN THE HOSPITAL?  □ Yes    □ No 
+
+ 16.  SOCIAL SECURITY NUMBER REQUESTED  
+        FOR CHILD?        □  Yes   □  No 
+
+ 17.  FACILITY ID. (NPI)
+
+18.  MOTHER’S SOCIAL SECURITY NUMBER:                                                                         
+
+19.  FATHER’S SOCIAL SECURITY NUMBER: 
+
+M O T H E R  
+
+20. MOTHER’S EDUCATION (Check the 
+       box that best describes the highest 
+       degree or level of school completed at 
+       the time of delivery)  
+
+21.  MOTHER OF HISPANIC ORIGIN?  (Check  
+       the box that best describes whether the  
+       mother is Spanish/Hispanic/Latina. Check the  
+       “No” box if  mother is not Spanish/Hispanic/Latina) 
+
+INFORMATION FOR MEDICAL AND HEALTH PURPOSES ONLY 
+
+  □   No, not Spanish/Hispanic/Latina 
+
+  □   Yes, Mexican, Mexican American, Chicana 
+
+  □   Yes, Puerto Rican 
+
+  □   Yes, Cuban 
+
+  □   Yes, other Spanish/Hispanic/Latina 
+
+     (Specify)_____________________________ 
+
+  □   8th grade or less 
+
+  □   9th - 12th grade, no diploma 
+
+  □   High school graduate or GED 
+         completed  
+
+  □   Some college credit but no degree 
+
+  □   Associate degree (e.g., AA, AS) 
+
+  □   Bachelor’s degree (e.g., BA, AB, BS) 
+
+□   Master’s degree (e.g., MA, MS,   
+       MEng,  MEd, MSW, MBA) 
+
+  □  Doctorate (e.g., PhD, EdD) or 
+        Professional degree (e.g., MD, DDS, 
+        DVM, LLB, JD) 
+
+F A T H E R 
+
+23. FATHER’S EDUCATION (Check the 
+       box that best describes the highest 
+       degree or level of school completed at 
+       the time of delivery)  
+
+24.  FATHER OF HISPANIC ORIGIN?  (Check  
+       the box that best describes whether the  
+       father is Spanish/Hispanic/Latino.  Check the  
+       “No” box if  father is not Spanish/Hispanic/Latino) 
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+d
+r
+o
+c
+e
+R
+
+l
+a
+c
+i
+d
+e
+M
+s
+’
+r
+e
+h
+t
+o
+  M
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+e
+m
+a
+N
+s
+’
+r
+e
+h
+t
+o
+M
+
+.
+
+o
+N
+
+  □   8th grade or less 
+
+   □    9th - 12th grade, no diploma 
+
+  □   High school graduate or GED 
+         completed  
+
+  □   Some college credit but no degree 
+
+  □   Associate degree (e.g., AA, AS) 
+
+  □   Bachelor’s degree (e.g., BA, AB, BS) 
+
+□   Master’s degree (e.g., MA, MS,   
+      MEng,  MEd, MSW, MBA) 
+
+  □  Doctorate (e.g., PhD, EdD) or 
+        Professional degree (e.g., MD, DDS, 
+        DVM, LLB, JD) 
+
+  □   No, not Spanish/Hispanic/Latino 
+
+  □   Yes, Mexican, Mexican American, Chicano 
+
+  □   Yes, Puerto Rican 
+
+  □   Yes, Cuban 
+
+  □   Yes, other Spanish/Hispanic/Latino 
+
+     (Specify)_____________________________ 
+
+22.  MOTHER’S RACE (Check one or more races to indicate  
+       what the mother  considers herself  to be) 
+  □    White 
+  □   Black or African American 
+  □   American Indian or Alaska Native  
+        (Name of the enrolled or principal tribe)________________ 
+  □   Asian Indian 
+  □  Chinese 
+  □  Filipino 
+  □  Japanese 
+  □  Korean 
+   □  Vietnamese  
+  □  Other Asian (Specify)______________________________ 
+  □  Native Hawaiian 
+  □  Guamanian or Chamorro 
+  □  Samoan 
+  □  Other Pacific Islander (Specify)______________________ 
+  □  Other (Specify)___________________________________ 
+
+25.  FATHER’S RACE (Check one or more races to indicate  
+       what the father  considers himself to be) 
+
+  □    White 
+  □   Black or African American 
+  □   American Indian or Alaska Native  
+        (Name of the enrolled or principal tribe)________________ 
+  □   Asian Indian 
+  □  Chinese 
+  □  Filipino 
+  □  Japanese 
+  □  Korean 
+   □ Vietnamese  
+  □  Other Asian (Specify)______________________________ 
+  □  Native Hawaiian 
+  □  Guamanian or Chamorro 
+  □  Samoan 
+  □  Other Pacific Islander (Specify)______________________ 
+  □  Other (Specify)___________________________________ 
+
+ 26.  PLACE WHERE BIRTH OCCURRED (Check one) 
+ □  Hospital 
+ □  Freestanding birthing center 
+ □  Home Birth: Planned to deliver at home? 9 Yes  9 No 
+ □  Clinic/Doctor’s office  
+ □  Other (Specify)_______________________ 
+
+ 27.   ATTENDANT’S NAME, TITLE, AND NPI 
+
+ NAME: _______________________  NPI:_______ 
+
+ TITLE:  □  MD  □  DO  □  CNM/CM   □  OTHER MIDWIFE 
+      □  OTHER (Specify)___________________ 
+
+ 28. MOTHER TRANSFERRED FOR MATERNAL  
+       MEDICAL OR FETAL INDICATIONS FOR  
+       DELIVERY?   □  Yes   □   No 
+       IF YES, ENTER NAME OF FACILITY MOTHER  
+       TRANSFERRED FROM:          
+
+        _______________________________________ 
+
+REV. 11/2003 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+MOTHER 
+
+ 29a.  DATE OF FIRST PRENATAL CARE VISIT 
+  ______ /________/ __________    □  No Prenatal Care 
+     M M        D D              YYYY  
+
+ 29b.  DATE OF LAST PRENATAL CARE VISIT 
+          ______ /________/ __________  
+           M M        D D              YYYY  
+
+30.  TOTAL NUMBER OF PRENATAL VISITS FOR THIS PREGNANCY 
+
+         _________________________ (If none, enter A0".) 
+
+31.  MOTHER’S HEIGHT 
+         _______  (feet/inches) 
+
+32. MOTHER’S PREPREGNANCY WEIGHT  
+         _________ (pounds)  
+
+33.  MOTHER’S WEIGHT  AT DELIVERY 
+         _________ (pounds)      
+
+34. DID MOTHER GET WIC FOOD FOR HERSELF 
+       DURING THIS PREGNANCY? □  Yes   □  No 
+
+35.  NUMBER OF PREVIOUS 
+       LIVE BIRTHS (Do not include 
+        this child) 
+
+ 35a.  Now Living 
+
+35b. Now Dead 
+
+36. NUMBER OF OTHER 
+       PREGNANCY OUTCOMES  
+       (spontaneous or induced  
+       losses or ectopic pregnancies)
+36a.  Other Outcomes  
+
+ Number _____ 
+
+Number _____ 
+
+  Number  _____  
+
+ □  None 
+
+ □  None 
+
+  □  None 
+
+37. CIGARETTE SMOKING BEFORE AND DURING PREGNANCY 
+       For each time period, enter either the number of cigarettes or the 
+       number of packs of cigarettes smoked.   IF NONE, ENTER A0". 
+
+38.  PRINCIPAL SOURCE OF 
+        PAYMENT FOR THIS 
+        DELIVERY 
+
+   Average number of cigarettes or packs of cigarettes smoked per day. 
+                                                            # of cigarettes            # of packs 
+    Three Months Before Pregnancy       _________     OR     ________ 
+    First Three  Months of Pregnancy      _________    OR     ________ 
+    Second Three Months of Pregnancy  _________    OR     ________ 
+    Third Trimester of Pregnancy             _________    OR     ________ 
+
+  □  Private Insurance 
+  □  Medicaid 
+  □  Self-pay 
+  □  Other 
+     (Specify) _______________ 
+
+ 35c.  DATE OF LAST LIVE BIRTH  
+          _______/________ 
+             MM        Y Y Y Y 
+
+36b.  DATE OF LAST OTHER 
+         PREGNANCY OUTCOME 
+          _______/________ 
+             MM        Y Y Y Y 
+
+ 39.  DATE  LAST NORMAL MENSES  BEGAN 
+          ______ /________/ __________  
+           M M        D D              YYYY  
+
+ 40. MOTHER’S MEDICAL RECORD NUMBER   
+
+43.  OBSTETRIC PROCEDURES (Check all that apply) 
+
+46.  METHOD OF DELIVERY 
+
+MEDICAL 
+AND 
+HEALTH 
+INFORMATION 
+
+41.  RISK FACTORS IN THIS PREGNANCY 
+                 (Check all that apply) 
+  Diabetes 
+       □   Prepregnancy  (Diagnosis prior to this pregnancy) 
+       □   Gestational      (Diagnosis in this pregnancy) 
+
+  Hypertension 
+       □   Prepregnancy   (Chronic) 
+       □   Gestational  (PIH, preeclampsia) 
+       □   Eclampsia 
+
+  □  Cervical cerclage 
+  □  Tocolysis 
+
+  External cephalic version: 
+     □  Successful 
+     □  Failed 
+
+  □  None of the above 
+
+  □  Previous preterm birth 
+
+44.  ONSET OF LABOR (Check all that apply) 
+
+  □  Other previous poor pregnancy outcome (Includes 
+       perinatal death, small-for-gestational age/intrauterine 
+       growth restricted birth) 
+
+  □   Pregnancy resulted from infertility treatment-If yes, 
+        check all that apply: 
+       □    Fertility-enhancing drugs, Artificial insemination or  
+              Intrauterine insemination 
+       □   Assisted reproductive technology (e.g., in vitro 
+            fertilization (IVF), gamete intrafallopian 
+            transfer  (GIFT)) 
+
+  □   Mother had a previous cesarean delivery 
+            If yes, how many __________ 
+
+  □   None of the above 
+
+42.  INFECTIONS PRESENT AND/OR TREATED 
+       DURING THIS  PREGNANCY (Check all that apply) 
+
+   □   Gonorrhea 
+   □   Syphilis    
+   □   Chlamydia 
+   □   Hepatitis B 
+   □   Hepatitis C 
+   □   None of the above 
+
+ □  Premature Rupture of the Membranes (prolonged, ∃12 hrs.) 
+
+ □  Precipitous Labor (<3 hrs.) 
+
+ □  Prolonged Labor (∃ 20 hrs.) 
+
+ □  None of the above 
+
+45.  CHARACTERISTICS OF LABOR AND DELIVERY 
+                          (Check all that  apply) 
+
+  □   Induction of labor 
+  □   Augmentation of labor 
+  □   Non-vertex presentation 
+  □   Steroids (glucocorticoids) for fetal lung maturation 
+        received by the mother prior to delivery 
+  □   Antibiotics received by the mother during labor 
+  □   Clinical chorioamnionitis diagnosed during labor or 
+         maternal  temperature >38°C (100.4°F) 
+  □   Moderate/heavy meconium staining of the amniotic fluid 
+  □   Fetal intolerance of labor such that one or more of the 
+         following actions was taken:  in-utero resuscitative 
+         measures, further fetal assessment, or operative delivery 
+  □   Epidural or spinal anesthesia during labor 
+  □   None of the above 
+
+ A.  Was delivery with forceps attempted but 
+       unsuccessful? 
+            □  Yes   □  No 
+
+ B. Was delivery with vacuum extraction attempted 
+       but unsuccessful? 
+            □  Yes    □  No 
+
+ C.  Fetal presentation at birth 
+        □   Cephalic 
+        □   Breech 
+        □   Other 
+
+ D. Final route and method of delivery (Check one) 
+        □  Vaginal/Spontaneous 
+        □  Vaginal/Forceps 
+        □  Vaginal/Vacuum 
+        □  Cesarean 
+            If cesarean, was a trial of labor attempted? 
+             □  Yes 
+             □  No 
+
+47.  MATERNAL MORBIDITY (Check all that apply) 
+     (Complications associated with labor and 
+      delivery) 
+  □    Maternal transfusion 
+  □    Third or fourth degree perineal laceration 
+  □    Ruptured uterus 
+  □    Unplanned hysterectomy 
+  □    Admission to intensive care unit 
+  □    Unplanned operating room procedure 
+         following delivery 
+  □    None of the above 
+
+NEWBORN 
+
+48.  NEWBORN MEDICAL RECORD NUMBER 
+
+49.  BIRTHWEIGHT (grams preferred, specify unit) 
+
+             ______________________ 
+                   9 grams     9 lb/oz 
+
+50.  OBSTETRIC ESTIMATE OF GESTATION: 
+
+NEWBORN INFORMATION 
+
+54.  ABNORMAL CONDITIONS OF THE NEWBORN 
+                           (Check all that apply) 
+
+ □   Assisted ventilation required immediately 
+       following delivery 
+
+ □   Assisted ventilation required for more than 
+       six hours 
+
+     _________________  (completed weeks) 
+
+ □   NICU admission 
+
+51.  APGAR SCORE: 
+ Score at 5 minutes:________________________ 
+   If 5 minute score is less than 6, 
+
+ Score at 10 minutes: _______________________ 
+
+52. PLURALITY - Single, Twin, Triplet, etc. 
+
+ (Specify)________________________ 
+
+ 53.  IF NOT SINGLE BIRTH - Born First, Second, 
+
+ □   Newborn given surfactant replacement 
+       therapy 
+
+ □   Antibiotics received by the newborn for 
+       suspected neonatal sepsis 
+
+ □   Seizure or serious neurologic dysfunction 
+
+ □   Significant birth injury (skeletal fracture(s), peripheral  
+       nerve  injury, and/or soft tissue/solid organ hemorrhage  
+       which  requires intervention) 
+
+        Third, etc. (Specify) ________________ 
+
+ 9  None of the above 
+
+55.  CONGENITAL ANOMALIES OF THE NEWBORN 
+                         (Check all that apply) 
+  □   Anencephaly 
+  □   Meningomyelocele/Spina bifida 
+  □   Cyanotic congenital heart disease         
+  □   Congenital diaphragmatic hernia          
+  □   Omphalocele 
+  □   Gastroschisis 
+  □   Limb reduction defect (excluding congenital  
+        amputation and dwarfing syndromes) 
+  □   Cleft Lip with or without Cleft Palate 
+  □   Cleft Palate alone 
+  □   Down Syndrome 
+         □   Karyotype confirmed 
+         □   Karyotype pending 
+  □    Suspected chromosomal disorder          
+         □   Karyotype confirmed 
+         □   Karyotype pending 
+  □    Hypospadias 
+  □    None of the anomalies listed above   
+
+56.  WAS INFANT TRANSFERRED WITHIN 24 HOURS OF DELIVERY?   9  Yes  9  No 
+      IF YES, NAME OF FACILITY INFANT TRANSFERRED                
+TO:______________________________________________________ 
+
+57.  IS INFANT LIVING AT TIME OF REPORT? 
+ □  Yes  □  No   □  Infant transferred, status unknown 
+
+58. IS THE INFANT BEING 
+      BREASTFED AT DISCHARGE? 
+           □   Yes  □   No 
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+.
+
+o
+N
+
+d
+r
+o
+c
+e
+R
+
+l
+
+i
+
+a
+c
+d
+e
+M
+s
+’
+r
+e
+h
+t
+o
+  M
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+e
+m
+a
+N
+s
+’
+r
+e
+h
+t
+o
+M
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev. 11/2003 
+NOTE: This recommended standard birth certificate is the result of an extensive evaluation process. Information on the process and resulting recommendations as well as plans for future 
+activities is available on the Internet at: http://www.cdc.gov/nchs/vital_certs_rev.htm. 
+
+ 
+ 
+

@@ -1,0 +1,1707 @@
+Outdoor Portable Generator
+Operator’s Manual
+
+Model Number   _____________________________
+
+Revision   __________________________________
+
+Serial Number  ______________________________
+
+Date Purchased   ____________________________
+
+Copyright © 2018. Briggs & Stratton Corporation
+Milwaukee, WI, USA. All rights reserved.
+800-743-4115 
+BRIGGSandSTRATTON.COM
+
+Manual No. 80029696 Revision D
+
+Equipment Description
+
+Table of Contents
+Equipment Description . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Features and Controls . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Operation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Storage  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+FCC/IC Compliance Statement . . . . . . . . . . . . . . . . . 17
+Troubleshooting/Specifications . . . . . . . . . . . . . . . . . 18
+Warranty  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Register Your Product
+To ensure prompt and complete warranty coverage, register 
+your product online at www.onlineproductregistration.com.
+
+Symbols and Meanings
+
+Signal
+
+Meaning
+
+DANGER
+
+Indicates a hazard which, if not avoided, 
+will result in death or serious injury.
+
+WARNING
+
+Indicates a hazard which, if not avoided, 
+could result in death or serious injury.
+
+CAUTION
+
+Indicates a hazard which, if not avoided, 
+could result in minor or moderate injury.
+
+NOTICE
+
+Indicates information considered important, 
+but not hazard-related.
+
+Symbol Name
+
+Explanation
+
+Safety Alert 
+Symbol
+
+Indicates a potential personal 
+injury hazard.
+
+Operator’s 
+Manual
+
+Toxic 
+Fumes
+
+Fire
+
+Failure to follow warnings, 
+instructions and operator’s 
+manual could result in death or 
+serious injury.
+
+Engine exhaust contains 
+carbon monoxide, a poisonous 
+gas that will kill you in minutes. 
+You cannot smell it or see it. 
+
+Fuel and its vapors are extremely 
+flammable which could cause 
+burns or fire resulting in death or 
+serious injury.
+Engine exhaust could cause fire 
+resulting in death or serious injury. 
+
+Electric 
+Shock
+
+Generator could cause 
+electrical shock resulting in 
+death or serious injury.
+
+Hot Surface
+
+Muffler could cause burns 
+resulting in serious injury.
+
+WARNING!   This product can expose you to 
+chemicals including gasoline engine exhaust, 
+which is known to the State of California to cause 
+cancer, and carbon monoxide, which is known to the State 
+of California to cause birth defects or other reproductive 
+harm. For more information go to www.P65Warnings.ca.gov.
+
+Equipment Description
+
+  Read this manual carefully and become familiar 
+with your outdoor generator. Know its applications, 
+its limitations, and any hazards involved. Save 
+these original instructions for future reference.
+
+The outdoor generator is an engine-driven, revolving 
+field, alternating current (AC) generator equipped with a 
+voltage regulator. The generator is designed to supply 
+electrical power for operating compatible electrical lighting, 
+appliances, tools and motor loads. The voltage regulator 
+within the generator is designed to automatically maintain 
+output voltage level.
+
+The portable generator can be used to power outdoor 
+items using the cord provided or to restore home power 
+using a transfer switch. A transfer switch is a separate 
+device installed by a licensed electrician that allows the 
+portable generator to be cord connected, using the locking 
+receptacle, directly into your home’s electrical system. 
+Install a listed transfer switch as soon as possible if 
+generator will be used to provide home power restoration.
+
+Every effort has been made to ensure that the information 
+in this manual is both accurate and current. However, 
+the manufacturer reserves the right to change, alter or 
+otherwise improve the generator and this documentation at 
+any time without prior notice.
+
+NOTICE   If you have questions about intended use,  
+contact an authorized service dealer. This equipment is 
+designed to be used with Briggs & Stratton® authorized 
+parts only.
+System Ground
+The generator has a system ground that connects the 
+generator frame components to the ground terminals 
+on the AC output receptacles. The system ground is 
+connected to the AC neutral wire (the neutral is bonded to 
+the generator frame).
+
+Special Requirements
+There may be Federal or State regulations, local codes, or 
+ordinances that apply to the intended use of the generator. 
+Please consult a qualified electrician, electrical inspector, 
+or the local agency having jurisdiction.
+This generator is not intended to be used at a construction 
+site or similar activity as defined by NFPA 70-2017 (NEC) 
+section 590.6.
+
+2 
+
+BRIGGSandSTRATTON.COM
+
+To Restore Home Power Using a Listed 
+Transfer Switch
+Connections to your home’s electrical system must use a 
+listed* transfer switch installed by a licensed electrician. 
+The connection must isolate the generator power from 
+the utility power and comply with all applicable laws and 
+electrical codes. Power your home with a 30 Amp transfer 
+switch system.
+
+120/240V 
+Outlet
+
+—
+
+Transfer 
+Switch
+
+Typical Indoor Items
+
+To Restore Power Using Extension Cords
+
+120V
+OUTLET
+
+  1.  Only use grounded cords marked for outdoor use 
+
+rated for your loads.
+
+To provide power using 
+extension cords
+
+Minimum Gauge, Outdoor Rated
+
+Up to 50 FT (15 M)
+
+Up to 100 FT (30 M)
+
+16
+
+14
+
+12
+
+10
+
+14
+
+12
+
+10
+
+8
+
+Total 
+Amperage
+
+Up to 13A
+
+Up to 15A
+
+Up to 20A
+
+Up to 30A
+
+Equipment Description
+
+  2.  Follow cord safety instructions.
+
+  3.  Install carbon monoxide alarm(s).
+
+  4.  When operating generator with extension cords, make 
+sure it is located in an open, outdoor area, at least 20 
+ft. (6.1 m.) from occupied spaces with exhaust pointed 
+away.
+
+  5.  Extension cords running directly into home, powering 
+
+indoor items IS NOT RECOMMENDED. 
+
+DANGER!   Engine exhaust contains carbon 
+monoxide, a poisonous gas that will kill you in 
+minutes. You cannot smell it, see it, or taste it. 
+
+Even if you do not smell exhaust fumes, you could still be 
+exposed to carbon monoxide gas.
+
+•  Extension cords running directly into the home 
+
+increase your risk of carbon monoxide poisoning 
+through openings. 
+
+•  If an extension cord running directly into the home is 
+used to power indoor items, the operator recognizes 
+that this increases the risk of CO poisoning to people 
+inside the home and assumes that risk.
+
+  6.  Install a listed* transfer switch as soon as possible 
+if generator will be used to provide home power 
+restoration.
+
+* Certified by a Nationally Recognized Testing Laboratory 
+that the product complies to appropriate product safety test 
+standards.
+
+3
+
+  
+  
+  
+  
+  
+  
+ 
+     
+ 
+ 
+Equipment Description
+
+Recoil Starter
+
+Oil Fill Cap/Dipstick
+Engine Identification
+Oil Drain Plug
+
+Grounding Fastener
+
+Fuel Cap
+
+Fuel Valve
+
+Choke Lever
+Spark Arrester Muffler/Exhaust
+Air Cleaner
+
+Identification Label
+
+Air Cleaner — Filters engine intake air.
+
+Choke Lever — Used when starting a cold engine.
+
+Identification Label — Provides model and serial number of 
+generator. 
+
+Engine Identification — Provides model, type and code of 
+engine. 
+
+Oil Drain Plug   — Drain engine oil here.
+
+Oil Fill Cap/Dipstick   — Check and add engine oil here.
+
+Fuel Cap — Add unleaded fuel here.
+
+Recoil Starter — Used to start the engine manually.
+
+Fuel Valve — Used to turn fuel supply on and off to engine.
+
+Grounding Fastener — Consult your local agency having 
+jurisdiction for grounding requirements in your area.
+
+Spark Arrester Muffler/Exhaust — Lowers engine noise and 
+is equipped with a spark arrester screen.
+
+4 
+
+BRIGGSandSTRATTON.COM
+
+Compare the illustrations with your generator to familiarize yourself with the locations of various controls and product warnings.
+
+Features and Controls
+
+CO Guard™ 
+Carbon Monoxide 
+(CO) Shutdown 
+Indicator Light
+
+Engine Switch
+
+Circuit Breakers
+
+Display Button
+
+Low Oil 
+Shutdown
+
+Main Breaker
+
+120/240 Volt AC, 30 Amp 
+Locking Receptacle
+
+120 Volt AC, 20 Amp 
+GFCI Duplex Receptacles
+
+120 Volt AC, 20 Amp, GFCI Duplex Receptacles  —  Used 
+to supply 120 Volt AC, single phase, 60 Hz power for 
+electrical lighting, appliance, tool and motor loads.
+
+Display Button — Push to scroll through LCD screens. 
+Also push and hold for a minimum of 3 seconds to reset 
+maintenance reminders.
+
+120/240 Volt AC, 30 Amp Locking Receptacle — Used to 
+supply 120 / 240 Volt AC, single phase, 60 Hz power for 
+electrical lighting, appliance, tool and motor loads.
+
+Circuit Breakers (AC) — The 120 Volt AC, 20A GFCI 
+duplex receptacles are provided with “push to reset” 20 
+Amp circuit breakers to protect the generator against 
+electrical overload.
+
+CO Guard™ Carbon Monoxide (CO) Shutdown Indicator 
+Light — Indicates the engine shutdown due to carbon 
+monoxide accumulation around the generator or a CO 
+Guard system fault occurred.
+
+Engine Switch — Set this switch to on (I) before starting 
+engine. Set switch to off (0) to shut off engine.
+
+Low Oil Shutdown — This unit is equipped with a low oil 
+protection device. Oil must be at proper level for engine 
+to run. If the engine oil drops below a preset level, an oil 
+switch will stop the engine. Check oil level with dipstick.
+
+Main Breaker — Protects the generator against electrical 
+overload. If breaker trips it cuts power to all receptacles.
+
+5
+
+Features and Controls
+
+6 
+
+BRIGGSandSTRATTON.COM
+
+Features and Controls
+
+Exhaust/muffler
+
+Point away from homes
+
+202997
+
+7
+
+Operation
+
+Operation
+Step 1: Safe Location
+Before starting the portable generator there are two equally 
+important safety concerns regarding carbon monoxide  
+poisoning and fire that must be addressed.
+
+Operation Location to Reduce the Risk of  
+Carbon Monoxide Poisoning
+
+The engine exhaust of all fossil fuel burning equipment, 
+such as a portable generator, contains carbon monoxide, 
+a poisonous gas that will kill you in minutes. You cannot 
+smell it, see it, or taste it. Even if you do not smell exhaust 
+fumes, you could still be exposed to carbon monoxide gas. 
+
+By law in many jurisdictions it is required to have a carbon 
+monoxide alarm in operating condition in your home. 
+A carbon monoxide alarm is an electronic device that 
+detects hazardous levels of carbon monoxide. When there 
+is a buildup of carbon monoxide, the alarm will alert the 
+occupants by flashing visual indicator light and alarm. 
+Smoke alarms cannot detect carbon monoxide gas.
+
+Carbon Monoxide Alarm(s)
+
+Install carbon monoxide alarm 
+inside your home. Without 
+working carbon monoxide 
+alarms, you will not realize you 
+are getting sick and dying from 
+carbon monoxide poisoning.
+
+DANGER!   Engine exhaust contains carbon 
+monoxide, a poisonous gas that will kill you in 
+minutes. You cannot smell it, see it, or taste it. 
+
+Even if you do not smell exhaust fumes, you could still be 
+exposed to carbon monoxide gas.
+
+•  Operate portable generator only outdoors, at least 
+20 ft. (6.1 m) from occupied spaces with exhaust 
+pointed away to reduce the risk of carbon monoxide 
+accumulating.
+
+•  Install battery-operated carbon monoxide alarms or 
+
+plug-in carbon monoxide alarms with battery back-up 
+according to the manufacturer’s instructions. Smoke 
+alarms cannot detect carbon monoxide gas.
+
+•  Do not run portable generator inside homes, garages, 
+basements, crawlspaces, sheds, or other partially-
+enclosed spaces even if using fans or opening doors 
+and windows for ventilation. Carbon monoxide can 
+quickly build up in these spaces and can linger for 
+hours, even after this product has shut off.
+
+If you start to feel sick, dizzy, weak, or your homes carbon 
+monoxide alarm sounds while using this product, get to 
+fresh air right away. Call emergency services. You may 
+have carbon monoxide poisoning.
+
+Prevent Carbon Monoxide (CO) Poisoning
+•  Use outdoors far away from any home.
+
+• 
+
+• 
+
+Point exhaust away from all homes and  
+occupied spaces.
+
+Install CO alarms inside your home.
+
+20 ft. (6.1 m) min.
+
+To better educate yourself about all carbon monoxide risks,  
+go to www.takeyourgeneratoroutside.com.
+
+8 
+
+BRIGGSandSTRATTON.COM
+
+ 
+ 
+ 
+ 
+Operation Location to Reduce the Risk of Fire
+
+•   Do not place portable generator under a deck or other 
+
+WARNING!   Exhaust heat/gases could ignite 
+combustibles, structures or damage fuel tank 
+causing a fire, resulting in death or serious injury. 
+
+•  Portable generator must be at least 5 ft. (1.5 m) from any 
+structure, overhang, trees, shrubs, or vegetation over 12 
+in. (30.5 cm) in height. 
+
+type of structure that may confine airflow. Smoke alarm(s) 
+must be installed and maintained indoors according to the 
+manufacturer’s instructions/recommendations. 
+
+•  Carbon monoxide alarms cannot detect smoke. 
+
+•  Do not place portable generator in manner other than 
+
+shown.
+
+Operation
+
+5 ft. (1.5 m) min.
+
+MUFFLER
+Exhaust
+
+5 ft. (1.5 m) 
+min.
+
+20 ft. (6.1 m) min.
+
+9
+
+Operation
+
+Step 2: Oil and Fuel
+The generator engine is shipped from the factory filled with 
+10W30 oil.  This allows for generator operation in a wide 
+range of temperature and climate conditions. For checking/
+adding or changing oil see Maintenance.
+
+Fuel must meet these requirements:
+
+•  Clean, fresh, unleaded fuel with a minimum of 87 
+
+octane.
+
+•  Gasoline with an ethanol content up to 10% is 
+
+acceptable.
+
+E10
+
+E15
+
+NOTICE   Do not mix oil in fuel or modify engine to run on 
+alternate fuels. Use of unapproved fuels could damage 
+engine and will not be covered under warranty.
+
+See High Altitude for 5,000 ft. and above.
+
+WARNING!   Fuel and its vapors are extremely 
+flammable which could cause burns or fire  
+resulting in death or serious injury.
+
+•  Do not refuel during operation.
+
+•  Do not smoke during refueling.
+
+•  Turn engine off and let it cool at least 2 minutes before 
+
+removing fuel cap.
+
+•  Fill fuel tank outdoors. Keep fuel away from sparks, open 
+
+flames, pilot lights, heat, and other ignition sources. 
+Check fuel lines, tank, cap and fittings frequently for 
+cracks or leaks. Replace if necessary.
+
+  1.  Slowly remove fuel cap to relieve pressure in tank.
+
+  2.  Slowly add unleaded fuel to fuel tank. Be careful not 
+
+to fill above bottom lip. This allows adequate space for 
+fuel expansion. 
+
+High Altitude
+At altitudes over 5,000 ft. (1524 m), a minimum 85 octane  
+fuel is acceptable. To remain emissions compliant, high 
+altitude adjustment is required. Operation without this 
+adjustment will cause decreased performance, increased 
+fuel consumption, and increased emissions.
+See an authorized Briggs & Stratton dealer for high altitude 
+adjustment information. Operation of the engine at altitudes 
+below 2,500 ft. (762 m) with the high altitutde kilt is not 
+recommended.
+Transporting
+When transporting equipment with a vehicle or trailer, turn 
+fuel shutoff valve to off (0) position. Do not tip engine or 
+equipment at an angle which causes fuel to spill.
+Step 3: Generator Start Up
+Disconnect all electrical loads from the generator. Use the 
+following start instructions:
+  1.  Make sure unit is outdoors on a level surface.
+NOTICE   Failure to operate the unit on a level surface may 
+cause the unit to shut down.
+  2.  Turn the fuel valve to the on (I) position.
+
+Fuel Valve
+
+  3.  Push choke lever to choke (
+
+) position.
+
+Choke Lever
+
+  4.  Set engine switch to on (I) position.
+
+Engine 
+Switch
+
+  5.  Grasp recoil handle and pull slowly until slight 
+
+resistance is felt. Then pull rapidly to start engine.
+
+  6.  Slowly move choke lever to run (
+
+) position. If engine 
+
+falters, move choke lever to half choke position until 
+) position.
+engine runs smoothly, and then to run (
+
+  3.  Install fuel cap and let any spilled fuel evaporate 
+
+before starting engine.
+
+NOTICE   If engine starts but fails to run, see Low Oil 
+Shutdown in Features and Controls.
+
+10 
+
+BRIGGSandSTRATTON.COM
+
+ 
+ 
+   
+Step 4: Connecting Electrical Loads
+Using Extension Cords
+
+Use only grounded extension cords marked for outdoor 
+use rated for your loads. Follow cord safety instructions. 
+
+120 Volt AC, 20 Amp, GFCI Duplex Receptacles
+
+Use each receptacle to operate 120 Volt AC, single-phase, 
+60 Hz electrical loads requiring up to 2,400 Watts (2.4 kW) 
+at 20 Amps of current. 
+
+Operation
+
+WARNING!   Damaged or overloaded extension 
+cords could overheat, arc, and burn resulting in 
+death or serious injury. 
+
+NOTICE   For best results when plugging into the 120 Volt 
+GFCI receptacles, plug items to be powered in sequence 
+as shown.
+
+1
+
+2
+
+3
+
+4
+
+NOTICE   For generator output required see Generator 
+Capacity. Connect electrical loads in off position then turn 
+on for operation. 
+
+Generator Cord
+
+The generator includes one, 25 ft. (7.6 m) cord. The cord 
+is intended to power outdoor items by providing 120 Volt, 
+15 Amps through three outlets. It is not intended to power 
+indoor items on a permanent basis. Plug cord into one of 
+the 120 Volt GFCI duplex receptacles provided.
+
+NOTICE   Follow all safety precautions on cord tag when 
+connecting any cord or device to the generator.
+
+Ground Fault Protection
+
+The duplex receptacles are equipped with Ground Fault 
+Circuit Interrupter (GFCI) protection. The GFCI protects 
+against electrical shock that may be caused if your body 
+becomes a path which electricity travels to reach ground. 
+
+When protected by a GFCI, one may still feel a shock, but 
+the GFCI is intended to cut current off quickly enough so 
+that a person in normal health should not suffer any serious 
+electrical injury.
+
+WARNING!   Generator voltage could cause 
+electrical shock or burn resulting in death or 
+serious injury. Contact with the hot and neutral 
+conductor at the same time could cause electrical shock 
+or burn, even if the circuit is GFCI protected. 
+
+Testing the GFCI
+
+With the engine running, test your GFCI outlet prior to each 
+use, as follows:
+
+•  Push the “Test” button. The “Reset” button should pop 
+out, which should allow no power to reach the outlet. 
+
+•  Press the “Reset” button firmly until it is fully in place 
+and locks in that position. If the GFCI outlet does not 
+reset properly, do not use the outlet. Call or take your 
+generator to a local service center.
+
+•  If the GFCI trips by itself at any time, reset and test the 
+
+outlet. 
+
+11
+
+ 
+ 
+ 
+Operation
+
+120/240 Volt AC, 30 Amp, Locking Receptacle
+
+Use a NEMA L14-30 plug with this receptacle. Connect a 
+4-wire cord set rated for 250 Volt AC loads at 30 Amps. 
+The generator’s locking receptacle is not protected by a 
+GFCI.
+
+4-Wire Cord Set
+
+If the output wattage of “TOTAL PWR” is between 90% 
+and 100%, the text will flash. If it reaches 101%, the LCD 
+display will change to “OVERLOAD  REMOVE LOAD”.
+
+240V
+
+120V
+
+120V
+
+NOTICE   Failure to remove load from generator could 
+cause circuit breaker(s) to open and/or possible damage to 
+generator.
+
+W (Neutral)
+
+Hour Meter
+
+Y (Hot)
+
+X (Hot)
+
+NEMA L14-30
+
+Ground (Green)
+
+This receptacle powers 120/240 Volt AC, 60 Hz, single 
+phase loads requiring up to 6,250 Watts of power 
+(6.25 kW) at 26.0 Amps for 240 Volts or two independent 
+120 Volt loads at 26.0 Amps each. 
+
+STATSTATION®
+The control panel has a built in LCD display to monitor the 
+following features:
+
+•  Load Monitor (Total Generator Load)
+
+•  Hour Meter (Total Generator Hours)
+
+•  Maintenance Reminder (Engine Maintenance)
+
+When the generator is first started, the following title 
+screen will display for three seconds.
+
+Load Monitor
+
+The load monitor measures the output wattage (generator 
+load) of all the generator receptacles and will display 
+“TOTAL PWR” (total power) along with percentage of total 
+generator load.
+
+The LCD on the control panel also has a built in hour meter 
+that displays and records how many hours your generator 
+has run (up to 9,999.9).
+
+Maintenance Reminder
+
+The LCD on the control panel also has a built in 
+maintenance reminder to alert you to check oil, change 
+air filter, change oil, and change spark plug. The LCD will 
+display the following screens for the different maintenance 
+intervals:
+
+•  “CHECK OIL  8HRS  HOLD TO RESET” after every 
+
+8 hours of operation.
+
+•  “AIR CLEANER  25HRS  HOLD TO RESET” after 
+
+every 25 hours of operation.
+
+•  “OIL CHANGE  50HRS  HOLD TO RESET” after 
+
+every 50 hours of operation.
+
+•  “SPARK PLG  100HRS  HOLD TO RESET” after 
+
+every 100 hours of operation.
+
+The different maintenance interval hours will count down 
+to zero hours when the generator is running. When 
+a maintenance interval reaches zero hours the LCD 
+screen will flash the maintenance to be performed. Once 
+maintenance has been performed, you must push and hold 
+the display button on the control panel for a minimum of 3 
+seconds to reset the timer for each maintenance interval.
+
+12 
+
+BRIGGSandSTRATTON.COM
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Generator Capacity
+To make sure your generator can supply enough running 
+watts and starting watts for the items you will power at the 
+same time, follow these three simple steps:
+
+  1.  Select the items you will power at the same time. See 
+
+following list for typical wattages.
+
+Tool or Appliance
+
+Light Bulb - 75 Watt
+
+Sump Pump - 1/3 HP
+Refrigerator/Freezer 
+Water Well Pump - 1/3 HP
+Window AC - 10,000 BTU
+Furnace Fan Blower - 1/2 HP
+Microwave Oven - 1000 Watt
+Plasma Television - 50”
+
+Laptop
+
+Garage Door Opener - 1/2 HP
+
+Running 
+Watts*
+
+Starting 
+Watts**
+
+75
+
+1140
+550
+575
+1000
+800
+1000
+500
+
+250
+
+300
+
+-
+
+2850
+1350
+1440
+2100
+2350
+-
+-
+
+-
+
+500
+
+*  Typical wattages listed are approximate only. Check tool 
+
+or appliance for actual wattage.
+
+** The momentary electrical current the generator can 
+provide to start electric motors, per Briggs & Stratton 
+standard 628K. It does not represent the power required to 
+continuously run electrical loads. It is the maximum current 
+that can momentarily be supplied when starting a motor, 
+multiplied by the generator’s rated voltage.
+
+  2.  Total the running watts. This is the amount of power 
+your generator must produce to keep your items 
+running. See following example:
+
+Example
+
+Tool or Appliance
+
+Running Watts
+
+Starting Watts
+
+Window AC - 10000 BTU
+
+Refrigerator/Freezer
+
+Plasma Television
+
+Light (75 Watts)
+
+1000
+550
+
+500
+
+75
+
+2100
+1350
+
+—
+
+—
+
+2125 Total  
+Running Watts
+
+2100 Highest 
+Starting Watts 
+
+Total running watts 
+Highest starting watts  
+Total generator watts required 
+
+= 2125
+= 2100
+= 4225
+
+  3.  Estimate the starting watts you will need. Because not 
+all motors start at the same time, total starting wattage 
+can be estimated by adding only the item with the 
+highest additional starting watts requirements to the 
+total running watts from step 2.
+
+Operation
+
+Power Management
+
+To manage generator power, sequentially add loads as 
+follows:
+  1.  With nothing connected to generator, start the engine 
+
+outdoors.
+
+  2.  Plug in and turn on the first load, preferably the largest 
+
+load you have.
+
+  3.  Permit the generator output to stabilize (engine runs 
+smoothly and attached device operates properly).
+
+  4.  Plug in and turn on the next load.
+  5.  Again, permit the generator to stabilize.
+  6.  Repeat steps 4 and 5 for each additional load.
+
+Never add more loads than the generator capacity. 
+Take special care to consider starting watts in generator 
+capacity.
+
+CO Guard
+Carbon Monoxide (CO) Shutdown System
+
+CO Guard automatically shuts down the engine when 
+harmful levels of carbon monoxide accumulate around the 
+generator or a CO Guard fault occurs. After shutdown, the 
+CO Guard indicator light will blink for at least five minutes 
+per the chart below.
+
+CO Guard DOES NOT replace carbon monoxide alarms. 
+Install battery-powered carbon monoxide alarm(s) in your 
+home. Don’t run generator in enclosed areas. 
+
+Color/Pattern
+Red
+• •  ••
+
+Blue
+
+•  •  •
+
+Description
+Carbon monoxide accumulated around 
+generator. Move generator to an 
+open, outdoor area 20 ft. (6.1 m) from 
+occupied spaces with exhaust pointed 
+away. Automatic shutoff is an indication 
+generator was improperly located. 
+
+If you start to feel sick, dizzy, weak, or 
+your homes carbon monoxide alarm 
+sounds while using this product, get to 
+fresh air right away. Call emergency 
+services. You may have carbon 
+monoxide poisoning.
+CO Guard fault occured¥. 
+See Briggs & Stratton authorized service 
+dealer.
+
+¥Blue light will blink for five seconds at the startup of generator to 
+show CO Guard functioning properly.
+
+Step 5: Generator Shutdown
+  1.  Turn off and unplug all electrical loads from generator 
+
+panel receptacles. Never stop engine with electrical 
+devices plugged in and turned on.
+
+  2.  Let engine run at no-load for one minute to stabilize 
+internal temperatures of engine and generator.
+
+  3.  Push engine switch to off (0) position.
+
+  4.  Move fuel valve to off (0) position.
+
+13
+
+Cleaning
+
+Daily or before use, look around and underneath 
+the generator for signs of oil or fuel leaks. Clean any 
+accumulated debris. Keep area around muffler free from 
+any debris.
+
+•  Use a soft bristle brush to loosen caked on dirt or oil.
+
+•  Use a damp cloth to wipe exterior surfaces clean.
+
+NOTICE   Improper treatment of generator could damage 
+it and shorten its life. Do not expose generator to excessive 
+moisture, dust, dirt, or corrosive vapors. Do not insert any 
+objects through cooling slots.
+
+Fuel Valve Maintenance
+The fuel valve is equipped with a fuel sediment cup, 
+screen, and o-ring that need to be cleaned.
+
+  1.  Move fuel valve to off (0) position.
+
+  2.  Remove sediment cup from fuel valve. Remove o-ring 
+
+and screen from fuel valve.
+
+Screen
+
+O-Ring
+
+Sediment Cup
+
+  3.  Wash sediment cup, o-ring, and screen in a 
+nonflammable solvent. Dry them thoroughly.
+
+  4.  Place screen and o-ring into fuel valve. Install 
+
+sediment cup and tighten securely.
+
+  5.  Move fuel valve to on (I) position, and check for leaks. 
+
+Replace fuel valve if there is any leakage.
+
+Maintenance
+
+Maintenance
+Maintenance Schedule
+Follow the hourly or calendar intervals, whichever occurs 
+first. More frequent service is required when operating in 
+adverse conditions noted below.
+
+First 5 Hours
+
+•  Change engine oil
+
+Every 8 Hours or Daily
+
+•  Clean debris
+
+•  Check engine oil level
+
+Every 25 Hours or Yearly
+
+•  Clean engine air filter1
+
+Every 100 Hours or Yearly
+
+•  Change engine oil1
+
+Yearly
+
+•  Replace engine air filter1 
+
+•  Service fuel valve
+
+•  Service spark plug
+
+•  Inspect muffler and spark arrester
+
+•  Clean cooling system1, 2
+
+1  Service more often under dirty or dusty conditions.
+2  See any authorized dealer for service.
+
+ General Recommendations
+
+Regular maintenance will improve the performance and 
+extend the life of the generator. See any authorized dealer 
+for service.
+
+The generator’s warranty does not cover items that have 
+been subjected to operator abuse or negligence. To 
+receive full value from the warranty, the operator must 
+maintain the generator as instructed in this manual.
+
+All service and adjustments should be made at least once 
+each season. A new spark plug and clean air filter assure 
+proper fuel-air mixture and help your engine run better and 
+last longer. Follow requirements in Maintenance Schedule.
+
+Emissions Control
+Maintenance, replacement, or repair of the emissions 
+control devices and systems may be performed by any 
+non-road engine repair establishment or individual. 
+However, to obtain ”no charge” emissions control service, 
+the work must be performed by a factory authorized dealer. 
+See Emissions Warranty.
+
+14 
+
+BRIGGSandSTRATTON.COM
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engine Maintenance
+Oil Recommendations
+We recommend the use of Briggs & Stratton Warranty 
+Certified oils for best performance. Other high-quality 
+detergent oils are acceptable if classified for service SF 
+or higher. Do not use special additives. See Common  
+Service Parts.
+
+Outdoor temperatures determine the proper oil viscosity for 
+the engine. Use the chart to select the best viscosity for the 
+outdoor temperature range expected.
+
+*  Below 40°F (4°C) the use of SAE 30 will result in hard starting.
+
+**  Above 80°F (27°C) the use of 10W30 may cause increased oil 
+
+consumption. Check oil level more frequently.
+
+Checking/Adding Engine Oil
+Oil level should be checked prior to each use or at least 
+every 8 hours of operation. Keep oil level maintained.
+
+  1.  Make sure generator is on a level surface.
+
+  2.  Clean area around oil fill, remove dipsitck and wipe  
+
+with clean cloth. Replace dipstick. Remove and check 
+oil level.
+
+NOTICE   Do not screw in dipstick when checking oil level.
+
+  3.  Verify oil is at full mark on dipstick. Replace and 
+
+tighten dipstick.
+
+Maintenance
+
+NOTICE   Do not attempt to crank or start engine before 
+it has been properly serviced with recommended oil. This 
+could result in an engine failure.
+
+ CAUTION   Avoid prolonged or repeated skin contact 
+
+with used motor oil. Used motor oil has been shown 
+to cause skin cancer in certain laboratory animals. 
+Thoroughly wash exposed areas with soap and water.
+
+  KEEP OUT OF REACH OF CHILDREN. DON’T 
+POLLUTE. CONSERVE RESOURCES. RETURN 
+USED OIL TO COLLECTION CENTERS.
+
+Changing Engine Oil
+If you are using your generator under extremely dirty or 
+dusty conditions, or in extremely hot weather, change the 
+oil more often.
+
+Change the oil while the engine is still warm from running, 
+as follows:
+
+  1.  Make sure unit is on a level surface.
+
+  2.  Remove oil drain plug and drain oil completely into a 
+
+suitable container.
+
+Oil Drain Plug
+
+  3.  Reinstall oil drain plug and tighten securely. Remove 
+
+dipstick.
+
+  4.  Slowly pour recommended oil (about 36 oz. (1.0 l)) 
+
+into oil fill opening. Pause to permit oil to settle. Fill to 
+Full mark on dipstick.
+
+  5.  Wipe dipstick clean each time oil level is checked. Do 
+
+Full
+
+not overfill.
+
+  6.  Reinstall dipstick. Tighten cap securely.
+
+  7.  Wipe up any spilled oil.
+
+  4.  If needed, slowly pour oil into oil fill opening to the full 
+
+mark on dipstick. Do not overfill.
+
+NOTICE   Overfilling with oil could cause the engine to not 
+start, or hard starting.
+
+•   Do not overfill.
+
+•  If over the full mark on dipstick, drain oil to reduce oil 
+
+level to full mark on dipstick.
+
+  5.  Replace and tighten dipstick.
+
+15
+
+Maintenance
+
+Service Air Cleaner
+Your engine will not run properly and may be damaged if 
+you run it with a dirty air cleaner. Clean or replace more 
+often if operating under dusty or dirty conditions.
+
+  1.  Loosen screws and remove air cleaner cover.
+
+Base
+
+Filter
+
+Cover
+
+Screws
+
+  2.  Carefully remove cartridge from base.
+
+  3.  Install clean (or new) air cleaner assembly inside 
+
+cover. Dispose of old filter properly.
+
+NOTICE   If the filter is excessively dirty, replace with a 
+new filter. See Common Service Parts.
+
+  4.  Assemble air cleaner cover onto base and tighten 
+
+screws.
+
+Service Spark Plug
+Changing the spark plug will help your engine to start 
+easier and run better.
+
+  1.  Clean area around spark plug.
+
+  2.  Remove and inspect spark plug.
+
+  3.   Replace spark plug if electrodes are pitted, burned 
+or porcelain is cracked. Use the recommended 
+replacement spark plug. See Common Service Parts.
+
+  4.   Check electrode gap with wire feeler gauge and reset 
+spark plug gap to recommended gap if necessary 
+(see Specifications).
+
+  5.  Install spark plug and tighten firmly.
+
+Inspect Muffler and Spark Arrester
+The engine exhaust muffler has a spark arrester screen. 
+Inspect the muffler for cracks, corrosion, or other damage. 
+Inspect spark arrester screen for damage or carbon 
+blockage. Clean if carbon blockage is found using brush 
+and commercial solvent or replace if damaged. 
+
+WARNING!   Contact with muffler area could 
+cause burns resulting in serious injury. 
+
+•  Allow equipment to cool before servicing.
+
+•   It is a violation of California Public Resource Code, 
+
+Section 4442, to use or operate the engine on any forest-
+covered, brush-covered, or grass-covered land unless 
+the exhaust system is equipped with a spark arrester, as 
+defined in Section 4442, maintained in effective working 
+order. Other states or federal jurisdictions may have 
+similar laws, reference Federal Regulation 36 CFR Part 
+261.52. 
+
+Replace spark arrester as follows:
+
+  1.  Remove four screws that connect heat shield to 
+
+muffler.
+
+Spark Arrester Screen
+
+Screws 
+
+Muffler
+
+Heatshield
+
+Screws
+
+  2.  Remove four screws that attach spark arrester screen.
+
+  3.  Obtain a replacement screen. 
+
+  4.  Reattach screen and muffler guard.
+
+Common Service Parts
+Air Cleaner . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491588
+Spark Plug  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 797235
+Engine Oil Bottle  . . . . . . . . . . . . . . . . . . . . . . . . 100028
+Synthetic Oil Bottle  . . . . . . . . . . . . . . . . . . . . . . 100074
+Fuel Stabilizer  . . . . . . . . . . . . . . . . . 100120 or 100117
+Contact an authorized service dealer or 
+BRIGGSandSTRATTON.com for a full list of parts and 
+diagrams.
+
+16 
+
+BRIGGSandSTRATTON.COM
+
+Storage
+If storing the unit for more than 30 days, use the following 
+guidelines to prepare it for storage.
+
+Long Term Storage Instructions
+
+  1.  Clean the generator as outlined in Cleaning.
+
+  2.  Change engine oil while engine is still warm, drain oil 
+from crankcase. Refill with recommended grade. See 
+Changing Engine Oil.
+
+  3.  Treat or drain fuel from generator as fuel can become 
+
+stale when stored over 30 days. 
+
+Stale fuel causes acid and gum deposits to form in the fuel 
+system or on essential carburetor parts. To keep fuel fresh, 
+use Briggs & Stratton® Advanced Formula Fuel Treatment 
+& Stabilizer, available wherever Briggs & Stratton genuine 
+service parts are sold. See Common Service Parts. 
+
+There is no need to drain gasoline from the engine if a 
+fuel stabilizer is added according to instructions. Run the 
+engine for 2 minutes to circulate the stabilizer throughout 
+the fuel system before storage.
+
+If gasoline in the engine has not been treated with a fuel 
+stabilizer, it must be drained into an approved container. 
+Then run the engine until it stops from lack of fuel. The use 
+of a fuel stabilizer in the storage container is recommended 
+to maintain freshness.
+
+WARNING!   Fuel and its vapors are extremely 
+flammable and explosive which could cause 
+burns, fire or explosion resulting in death or 
+
+serious injury. 
+
+•   When storing fuel or equipment with fuel in tank, store 
+
+away from furnaces, stoves, water heaters, clothes dryers 
+or other appliances that have pilot light or other ignition 
+source because they could ignite fuel vapors. 
+
+•   When draining fuel, turn generator engine off and let it 
+
+cool at least 2 minutes before removing fuel cap. Loosen 
+cap slowly to relieve pressure in tank. Drain fuel tank 
+outdoors. Keep fuel away from sparks, open flames, pilot 
+lights, heat, and other ignition sources. 
+
+•   Check fuel lines, tank, cap and fittings frequently for 
+
+cracks or leaks. Replace if necessary. 
+
+4.  Store generator in clean, dry area and cover with a 
+
+suitable protective cover that does not retain moisture.
+
+WARNING!   Storage covers could cause a fire 
+resulting in death or serious injury. 
+
+•  Do not place a storage cover over a hot or running 
+
+generator. Let equipment cool for a sufficient time before 
+placing the cover on the equipment.
+
+Storage
+
+FCC/IC Compliance Statement
+FCC Part 15 Information to User
+
+Pursuant to part 15.21 of the FCC Rules, you are cautioned 
+that changes or modifications to transceiver not expressly 
+approved by Briggs & Stratton could void your authority to 
+operate the portable generator. 
+
+This device complies with part 15 of the FCC Rules. 
+Operation is subject to the following two conditions: (1) 
+This device may not cause harmful interference, and 
+(2) this device must accept any interference received, 
+including interference that may cause undesired operation.
+
+This equipment has been tested and found to comply with 
+the limits for a Class B digital device, pursuant to part 15 
+of the FCC Rules. These limits are designed to provide 
+reasonable protection against harmful interference in a 
+residential installation. This equipment generates, uses 
+and can radiate radio frequency energy and, if not installed 
+and used in accordance with the instructions, may cause 
+harmful interference to radio communications. However, 
+there is no guarantee that interference will not occur in a 
+particular installation. If this equipment does cause harmful 
+interference to radio or television reception, which can be 
+determined by turning the equipment off and on, the user 
+is encouraged to try to correct the interference by one or 
+more of the following measures:
+
+•  Reorient or relocate the receiving antenna.
+
+•  Increase the separation between the equipment and 
+
+receiver.
+
+•  Connect the equipment into an outlet on a circuit 
+
+different from that to which the receiver is connected.
+
+•  Consult the dealer or an experienced radio/TV 
+
+technician for help.
+
+17
+
+ 
+ 
+ 
+ 
+Troubleshooting/Specifications
+
+Problem
+
+Cause
+
+Engine is running, but no AC 
+output is available.
+
+Engine runs well at no-load but 
+“bogs down” when loads are 
+connected.
+
+  1.  One of the circuit breakers is open.
+
+  2.  Poor connection or defective cord set.
+
+  3.  Connected device is bad.
+
+  4.  GFCI tripped.
+
+Correction
+  1.  Reset circuit breaker.
+
+  2.  Check and repair.
+  3.  Connect another device that is in 
+
+good condition.
+
+  4.  Reset GFCI.
+
+  1.  Generator is overloaded.
+
+  1.  See Generator Capacity.
+
+  1.  Engine switch set to off (0) position.
+
+  1.  Set switch to on (I) position.
+
+  2.  Fuel valve is in off (0) position.
+
+  2.  Turn fuel valve to on (I) position.
+
+  3.  Low oil level. 
+
+Engine will not start; starts and 
+runs rough or shuts down when 
+running.
+
+4.  Dirty air cleaner.
+
+  5.  Out of fuel.
+
+  3.  Fill crankcase to proper level or 
+place generator on level surface.
+
+  4.  Clean or replace air cleaner.
+
+  5.  Fill fuel tank.
+
+  6.  Spark plug wire not connected to 
+
+  6.  Connect wire to spark plug. 
+
+spark plug.
+
+  7.  Flooded with fuel.
+
+Engine shuts down and CO 
+Guard LED blinks red (• •  ••) .
+
+  1.  Generator improperly located.
+
+For all other issues, see a Briggs & Stratton authorized dealer.
+
+  7.  Wait 5 minutes and re-crank engine.
+  1.  Move generator to an open, outdoor 
+
+area. See CO Guard Carbon 
+Monoxide (CO) Shutdown System.
+
+Specifications
+Rated Wattage* . . . . . . . . . . . . . . . . . . . . . 6,250 Watts
+Starting Wattage** . . . . . . . . . . . . . . . . . . . 8,500 Watts
+AC Current at 240 Volts  . . . . . . . . . . . . . . . 26.0 Amps
+AC Current at 120 Volts  . . . . . . . . . . . . . . . 52.0 Amps
+Frequency. . . . . . . . . . . . . . . . . . . . . 60 Hz at 3600 rpm
+Phase . . . . . . . . . . . . . . . . . . . . . . . . . . . . Single Phase
+Displacement . . . . . . . . . . . . . . . .25.63 cu. in. (420 cc)
+Spark Plug Gap . . . . . . . . . . . . . . . 0.030 in. (0.76 mm)
+Fuel Capacity . . . . . . . . . 7.5 U.S. Gallons (28.4 Liters)
+Oil Capacity  . . . . . . . . . . . . . . . .36 Ounces (1.0 Liters)
+
+Power Ratings: The gross power rating for individual gasoline engine models is labeled in accordance with SAE (Society of Automotive 
+Engineers) code J1940 Small Engine Power & Torque Rating Procedure, and is rated in accordance with SAE J1995. Torque values are 
+derived at 2600 RPM for those engines with “rpm” called out on the label and 3060 RPM for all others; horsepower values are derived at 
+3600 RPM. The gross power curves can be viewed at www.BRIGGSandSTRATTON.COM. Net power values are taken with exhaust and 
+air cleaner installed whereas gross power values are collected without these attachments. Actual gross engine power will be higher than 
+net engine power and is affected by, among other things, ambient operating conditions and engine-to-engine variability. Given the wide 
+array of products on which engines are placed, the gasoline engine may not develop the rated gross power when used in a given piece of 
+power equipment. This difference is due to a variety of factors including, but not limited to, the variety of engine components (air cleaner, 
+exhaust, charging, cooling, carburetor, fuel pump, etc.), application limitations, ambient operating conditions (temperature, humidity, 
+altitude), and engine-to engine variability. Due to manufacturing and capacity limitations, Briggs & Stratton may substitute an engine of 
+higher rated power for this engine.
+
+* Generator per PGMA (Portable Generator Manufacturers’ Association) standard ANSI/PGMA G300-2018, Safety and Performance of 
+Portable Generators.
+
+** Per Briggs & Stratton 628K
+
+18 
+
+BRIGGSandSTRATTON.COM
+
+19
+
+Warranty
+
+BRIGGS & STRATTON PRODUCTS WARRANTY POLICY
+
+LIMITED WARRANTY
+Briggs & Stratton warrants that, during the warranty period specified below, it will repair or replace, free of charge, any part that is defective in material or workmanship 
+or both. Transportation charges on product submitted for repair or replacement under this warranty must be borne by purchaser. This warranty is effective for 
+and is subject to the time periods and conditions stated below. For warranty service, find the nearest Authorized Service Dealer in our dealer locator map at 
+BRIGGSandSTATTON.COM. The purchaser must contact the Authorized Service Dealer, and then make the product available to the Authorized Service Dealer for 
+inspection and testing.
+There is no other express warranty. Implied warranties, including those of merchantability and fitness for a particular purpose, are limited to the 
+warranty period listed below, or to the extent permitted by law. Liability for incidental or consequential damages are excluded to the extent exclusion 
+is permitted by law. Some states or countries do not allow limitations on how long an implied warranty lasts, and some states or countries do not allow the exclusion 
+or limitation of incidental or consequential damages, so the above limitation and exclusion may not apply to you. This warranty gives you specific legal rights and you 
+may also have other rights which vary from state to state or country to country.**
+
+WARRANTY PERIOD
+
+Item
+
+Equipment
+
+Engine*
+
+Battery (if equipped)
+
+Consumer Use
+
+Commercial Use
+
+24 months ▲
+
+24 months
+
+3 months
+
+12 months
+
+12 months
+
+None
+
+▲ After 12 months, warranty covers parts only. 
+* Applies to Briggs & Stratton engines only. Warranty coverage of non-Briggs & Stratton engines is provided by that engine manufacturer. Emissions-related components 
+are covered by the Emissions Warranty Statement.
+** In Australia - Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major 
+failure and for compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be 
+of acceptable quality and the failure does not amount to a major failure. For warranty service, find the nearest Authorized Service Dealer in our dealer locator map at 
+BRIGGSandSTRATTON.COM, or by calling 1300 274 447, or by emailing or writing to salesenquires@briggsandstratton.com.au, Briggs & Stratton Australia Pty Ltd, 1 
+Moorebank Avenue, NSW, Australia, 2170.
+The warranty period begins on the date of purchase by the first retail or commercial consumer. “Consumer use” means personal residential household use by a retail 
+consumer. “Commercial use” means all other uses, including use for commercial, income producing or rental purposes. Once a product has experienced commercial 
+use, it shall thereafter be considered as a commercial use product for purposes of this warranty.
+Save your proof of purchase receipt. If you do not provide proof of the initial purchase date at the time warranty service is requested, the manufacturing date of the 
+product will be used to determine the warranty period. Product registration is not required to obtain warranty service on Briggs & Stratton products.
+
+ABOUT YOUR WARRANTY
+
+Warranty service is available only through Briggs & Stratton Authorized Service Dealers. This warranty covers only defects in materials or workmanship. It does not cover 
+damage caused by improper use or abuse, improper maintenance or repair, normal wear and tear, or stale or unapproved fuel.
+Improper Use and Abuse - The proper, intended use of this product is described in the Operator’s Manual. Using the product in a way not described in the Operator’s 
+Manual or using the product after it has been damaged will not be covered under this warranty. Warranty coverage will also not be provided if the serial number on the 
+product has been removed or the product has been altered or modified in any way, or if the product has evidence of abuse such as impact damage or water/chemical 
+corrosion damage.
+Improper Maintenance or Repair - This product must be maintained according to the procedures and schedules provided in the Operator’s Manual, and serviced or 
+repaired using genuine Briggs & Stratton parts or equivalent. Damage caused by lack of maintenance or use of non-original parts is not covered by warranty.
+Normal Wear and Tear - Like most mechanical devices, your unit is subject to wear even when properly maintained. This warranty does not cover repairs when normal 
+use has exhausted the life of a part or the equipment. Maintenance and wear items such as filters, belts, cutting blades, and brake pads (except engine brake pads) are 
+not covered by warranty due to wear characteristics alone, unless the cause is due to defects in material or workmanship.
+Stale or Unapproved Fuel - In order to function correctly, this product requires fresh fuel that conforms to the criteria specified in the Operator’s Manual. Engine or 
+equipment damage caused by stale fuel or the use of unapproved fuels (such as E15 or E85 ethanol blends) is not covered by warranty.
+Other Exclusions - This warranty excludes damage due to accident, abuse, modifications, alterations, improper servicing, freezing or chemical deterioration. 
+Attachments or accessories that were not originally packaged with the product are also excluded. There is no warranty coverage on equipment used for primary power in 
+place of utility power or on equipment used in life support applications. This warranty does not include used, reconditioned, second-hand, or demonstration equipment or 
+engines. This warranty also excludes failures due to acts of God and other force majeure events beyond the manufacturer’s control.
+
+80011053_EN Rev. A
+
+20 
+
+BRIGGSandSTRATTON.COM
+
+

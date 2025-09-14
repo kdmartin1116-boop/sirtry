@@ -1,0 +1,7 @@
+Flask
+pypdf
+reportlab
+pyyaml
+cryptography
+pytesseract
+Pillow

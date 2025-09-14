@@ -1,0 +1,169 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Amendment VI. Rights in Criminal Prosecutions | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Amendment VI. Rights in Criminal Prosecutions
+Sixth Amendment  Rights in Criminal Prosecutions
+Overview of Sixth Amendment, Rights in Criminal Prosecutions
+Right to a Speedy Trial
+Overview of Right to a Speedy Trial
+Historical Background on Right to a Speedy Trial
+When the Right to a Speedy Trial Applies
+Early Doctrine on Right to a Speedy Trial
+Modern Doctrine on Right to a Speedy Trial
+Length of Delay and Right to a Speedy Trial
+Reason for Delay and Right to a Speedy Trial
+Assertion of Right to a Speedy Trial
+Prejudice and Right to a Speedy Trial
+Right to a Public Trial
+Overview of Right to a Public Trial
+Historical Background on Right to a Public Trial
+Right to a Public Trial Doctrine
+Scope of Right to a Public Trial
+Right to Trial by Jury
+Overview of Right to Trial by Jury
+Historical Background on Right to Trial by Jury
+Notice of Accusation
+When the Right Applies
+Early Jurisprudence on Right to Trial by Jury
+Right to Trial by Jury Generally
+Petty Offense Doctrine and Maximum Sentences Over Six Months
+Increases to Minimum or Maximum Sentences and Apprendi Rule
+Sentencing Guidelines
+Appellate Review of Federal Sentencing Determinations
+Other Applications of Apprendi
+Scope of the Right
+Overview of Scope of Right to Trial by Jury
+Size of the Jury
+Unanimity of the Jury
+Two-Tier Trial Court Systems
+Right to Impartial Jury
+A Jury Selected from a Representative Cross-Section of the Community
+Jury Free from Bias
+Death Penalty and Requirement of Impartial Jury
+Voir Dire and Peremptory Challenges
+Right to Local Jury
+Historical Background on Local Jury Requirement
+Local Juries and Vicinage Requirement
+Confrontation Clause
+Early Confrontation Clause Cases
+Confrontation Clause Cases During the 1960s through 1990s
+Right to Compulsory Process
+Modern Doctrine
+Admissibility of Testimonial Statements
+Ongoing Emergencies and Confrontation Clause
+Dying Declarations and Forfeiture by Wrongdoing
+Right to Confront Witnesses Face-to-Face
+Confrontation of Witnesses Lacking Memory
+Evidence Introduced by Defendant
+Right to Counsel
+Historical Background on Right to Counsel
+Right to Choose Counsel
+Right to Have Counsel Appointed
+Early Doctrine on Right to Have Counsel Appointed
+Modern Doctrine on Right to Have Counsel Appointed
+When the Right to Counsel Applies
+Overview of When the Right to Counsel Applies
+Pretrial Judicial Proceedings and Right to Counsel
+Custodial Interrogation and Right to Counsel
+Lineups and Other Identification Situations and Right to Counsel
+Post-Conviction Proceedings and Right to Counsel
+Noncriminal and Investigatory Proceedings and Right to Counsel
+Right to Effective Assistance of Counsel
+Overview of the Right to Effective Assistance of Counsel
+Deprivation of Effective Assistance of Counsel by Court Interference
+Deprivation of Effective Assistance of Counsel in Joint Representation
+Deprivation of Effective Assistance of Counsel by Defense Counsel
+Deficient Representation Under Strickland
+Prejudice Resulting from Deficient Representation Under Strickland
+Limits on Role of Attorney
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

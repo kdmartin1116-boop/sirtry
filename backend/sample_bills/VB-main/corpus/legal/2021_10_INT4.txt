@@ -1,0 +1,345 @@
+FORM
+
+INT-4
+
+12/01
+
+ALABAMA DEPARTMENT OF REVENUE
+Notice of Change of Ownership,
+Interest, or Participation of Interest
+in Income Tax Capital Credit Project
+
+DEPARTMENT USE ONLY
+CONTROL NUMBER
+___________________
+
+This form is used to report a change in investing companies, sale of project to another party, merger into another company, or any other change of ownership or assign-
+ment of interest in the participants of the project entity.  Notice is given by completing all portions of this form and the schedule of allocation.  When completed, the form
+will provide the Alabama Department of Revenue with the name of the current project entity and a complete list of current eligible participants of the capital credit project.
+The project number originally assigned by the Alabama Deparment of Revenue must be indicated.
+
+Capital Credit Qualifying Project Identification
+
+Project Number:
+
+NAICS Code:
+
+Project Location:
+Type of project: (cid:2) New
+
+(cid:2) Favored Geographic Area
+
+(cid:2) Expansion
+(cid:2) State Docks
+
+Date project was originally placed in service as filed on Form INT-2, line 4:
+
+(cid:2) Small Business Addition
+
+(cid:2) Headquarters Facility
+
+Actual project capital costs as originally filed on Form INT-2, line 6:
+Project Information Prior to Change of Ownership, Interest, or Participation of Interest in Project
+
+Project Entity:
+
+Address:
+
+Project Name:
+
+FEIN:
+
+City:
+Project filing status: (✔ only one) (cid:2) LLC
+Project Information Subsequent to Change of Ownership, Interest, or Participation of Interest in Project
+
+State:
+(cid:2) Sole Proprietorship (cid:2) C Corporation (cid:2) S Corporation (cid:2) Estate (cid:2) Partnership
+
+Telephone No.:  (
+
+ZIP:
+
+)
+
+Effective date of change of ownership, interest, or participation of interest in project:
+
+Description of the change (i.e., change of interest, merger, sale of project):
+
+Project Entity:
+
+Address:
+
+City:
+Project filing status: (✔ only one) (cid:2) LLC
+
+Project Name:
+
+FEIN:
+
+State:
+(cid:2) Sole Proprietorship (cid:2) C Corporation (cid:2) S Corporation (cid:2) Estate (cid:2) Partnership
+
+Telephone No.:  (
+
+ZIP:
+
+)
+
+Contact person for capital credit and to whom all correspondence will be sent:
+
+Use The Schedule Below To List All Current Participants Of The Project Entity.
+Current Allocations of Capital Credit
+A complete list of all participants in the project entity entitled to receive the Capital Credit must be provided.  (Attach additional sheets if necessary.)
+
+1.
+
+Name:
+
+Address:
+
+City:
+
+State:
+
+Zip:
+
+3.
+
+Name:
+
+Address:
+
+City:
+
+Social Security No. or FEIN:
+
+Percentage Allocation of Credit:
+
+Social Security No. or FEIN:
+
+%
+
+Percentage Allocation of Credit:
+
+2.
+
+Name:
+
+Address:
+
+City:
+
+State:
+
+Zip:
+
+4.
+
+Name:
+
+Address:
+
+City:
+
+Social Security No. or FEIN:
+
+Percentage Allocation of Credit:
+
+Social Security No. or FEIN:
+
+%
+
+Percentage Allocation of Credit:
+
+State:
+
+Zip:
+
+State:
+
+Zip:
+
+%
+
+%
+
+Under penalties of perjury, I declare that I am duly authorized to complete this form and that I have listed all the participants of the project
+entity. I have examined the above statements and to the best of my knowledge and belief they are true, correct, and complete.
+
+Your Signature:
+
+Title:
+
+Date:
+
+Instructions for Preparing Notice of Change of Ownership,
+Interest, or Participation of Interest in Project (Form INT-4)
+
+GENERAL INSTRUCTIONS
+
+If at any time during the period in which an investing company or companies is
+qualified for the capital credit, there is change in the company or companies partic-
+ipating in the qualified project, or a change in the ownership regarding the share-
+holders, partners, members, owners, or beneficiaries of the investing company or
+companies, the project entity shall file with the Alabama Department of Revenue on
+Form INT-4 a complete listing of investing company or companies, or the share-
+holders, partners, members, owners, or beneficiaries of the investing company or
+companies entitled to the credit as a result of the change in ownership.
+
+Pursuant to Section 40-18-193(c), Code of Alabama 1975, a change in owner-
+ship or assignment of interest in any project shall not increase the amount of capi-
+tal credit available and the purchasers, assignees, or successors of the project or
+interest herein shall be entitled to the capital credit upon the same conditions and
+for the same period as the investing company or companies originally entitled to the
+capital credit.
+
+This form must be filed and completed by the project entity in order for the tax-
+payer(s) to receive an income tax credit.  The form is used to report a change in
+partnership members, S corporation shareholders, sale of project to another party,
+or  merger  into  another  company.    When  completed,  the  form  will  provide  the
+Alabama Department of Revenue with the name of the current project entity and a
+complete list of current eligible recipients of the income tax credit for this project.
+The  project  number  originally  assigned  by  the Alabama  Department  of  Revenue
+must be indicated.
+
+If you have any questions pertaining to the administration of this form or related
+to the capital credit in general, please contact the Alabama Department of Revenue
+at  (334)  242-1175.   Additional  capital  credit  forms  and  information  can  be  down-
+loaded  from  the  Alabama  Department  of  Revenue’s  Web  site  at  www.ador.
+state.al.us under “Tax Incentives.”  Mail this completed form to:  Alabama Depart-
+ment of Revenue, ATTN: Capital Credit Program Administrator, P.O. Box 327001,
+Montgomery, AL 36132-7001.
+
+LINE BY LINE INSTRUCTIONS
+
+Project  Number  –  Enter  the  project  number  assigned  by  the  Alabama
+Department of Revenue when the qualifying project was originally approved.  This
+number must be on all correspondence with the Department pertaining to the cap-
+ital credit project.
+
+NAICS Code  –  Enter  the  North  American  Industry  Classification  System
+(NAICS) code for the new, expanding, small business addition, favored geographic
+area, or state docks project at which the predominate activity conducted will consti-
+tute  an  industrial,  warehousing,  or  research  activity  as  defined  in  Section  40-18-
+190(7). If the qualifying project is a Headquarters Facility, enter 000000.
+
+Act 2001-965, which was signed into law on September 26, 2001, amended the
+existing  income  tax  capital  credit,  changing  the  qualifying  Standard  Industrial
+Classification (SIC) codes to the NAICS codes, covering the same types of busi-
+nesses. Projects that were originally approved using a SIC code must convert to the
+NAICS code.
+
+Project Location – Enter the address where the project is physically located in
+
+Alabama.
+
+Type  of  Project –  Enter  the  project  type  as  originally  filed  on  Form  INT and
+Form  INT-2.  The  project  type  will  not  change  throughout  the  life  of  the  project,
+regardless of the change of ownership, interest, or participation of interest in the
+project.
+
+Date Project Was Originally Placed In Service – Enter the original placed in
+service date of the project as filed on Form INT-2. The capital credit for the qualify-
+ing project runs for 20 consecutive years from this date.
+
+Actual Project Capital Costs As Originally Filed On Form INT-2 – Enter the
+amount of actual project costs as filed originally on Form INT-2, line 6. The amount
+of the annual capital credit available to be applied against the project’s tax liability
+is determined by multiplying the total actual project capital costs on Form INT-2, line
+6, by five percent. This amount will remain constant throughout the 20-year life of
+the qualifying project.
+
+PROJECT INFORMATION PRIOR TO CHANGE OF OWNERSHIP, 
+
+INTEREST, OR PARTICIPATION OF INTEREST IN THE PROJECT
+
+Project Entity – Enter the name of the entity that was receiving the capital cred-
+
+it prior to the change of ownership, interest, or participation in the project.  
+
+Project Name – If the project was identified internally by a project name, enter
+
+the project name.
+
+Address – Enter the address to which all correspondence regarding this project
+was sent prior to the change of ownership, interest, or participation in the project.
+FEIN – Enter the Federal  Employer Identification Number of the project entity
+prior to the change of ownership, interest, or participation of interest in the project.
+Project Filing Status – Check the filing status of the project entity prior to the
+
+change of ownership, interest, or participation of interest in the project.
+
+PROJECT INFORMATION SUBSEQUENT TO CHANGE OF OWNERSHIP,
+INTEREST, OR PARTICIPATION OF INTEREST IN THE PROJECT
+
+Effective  date  of  the  change  of  Ownership,  Interest,  or  Participation  of
+Interest in Project – Enter the date the change of ownership, interest, or partici-
+pation of interest in the project occurred.  Please include month, day, and year.
+
+Description  of  the  change –  Enter  the  type  of  change  that  occurred,  i.e.,
+change of ownership, sale of project to another party, merger into another compa-
+ny, change in legal entity, change of participation of interest in project for the mem-
+bers, shareholders, or partners. Please be very detailed.
+
+Project Entity – Enter the name of the entity that will be receiving the capital
+credit subsequent to the change of ownership, interest, or participation of interest in
+the project.  The entity qualifying for the capital credit must be the entity meeting the
+requirements for the capital credit.  If the qualifying project is a joint venture, the joint
+venture must be in the form of a legal entity.
+
+Single Member Limited Liability Companies (“SMLLC”) will be classified as they
+are classified for federal income tax purposes under the Internal Revenue Service’s
+(IRS) “check-the-box” regulations.  If the investing company is a SMLLC that elects
+to be treated as a corporation for federal income tax purposes, enter the SMLLC as
+the project entity.  If the investing company is a SMLLC that does not “check-the-
+box” for federal income tax purposes, the SMLLC shall be treated as a disregarded
+entity for Alabama income tax purposes and the parent must be entered as the pro-
+ject entity. 
+
+Qualified  Subchapter  S  Subsidiaries    (Q-subs)  under  26  U.S.C.  Section
+1361(b)(3) shall be treated as disregarded entities for Alabama income tax purpos-
+es.  If the investing company is a Q-sub, the parent must be entered as the project
+entity.
+
+Project Name – If the project is identified internally by a project name, enter the
+project name.  For example, ABC, Inc. is the project entity, but the project is known
+as Alpha Division.  If the project is doing business as (dba), enter the dba name.  If
+the project entity has more than one qualifying project for the capital credit, include
+a project name that can identify each project.  If the qualifying project is a SMLLC
+treated as a disregarded entity for tax purposes, enter the name of the SMLLC as
+the project name.  If the qualifying project is a Q-sub, enter the name of the Q-sub
+as the project name.
+
+Address – Enter the address to which all correspondence regarding this project
+should be sent subsequent to the change of ownership, interest, or participation in
+the project.
+
+FEIN – Enter the Federal  Employer Identification Number of the project entity
+
+subsequent to the change of ownership, interest, or participation in the project.
+
+Project Filing Status – Check the filing status the project entity will be subse-
+quent to the change of ownership, interest, or participation of interest in the project.
+Contact Person – Enter the name of the person to be contacted if additional
+information is needed regarding the capital credit and to whom all correspondence
+for the capital credit will be sent. Include a telephone number if different from the
+number indicated above.
+
+Current Allocations of Capital Credit – List all participants of the project enti-
+ty to receive the capital credit subsequent to the change of ownership, interest, or
+participation  of  interest  in  project.    Include  the  entities’ names,  addresses,  social
+security  numbers  or  federal  employer  identification  numbers,  and  percentage  of
+credit allocated to each entity or participant.  This list will serve as the agreement
+between the Alabama Department of Revenue and the investing company or com-
+panies  specifying  the  allocation  and  treatment  of  the  capital  credit  provided  by
+Section 40-18-190 et. seq. and Section 40-18-203 et. seq., Code of Alabama 1975.
+The capital credit shall be allocated among the shareholders, partners, mem-
+bers, owners, or beneficiaries of the investing company or companies entitled to the
+capital credit based on their distributive share, whether or not distributed, of the pro-
+ject’s Alabama taxable apportionable income.  If an investing company or partici-
+pant is not listed on this schedule, the capital credit will be disallowed.  
+
+Attach additional sheets if necessary.
+
+

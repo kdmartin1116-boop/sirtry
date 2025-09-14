@@ -1,0 +1,239 @@
+<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+type="image/vnd.microsoft.icon" />
+Section II" />
+Section II | U.S. Constitution Annotated | US Law | LII / Legal Information Institute
+Please help us improve our site!
+&times;
+No thank you
+Skip to main content
+<img class="img-responsive"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+alt="Cornell University insignia" />
+Cornell Law
+School
+Search
+Cornell
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+href="#liinav">
+Toggle navigation
+<button id="survey" class="btn btn-primary icon-pencil icon-white"
+style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+us improve our site!
+<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+aria-label="Donate to LII">
+Support Us!
+Search
+<input label="Enter the terms you wish to search for." placeholder="Search"
+class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+list="autocomplete_list" aria-label="Enter search terms text box">
+<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+aria-label="Find now"><span class="glyphicon glyphicon-search"
+aria-hidden="true" role="button">
+<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">About
+LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Get the
+law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+<li role="menuitem" aria-haspopup="true"
+class="menu-item dropdown dropdown-submenu">
+<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+data-toggle="dropdown" aria-expanded="false">Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+aria-expanded="false">Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Constitution Annotated
+Article III. Judicial Branch
+Section II
+prev | next
+Section 2 Justiciability
+Clause 1 Cases and Controversies
+The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;—between a State and Citizens of another State,—between Citizens of different States,—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
+Overview of Cases and Controversies
+Historical Background
+Overview of Admiralty and Maritime Jurisdiction
+Historical Background on Admiralty and Maritime Jurisdiction
+Rules of Justiciability and the Case or Controversy Requirement
+Overview
+Historical Background
+Advisory Opinions
+Overview of Advisory Opinions
+Advisory Opinion Doctrine and Practice
+Advisory Opinions and Declaratory Judgments
+Adversity Requirement
+Overview of Adversity Requirement
+Early Adversity Doctrine
+Modern Adversity Doctrine
+Intra-Branch Litigation
+Challenges to Statutes that the Executive Branch Agrees are Unconstitutional
+Standing
+Overview of Standing
+Early Standing Doctrine
+Standing Doctrine from 1940s to 1970s
+Taxpayer Standing
+Standing of Federal and State Legislators
+Congressional Control of Standing
+The Lujan v. Defenders of Wildlife Test
+Overview of the Lujan Test
+Concrete Injury
+Particularized Injury
+Actual or Imminent Injury
+Causation
+Redressability
+Representational Standing
+Overview of Representational Standing
+Associational Standing
+States and Parens Patriae
+Assignees of a Claim
+Agency and Standing
+Overbreadth Doctrine
+Prudential Standing
+Overview of Prudential Standing
+Zone of Interests Test
+Third Party Standing
+Generalized Grievances
+Ripeness
+Overview of Ripeness Doctrine
+United Public Workers and Ripeness
+Abbott Laboratories Trilogy and Ripeness
+The Ripeness Doctrine Since 1967: Overview
+Fitness and Ripeness
+Hardship and Ripeness
+Contexts in Which Ripeness Arises
+Administrative Law and Ripeness
+Criminal Statutes and Ripeness
+Takings and Ripeness
+Continuing Vitality of Ripeness Doctrine
+Mootness
+Overview of Mootness Doctrine
+Early Mootness Doctrine
+Modern Mootness Doctrine
+General Criteria of Mootness
+Exceptions to Mootness Overview
+Voluntary Cessation Doctrine
+Capable of Repetition, Yet Evading Review
+Criminal Cases and Mootness
+Class Action Litigation and Mootness
+Political Questions
+Overview of Political Question Doctrine
+Marbury v. Madison and Political Question Doctrine
+Luther v. Borden and the Guarantee Clause
+From Coleman v. Miller to Baker v. Carr
+Modern Political Question Doctrine
+Foreign Affairs as a Political Question
+Congressional Governance as a Political Question
+Impeachment and Political Questions
+Political Process, Elections, and Gerrymandering
+Evolving Doctrine on Partisan Gerrymandering
+Nonjusticiability of Partisan Gerrymandering Claims
+Constitutional Avoidance Doctrine
+Overview of Constitutional Avoidance Doctrine
+The Judicial Branch in the Constitutional Framework
+The Counter-Majoritarian Difficulty
+Ashwander and the Rules of Constitutional Avoidance
+Judicial Minimalism
+The Last Resort Rule
+The Constitutional-Doubt Canon
+Federal Question Jurisdiction
+Overview of Federal Question Jurisdiction
+Historical Background of Federal Question Jurisdiction
+Constitutional and Statutory Grants of Federal Question Jurisdiction
+Substantive Claims and Defenses in Federal Question Cases
+Removal from State Court to Federal Court
+Supplemental Jurisdiction
+Doctrine and Practice
+Federal Admiralty and Maritime Jurisdiction Generally
+Territorial Extent of Admiralty Jurisdiction
+Jurisdiction over Categories of Admiralty Cases
+Torts Committed on Navigable Waters
+Maritime Contracts or Services
+Exclusivity of Federal Admiralty and Maritime Jurisdiction
+Cases to Which the United States is a Party
+Overview of Cases to Which the United States is a Party
+Right of the United States to Sue
+Suits Against States
+Suits Against the United States
+Controversies Between Two or More States
+Background on Controversies Between Two or More States
+Boundary Disputes Between States
+Modern Suits Between States
+Cases Where the Court Has Declined Jurisdiction
+Enforcement Authority
+Controversies Between a State and Citizens of Another State
+Historical Background on Controversies Between a State and Citizens of Another State
+Jurisdiction Confined to Civil Cases
+The State’s Real Interest
+Diversity Jurisdiction
+Overview
+Historical Background
+Citizens of Different States and Diversity Jurisdiction
+Citizenship of Natural Persons and Corporations
+Insufficient or Manufactured Diversity
+State Law in Diversity Cases and the Erie Doctrine
+Conflicts-of-Law and Procedural Rules in Diversity Cases
+Land Grants by Different States
+Controversies Between a State or its Citizens and Foreign States or Citizens
+Overview of Controversies with Foreign States or Citizens
+Suits Involving Foreign States
+Limitations on Jurisdiction
+Clause 2 Jurisdiction
+In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
+Overview of Supreme Court Jurisdiction
+Supreme Court Original Jurisdiction
+Original Cases Affecting Ambassadors, Public Ministers, and Consuls
+Supreme Court Appellate Jurisdiction
+Supreme Court Review of State Court Decisions
+Exceptions Clause and Congressional Control over Appellate Jurisdiction
+Clause 3 Trials
+The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.
+Jury Trials
+U.S. Constitution Annotated Toolbox
+Explanation of the Constitution - from the Congressional Research Service
+<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+data-domain="lawyers.law.cornell.edu">
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+<img width="62" height="43"
+src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+alt="LII logo">

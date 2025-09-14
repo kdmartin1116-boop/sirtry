@@ -1,0 +1,22 @@
+Date: [DATE]
+
+To: [RECIPIENT_NAME]
+[RECIPIENT_ADDRESS]
+
+From: [YOUR_NAME]
+[YOUR_ADDRESS]
+
+Subject: NOTICE OF [NOTICE_SUBJECT]
+
+Dear [RECIPIENT_NAME],
+
+This is a formal notice regarding [NOTICE_DETAILS].
+
+I hereby state that [YOUR_STATEMENT].
+
+I reserve all my rights without prejudice, UCC 1-308.
+
+Sincerely,
+
+[YOUR_NAME]
+All Rights Reserved

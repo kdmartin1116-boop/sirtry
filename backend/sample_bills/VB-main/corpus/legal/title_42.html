@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1734385-15"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	</script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDVVHXRDE6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+	</script>
+
+	<meta charset="utf-8" />
+	<meta name="version" content="v10.15.3" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+		type="image/vnd.microsoft.icon" />
+	<link rel="canonical" href="https://www.law.cornell.edu/uscode/text/42">
+
+	<meta property="og:site_name" content="LII / Legal Information Institute" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.law.cornell.edu/uscode/text/42" />
+	<meta property="og:title" content="U.S. Code: Title 42 — THE PUBLIC HEALTH AND WELFARE" />
+	<meta property="og:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	
+	<meta name="twitter:card" content="US Code - Title 42" />
+	<meta name="twitter:site" content="@LIICornell" />
+	<meta name="twitter:url" content="https://www.law.cornell.edu/uscode/text/42" />
+	<meta name="twitter:title" content="U.S. Code: Title 42 — THE PUBLIC HEALTH AND WELFARE" />
+	<meta name="twitter:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	<meta name="dcterms.title" content="U.S. Code: Title 42 — THE PUBLIC HEALTH AND WELFARE" />
+
+
+	<title>U.S. Code: Title 42 — THE PUBLIC HEALTH AND WELFARE | U.S. Code | US Law | LII / Legal Information Institute</title>
+	
+
+	<!-- schema.org metadata -->
+	<script type="application/ld+json">
+		{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/uscode/text", "name": "U.S. Code"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/uscode/text/42", "name": "Title 42"}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/uscode/text/42", "name": "Title 42", "author": {"@type": "Organization", "name": "Office of the Law Revision Counsel", "url": "http://uscode.house.gov/about_office.xhtml"}, "description": "US Code - Title 42", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+	</script>
+	<!-- /schema.org -->
+
+	<!-- API url -->
+	<script>
+		SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+	</script>
+
+	<script src="/js/jquery-3.6.1.min.js"></script>
+	<script src="/js/js.cookie.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/fonts/open-sans.css">
+
+	
+	<link rel="stylesheet" type="text/css" href="/staticsite_styles/lii_stylenator_v48.min.css" />
+	 
+
+	
+
+	<!-- include adcode -->
+	<script type='text/javascript'>
+		!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+	</script>
+
+	<!-- mobile: vignettes and page-level -->
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'>
+	</script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+	</script>
+
+	<!-- adsense -->
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/USC_ROC_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/USC_ROC_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/USC_ROC_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/USC_ROC_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+	</script>
+	<!-- /adsense -->
+	<!-- /include adcode -->
+
+	
+	<script src="https://justatic.com/v/20160725b/shared/js/widgets/find-a-lawyer.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	
+
+	
+<div id="liisurveymodal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="liisurveymodal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+                <div class="modal-title-box">Please help us improve our site!</div>	
+            <div class="modal-header">
+                <button type="button" class="close" onclick="snooze_survey()" data-dismiss="modal">&times;</button>
+            </div>			
+            <div class="modal-body">	  
+                <iframe title="Survey Frame" class="survey-content" id="iframeHolder"></iframe>
+            </div>		
+            <div class="modal-footer">
+                <a href="#" class="btn btn-primary" class="close" data-dismiss="modal" onclick="snooze_survey()">No thank you</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<header id="conannav" class="navbar navbar-fixed-top active">
+		<a href="#content" class="skip">Skip to main content</a>
+
+		<div id="cu-identity">
+			<div class="container-fluid">
+				<a href="https://www.cornell.edu" id="insignialink" title="Cornell University">
+					<img class="img-responsive"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+						alt="Cornell University insignia" />
+				</a>
+				<a href="https://www.lawschool.cornell.edu/" id="clslink" title="Cornell Law School">Cornell Law
+					School</a>
+				<a href="https://www.cornell.edu/search/" id="cusearch" title="Search Cornell University">Search
+					Cornell</a>
+			</div>
+		</div>
+
+		<div id="lii-identity" class="col-12 identity-header">
+			<div id="liiheader" class="container-fluid">
+				<nav id="liiallnav" class="navbar" aria-label="Main">
+					<div id="liibanner" class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+							href="#liinav">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<div id="liilogodiv">
+							<a id="liilogo" class="navbar-brand" href="/" aria-label="lii logo"></a>
+						</div>
+						<div class="navbar-right" id="liinavbarstuff">
+							
+							<button id="survey" class="btn btn-primary icon-pencil icon-white"
+								style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+								us improve our site!</button>
+
+							<div id="liidonatewrap">
+								<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+									aria-label="Donate to LII">
+									<span class="glyphicon glyphicon-gift"></span>
+									<span class="gltxt">Support Us!</span>
+								</a>
+							</div>
+
+							<div id="liisearchlinkwrap">
+								<a id="liisearchlink" href="#" class="navbar-link cured" aria-label="Search LII">
+									<span class="glyphicon glyphicon-search"></span>
+									<span class="gltxt">Search</span>
+								</a>
+							</div>
+
+							<div id="liisearch" href="#">
+								<div class="input-group" id="adv-search" role="search">
+									<input label="Enter the terms you wish to search for." placeholder="Search"
+										class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+										list="autocomplete_list" aria-label="Enter search terms text box">
+									<datalist id="autocomplete_list">
+									</datalist>
+									<div class="input-group-btn">
+										<div class="btn-group" role="group" aria-label="Filter and search buttons">
+											<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+												aria-label="Find now"><span class="glyphicon glyphicon-search"
+													aria-hidden="true" role="button"></span></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="liinav" class="collapse navbar-collapse">
+							<ul id="liiheadernav" class="nav navbar-nav" role="menubar" aria-hidden="false">
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">About
+										LII</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/lii/about/who_we_are">Who We Are</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/what_we_do">What We Do</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/who_pays_for_this">Who Pays For This</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/contact_us">Contact Us</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Get the
+										law</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a title="U.S. Constitution" href="/constitution">Constitution</a>
+										</li>
+										<li role="menuitem">
+											<a title="Supreme Court" href="/supremecourt/text/home">Supreme Court</a>
+										</li>
+										<li role="menuitem">
+											<a title="U.S. Code" href="/uscode/text">U.S. Code</a>
+										</li>
+										<li role="menuitem">
+											<a title="C.F.R." href="/cfr/text">CFR</a>
+										</li>
+										<li role="menuitem" aria-haspopup="true"
+											class="menu-item dropdown dropdown-submenu">
+											<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Federal Rules</a>
+											<ul role="menu" aria-hidden="true" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/rules/frap">Federal Rules of Appellate Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcp">Federal Rules of Civil Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcrmp">Federal Rules of Criminal Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/fre">Federal Rules of Evidence</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frbp">Federal Rules of Bankruptcy Procedure</a>
+												</li>
+											</ul>
+										</li>
+										<li role="menuitem">
+											<a title="U.C.C." href="/ucc">U.C.C.</a>
+										</li>
+										<li aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+											<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Law by jurisdiction</a>
+											<ul role="menu" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/states">State law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/uniform">Uniform laws</a>
+												</li>
+												<li role="menuitem">
+													<a href="/federal">Federal law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/world">World law</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem">
+									<a href="https://lawyers.law.cornell.edu/">Lawyer directory</a>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Legal encyclopedia</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/wex/category/business_law">Business law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/constitutional_law">Constitutional law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/criminal_law_and_procedure">Criminal law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/family_law">Family law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/employment_law">Employment law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/money_and_financial_problems">Money and Finances</a>
+										</li>
+
+										<li role="menuitem">
+											<a href="/wex/wex_articles">More...</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Help out</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem" aria-hidden="true">
+											<a href="/donate">Give</a>
+										</li>
+										<li role="menuitem" aria-hidden="true">
+											<a href="/lii/help_out/sponsor">Sponsor</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/advertise">Advertise</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/create">Create</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/promote">Promote</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/join_directory">Join Lawyer Directory</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<ul id="liinavsoc" class="nav navbar-nav navbar-right">
+								<li>
+									
+									<div class="addthis_horizontal_follow_toolbox"></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					
+				</nav>
+			</div>
+		</div>
+		
+		
+	</header>
+	<br><br>
+	
+	<div id="breadcrumb" class="container-fluid">
+		<div class="row">
+			<div class="navbar-header">
+				<nav aria-label="breadcrumb" class="bc-icons-2">
+					<ol class="breadcrumb">
+						
+						
+						
+						<li class="breadcrumb-item"><a href="/">LII</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item" aria-label="U.S. Code table of contents"><a
+								href="/uscode/text">U.S. Code</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item breadcrumb-last">Title 42</li>
+						
+						 
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+	
+
+	<main id="main" class="container-fluid">
+		<div id="content" class="col-sm-8">
+			<div class="pagewrapper">
+				<div class="container-fluid">
+					<div class="row">
+						
+						<div title="Definitions Frame"></div>
+						
+<small id="titleHelp" class="form-text">Quick search by citation:</small>
+<form class="form-inline">
+    <div class="form-group mb-2">
+        <label for="titleinput">Title</label>
+        <input type="number" name="quicksearch" class="form-control" id="titleinput" aria-describedby="titleHelp" placeholder="enter title"
+            title="US Code Title number" type="number" value="">
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label for="sectioninput">Section</label>
+        <input type="text" name="quicksearch" class="form-control" id="sectioninput" pattern="[A-Za-z0-9]+" placeholder="section"
+            title="US Code Section number" value="">
+    </div>
+    <button id="RedirectUSC" type="submit" class="btn btn-primary">Go!</button>
+</form>
+
+						
+						
+						<h1 class="title" id="page_title"> U.S. Code: Title 42 — THE PUBLIC HEALTH AND WELFARE </h1>
+<div class="tabbable-panel">
+<div class="tabbable-line">
+<ul class="nav nav-tabs ">
+<li class="active">
+<a data-toggle="tab" href="#tab_default_1">
+                        U.S. Code </a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="prevnext">
+<a href="/uscode/text/41" title="PUBLIC CONTRACTS">prev</a> | <a href="/uscode/text/43" title="PUBLIC LANDS">next</a>
+</div>
+<div class="tab-pane active" id="tab_default_1">
+<!-- 'text' content area -->
+<text><div class="text">
+<div class="title">
+</div>
+<div class="toc title">
+<ol class="list-unstyled">
+<li class="tocitem"><a href="/uscode/text/42/chapter-1" title="THE PUBLIC HEALTH SERVICE">CHAPTER 1—THE PUBLIC HEALTH SERVICE (§§ 1 – 70a)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-1A" title="THE PUBLIC HEALTH SERVICE; SUPPLEMENTAL PROVISIONS">CHAPTER 1A—THE PUBLIC HEALTH SERVICE; SUPPLEMENTAL PROVISIONS (§§ 71 – 71r)</a></li>
+<li class="tocitem"><a aria-label="Chapter 2—Sanitation And Quarantine (§§ 81 – 114)" href="/uscode/text/42/chapter-2" title="SANITATION AND QUARANTINE">CHAPTER 2—SANITATION AND QUARANTINE (§§ 81 – 114)</a></li>
+<li class="tocitem"><a aria-label="Chapter 3—Leprosy (§§ 121 – 131)" href="/uscode/text/42/chapter-3" title="LEPROSY">CHAPTER 3—LEPROSY (§§ 121 – 131)</a></li>
+<li class="tocitem"><a aria-label="Chapter 3A—Cancer (§ 137)" href="/uscode/text/42/chapter-3A" title="CANCER">CHAPTER 3A—CANCER (§ 137)</a></li>
+<li class="tocitem"><a aria-label="Chapter 4—Viruses, Serums, Toxins, Antitoxins, Etc. (§ 141)" href="/uscode/text/42/chapter-4" title="VIRUSES, SERUMS, TOXINS, ANTITOXINS, ETC.">CHAPTER 4—VIRUSES, SERUMS, TOXINS, ANTITOXINS, ETC. (§ 141)</a></li>
+<li class="tocitem"><a aria-label="Chapter 5—Maternity And Infancy Welfare And Hygiene (§ 161)" href="/uscode/text/42/chapter-5" title="MATERNITY AND INFANCY WELFARE AND HYGIENE">CHAPTER 5—MATERNITY AND INFANCY WELFARE AND HYGIENE (§ 161)</a></li>
+<li class="tocitem"><a aria-label="Chapter 6—The Children’S Bureau (§§ 191 – 194)" href="/uscode/text/42/chapter-6" title="THE CHILDREN’S BUREAU">CHAPTER 6—THE CHILDREN’S BUREAU (§§ 191 – 194)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-6A" title="PUBLIC HEALTH SERVICE">CHAPTER 6A—PUBLIC HEALTH SERVICE (§§ 201 – 300mm–64)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-7" title="SOCIAL SECURITY">CHAPTER 7—SOCIAL SECURITY (§§ 301 – 1397mm)</a></li>
+<li class="tocitem"><a aria-label="Chapter 7A—Temporary Unemployment Compensation Program (§ 1400)" href="/uscode/text/42/chapter-7A" title="TEMPORARY UNEMPLOYMENT COMPENSATION PROGRAM">CHAPTER 7A—TEMPORARY UNEMPLOYMENT COMPENSATION PROGRAM (§ 1400)</a></li>
+<li class="tocitem"><a aria-label="Chapter 8—Low-Income Housing (§§ 1401 – 1440)" href="/uscode/text/42/chapter-8" title="LOW-INCOME HOUSING">CHAPTER 8—LOW-INCOME HOUSING (§§ 1401 – 1440)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-8A" title="SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING">CHAPTER 8A—SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING (§§ 1441 – 1490t)</a></li>
+<li class="tocitem"><a aria-label="Chapter 8B—Public Works Or Facilities (§ 1491)" href="/uscode/text/42/chapter-8B" title="PUBLIC WORKS OR FACILITIES">CHAPTER 8B—PUBLIC WORKS OR FACILITIES (§ 1491)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-8C" title="OPEN-SPACE LAND">CHAPTER 8C—OPEN-SPACE LAND (§§ 1500 – 1500c–1)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-9" title="HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE">CHAPTER 9—HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE (§§ 1501 – 1594j–1)</a></li>
+<li class="tocitem"><a aria-label="Chapter 10—Federal Security Agency (§§ 1601 – 1603)" href="/uscode/text/42/chapter-10" title="FEDERAL SECURITY AGENCY">CHAPTER 10—FEDERAL SECURITY AGENCY (§§ 1601 – 1603)</a></li>
+<li class="tocitem"><a aria-label="Chapter 11—Compensation For Disability Or Death To Persons Employed At Military, Air, And Naval Bases Outside United States (§§ 1651 – 1655)" href="/uscode/text/42/chapter-11" title="COMPENSATION FOR DISABILITY OR DEATH TO PERSONS EMPLOYED AT MILITARY, AIR, AND NAVAL BASES OUTSIDE UNITED STATES">CHAPTER 11—COMPENSATION FOR DISABILITY OR DEATH TO PERSONS EMPLOYED AT MILITARY, AIR, AND NAVAL BASES OUTSIDE UNITED STATES (§§ 1651 – 1655)</a></li>
+<li class="tocitem"><a aria-label="Chapter 12—Compensation For Injury, Death, Or Detention Of Employees Of Contractors With United States Outside United States (§§ 1701 – 1717)" href="/uscode/text/42/chapter-12" title="COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES">CHAPTER 12—COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES (§§ 1701 – 1717)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-13" title="SCHOOL LUNCH PROGRAMS">CHAPTER 13—SCHOOL LUNCH PROGRAMS (§§ 1751 – 1769j)</a></li>
+<li class="tocitem"><a aria-label="Chapter 13A—Child Nutrition (§§ 1771 – 1793)" href="/uscode/text/42/chapter-13A" title="CHILD NUTRITION">CHAPTER 13A—CHILD NUTRITION (§§ 1771 – 1793)</a></li>
+<li class="tocitem"><a aria-label="Chapter 14—Development And Control Of Atomic Energy (§ 1801)" href="/uscode/text/42/chapter-14" title="DEVELOPMENT AND CONTROL OF ATOMIC ENERGY">CHAPTER 14—DEVELOPMENT AND CONTROL OF ATOMIC ENERGY (§ 1801)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-15" title="DISASTER RELIEF">CHAPTER 15—DISASTER RELIEF (§§ 1851 – 1855aaa)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-15A" title="RECIPROCAL FIRE PROTECTION AGREEMENTS">CHAPTER 15A—RECIPROCAL FIRE PROTECTION AGREEMENTS (§§ 1856 – 1856p)</a></li>
+<li class="tocitem"><a aria-label="Chapter 15B—Air Pollution Control (§§ 1857 – 1858)" href="/uscode/text/42/chapter-15B" title="AIR POLLUTION CONTROL">CHAPTER 15B—AIR POLLUTION CONTROL (§§ 1857 – 1858)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16—National Science Foundation (§§ 1861 – 1887)" href="/uscode/text/42/chapter-16" title="NATIONAL SCIENCE FOUNDATION">CHAPTER 16—NATIONAL SCIENCE FOUNDATION (§§ 1861 – 1887)</a></li>
+<li class="tocitem"><a aria-label="Chapter 16A—Grants For Support Of Scientific Research (§§ 1891 – 1893)" href="/uscode/text/42/chapter-16A" title="GRANTS FOR SUPPORT OF SCIENTIFIC RESEARCH">CHAPTER 16A—GRANTS FOR SUPPORT OF SCIENTIFIC RESEARCH (§§ 1891 – 1893)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-16B" title="CONTRACTS FOR SCIENTIFIC AND TECHNOLOGICAL RESEARCH">CHAPTER 16B—CONTRACTS FOR SCIENTIFIC AND TECHNOLOGICAL RESEARCH (§§ 1900 – 1900b)</a></li>
+<li class="tocitem"><a aria-label="Chapter 17—Federal Employment Service (§ 1901)" href="/uscode/text/42/chapter-17" title="FEDERAL EMPLOYMENT SERVICE">CHAPTER 17—FEDERAL EMPLOYMENT SERVICE (§ 1901)</a></li>
+<li class="tocitem"><a aria-label="Chapter 18—Youth Medals (§§ 1921 – 1926)" href="/uscode/text/42/chapter-18" title="YOUTH MEDALS">CHAPTER 18—YOUTH MEDALS (§§ 1921 – 1926)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-19" title="SALINE AND SALT WATERS">CHAPTER 19—SALINE AND SALT WATERS (§§ 1951 – 1959i)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-19A" title="WATER RESOURCES RESEARCH PROGRAM">CHAPTER 19A—WATER RESOURCES RESEARCH PROGRAM (§§ 1961 – 1961c)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-19B" title="WATER RESOURCES PLANNING">CHAPTER 19B—WATER RESOURCES PLANNING (§§ 1962 – 1962d–22)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-20" title="ELECTIVE FRANCHISE">CHAPTER 20—ELECTIVE FRANCHISE (§§ 1971 – 1974e)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-20A" title="CIVIL RIGHTS COMMISSION">CHAPTER 20A—CIVIL RIGHTS COMMISSION (§§ 1975 – 1975e)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21" title="CIVIL RIGHTS">CHAPTER 21—CIVIL RIGHTS (§§ 1981 – 2000h–6)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21A" title="PRIVACY PROTECTION">CHAPTER 21A—PRIVACY PROTECTION (§§ 2000aa – 2000aa–12)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21B" title="RELIGIOUS FREEDOM RESTORATION">CHAPTER 21B—RELIGIOUS FREEDOM RESTORATION (§§ 2000bb – 2000bb–4)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21C" title="PROTECTION OF RELIGIOUS EXERCISE IN LAND USE AND BY INSTITUTIONALIZED PERSONS">CHAPTER 21C—PROTECTION OF RELIGIOUS EXERCISE IN LAND USE AND BY INSTITUTIONALIZED PERSONS (§§ 2000cc – 2000cc–5)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21D" title="DETAINEE TREATMENT">CHAPTER 21D—DETAINEE TREATMENT (§§ 2000dd – 2000dd–2)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21E" title="PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT">CHAPTER 21E—PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT (§§ 2000ee – 2000ee–3)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21F" title="PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC INFORMATION">CHAPTER 21F—PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC INFORMATION (§§ 2000ff – 2000ff–11)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-21G" title="PREGNANT WORKER FAIRNESS">CHAPTER 21G—PREGNANT WORKER FAIRNESS (§§ 2000gg – 2000gg–6)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-22" title="INDIAN HOSPITALS AND HEALTH FACILITIES">CHAPTER 22—INDIAN HOSPITALS AND HEALTH FACILITIES (§§ 2001 – 2005f)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-23" title="DEVELOPMENT AND CONTROL OF ATOMIC ENERGY">CHAPTER 23—DEVELOPMENT AND CONTROL OF ATOMIC ENERGY (§§ 2011 – 2297h–13)</a></li>
+<li class="tocitem"><a aria-label="Chapter 24—Disposal Of Atomic Energy Communities (§§ 2301 – 2394)" href="/uscode/text/42/chapter-24" title="DISPOSAL OF ATOMIC ENERGY COMMUNITIES">CHAPTER 24—DISPOSAL OF ATOMIC ENERGY COMMUNITIES (§§ 2301 – 2394)</a></li>
+<li class="tocitem"><a aria-label="Chapter 25—Federal Flood Insurance (§§ 2401 – 2415)" href="/uscode/text/42/chapter-25" title="FEDERAL FLOOD INSURANCE">CHAPTER 25—FEDERAL FLOOD INSURANCE (§§ 2401 – 2415)</a></li>
+<li class="tocitem"><a aria-label="Chapter 26—National Space Program (§§ 2451 – 2481)" href="/uscode/text/42/chapter-26" title="NATIONAL SPACE PROGRAM">CHAPTER 26—NATIONAL SPACE PROGRAM (§§ 2451 – 2481)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-26A" title="NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM">CHAPTER 26A—NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM (§§ 2486 – 2486k)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-26B" title="BIOMEDICAL RESEARCH IN SPACE">CHAPTER 26B—BIOMEDICAL RESEARCH IN SPACE (§§ 2487 – 2487e)</a></li>
+<li class="tocitem"><a aria-label="Chapter 27—Loan Service Of Captioned Films And Educational Media For Handicapped (§§ 2491 – 2495)" href="/uscode/text/42/chapter-27" title="LOAN SERVICE OF CAPTIONED FILMS AND EDUCATIONAL MEDIA FOR HANDICAPPED">CHAPTER 27—LOAN SERVICE OF CAPTIONED FILMS AND EDUCATIONAL MEDIA FOR HANDICAPPED (§§ 2491 – 2495)</a></li>
+<li class="tocitem"><a aria-label="Chapter 28—Area Redevelopment Program (§§ 2501 – 2515)" href="/uscode/text/42/chapter-28" title="AREA REDEVELOPMENT PROGRAM">CHAPTER 28—AREA REDEVELOPMENT PROGRAM (§§ 2501 – 2515)</a></li>
+<li class="tocitem"><a aria-label="Chapter 29—Juvenile Delinquency And Youth Offenses Control (§ 2541)" href="/uscode/text/42/chapter-29" title="JUVENILE DELINQUENCY AND YOUTH OFFENSES CONTROL">CHAPTER 29—JUVENILE DELINQUENCY AND YOUTH OFFENSES CONTROL (§ 2541)</a></li>
+<li class="tocitem"><a aria-label="Chapter 30—Manpower Development And Training Program (§§ 2571 – 2624)" href="/uscode/text/42/chapter-30" title="MANPOWER DEVELOPMENT AND TRAINING PROGRAM">CHAPTER 30—MANPOWER DEVELOPMENT AND TRAINING PROGRAM (§§ 2571 – 2624)</a></li>
+<li class="tocitem"><a aria-label="Chapter 31—Public Works Acceleration Program (§§ 2641 – 2643)" href="/uscode/text/42/chapter-31" title="PUBLIC WORKS ACCELERATION PROGRAM">CHAPTER 31—PUBLIC WORKS ACCELERATION PROGRAM (§§ 2641 – 2643)</a></li>
+<li class="tocitem"><a aria-label="Chapter 32—Third Party Liability For Hospital And Medical Care (§§ 2651 – 2653)" href="/uscode/text/42/chapter-32" title="THIRD PARTY LIABILITY FOR HOSPITAL AND MEDICAL CARE">CHAPTER 32—THIRD PARTY LIABILITY FOR HOSPITAL AND MEDICAL CARE (§§ 2651 – 2653)</a></li>
+<li class="tocitem"><a aria-label="Chapter 33—Community Mental Health Centers (§§ 2661 – 2698)" href="/uscode/text/42/chapter-33" title="COMMUNITY MENTAL HEALTH CENTERS">CHAPTER 33—COMMUNITY MENTAL HEALTH CENTERS (§§ 2661 – 2698)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-34" title="ECONOMIC OPPORTUNITY PROGRAM">CHAPTER 34—ECONOMIC OPPORTUNITY PROGRAM (§§ 2701 – 2996l)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-35" title="PROGRAMS FOR OLDER AMERICANS">CHAPTER 35—PROGRAMS FOR OLDER AMERICANS (§§ 3001 – 3058ff)</a></li>
+<li class="tocitem"><a aria-label="Chapter 35A—Community Service Employment For Older Americans (§ 3061)" href="/uscode/text/42/chapter-35A" title="COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS">CHAPTER 35A—COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS (§ 3061)</a></li>
+<li class="tocitem"><a aria-label="Chapter 36—Compensation Of Con­Demnees In Development Programs (§ 3071)" href="/uscode/text/42/chapter-36" title="COMPENSATION OF CON­DEMNEES IN DEVELOPMENT PROGRAMS">CHAPTER 36—COMPENSATION OF CON­DEMNEES IN DEVELOPMENT PROGRAMS (§ 3071)</a></li>
+<li class="tocitem"><a aria-label="Chapter 37—Community Facilities And Advance Land Acquisition (§§ 3101 – 3108)" href="/uscode/text/42/chapter-37" title="COMMUNITY FACILITIES AND ADVANCE LAND ACQUISITION">CHAPTER 37—COMMUNITY FACILITIES AND ADVANCE LAND ACQUISITION (§§ 3101 – 3108)</a></li>
+<li class="tocitem"><a aria-label="Chapter 38—Public Works And Economic Development (§§ 3121 – 3234)" href="/uscode/text/42/chapter-38" title="PUBLIC WORKS AND ECONOMIC DEVELOPMENT">CHAPTER 38—PUBLIC WORKS AND ECONOMIC DEVELOPMENT (§§ 3121 – 3234)</a></li>
+<li class="tocitem"><a aria-label="Chapter 39—Solid Waste Disposal (§§ 3251 – 3256)" href="/uscode/text/42/chapter-39" title="SOLID WASTE DISPOSAL">CHAPTER 39—SOLID WASTE DISPOSAL (§§ 3251 – 3256)</a></li>
+<li class="tocitem"><a aria-label="Chapter 40—Soil Information Assistance For Community Planning And Resource Development (§§ 3271 – 3274)" href="/uscode/text/42/chapter-40" title="SOIL INFORMATION ASSISTANCE FOR COMMUNITY PLANNING AND RESOURCE DEVELOPMENT">CHAPTER 40—SOIL INFORMATION ASSISTANCE FOR COMMUNITY PLANNING AND RESOURCE DEVELOPMENT (§§ 3271 – 3274)</a></li>
+<li class="tocitem"><a aria-label="Chapter 41—Demonstration Cities And Metropolitan Development Program (§§ 3301 – 3374)" href="/uscode/text/42/chapter-41" title="DEMONSTRATION CITIES AND METROPOLITAN DEVELOPMENT PROGRAM">CHAPTER 41—DEMONSTRATION CITIES AND METROPOLITAN DEVELOPMENT PROGRAM (§§ 3301 – 3374)</a></li>
+<li class="tocitem"><a aria-label="Chapter 42—Narcotic Addict Rehabilitation (§§ 3401 – 3442)" href="/uscode/text/42/chapter-42" title="NARCOTIC ADDICT REHABILITATION">CHAPTER 42—NARCOTIC ADDICT REHABILITATION (§§ 3401 – 3442)</a></li>
+<li class="tocitem"><a aria-label="Chapter 43—Department Of Health And Human Services (§§ 3501 – 3521)" href="/uscode/text/42/chapter-43" title="DEPARTMENT OF HEALTH AND HUMAN SERVICES">CHAPTER 43—DEPARTMENT OF HEALTH AND HUMAN SERVICES (§§ 3501 – 3521)</a></li>
+<li class="tocitem"><a aria-label="Chapter 44—Department Of Housing And Urban Development (§§ 3531 – 3550)" href="/uscode/text/42/chapter-44" title="DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT">CHAPTER 44—DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (§§ 3531 – 3550)</a></li>
+<li class="tocitem"><a aria-label="Chapter 45—Fair Housing (§§ 3601 – 3631)" href="/uscode/text/42/chapter-45" title="FAIR HOUSING">CHAPTER 45—FAIR HOUSING (§§ 3601 – 3631)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-46" title="JUSTICE SYSTEM IMPROVEMENT">CHAPTER 46—JUSTICE SYSTEM IMPROVEMENT (§§ 3701 – 3797ff–6)</a></li>
+<li class="tocitem"><a aria-label="Chapter 47—Juvenile Delinquency Prevention And Control (§§ 3801 – 3890)" href="/uscode/text/42/chapter-47" title="JUVENILE DELINQUENCY PREVENTION AND CONTROL">CHAPTER 47—JUVENILE DELINQUENCY PREVENTION AND CONTROL (§§ 3801 – 3890)</a></li>
+<li class="tocitem"><a aria-label="Chapter 48—Guarantees For Financing New Community Land Development (§§ 3901 – 3914)" href="/uscode/text/42/chapter-48" title="GUARANTEES FOR FINANCING NEW COMMUNITY LAND DEVELOPMENT">CHAPTER 48—GUARANTEES FOR FINANCING NEW COMMUNITY LAND DEVELOPMENT (§§ 3901 – 3914)</a></li>
+<li class="tocitem"><a aria-label="Chapter 49—National Housing Partnerships (§§ 3931 – 3941)" href="/uscode/text/42/chapter-49" title="NATIONAL HOUSING PARTNERSHIPS">CHAPTER 49—NATIONAL HOUSING PARTNERSHIPS (§§ 3931 – 3941)</a></li>
+<li class="tocitem"><a aria-label="Chapter 50—National Flood Insurance (§§ 4001 – 4131)" href="/uscode/text/42/chapter-50" title="NATIONAL FLOOD INSURANCE">CHAPTER 50—NATIONAL FLOOD INSURANCE (§§ 4001 – 4131)</a></li>
+<li class="tocitem"><a aria-label="Chapter 51—Design And Construction Of Public Buildings To Accommodate Physically Handicapped (§§ 4151 – 4157)" href="/uscode/text/42/chapter-51" title="DESIGN AND CONSTRUCTION OF PUBLIC BUILDINGS TO ACCOMMODATE PHYSICALLY HANDICAPPED">CHAPTER 51—DESIGN AND CONSTRUCTION OF PUBLIC BUILDINGS TO ACCOMMODATE PHYSICALLY HANDICAPPED (§§ 4151 – 4157)</a></li>
+<li class="tocitem"><a aria-label="Chapter 52—Intergovernmental Cooperation (§§ 4201 – 4241)" href="/uscode/text/42/chapter-52" title="INTERGOVERNMENTAL COOPERATION">CHAPTER 52—INTERGOVERNMENTAL COOPERATION (§§ 4201 – 4241)</a></li>
+<li class="tocitem"><a aria-label="Chapter 52A—Joint Funding Simplification (§ 4251)" href="/uscode/text/42/chapter-52A" title="JOINT FUNDING SIMPLIFICATION">CHAPTER 52A—JOINT FUNDING SIMPLIFICATION (§ 4251)</a></li>
+<li class="tocitem"><a aria-label="Chapter 53—Advisory Commission On Intergovernmental Relations (§§ 4271 – 4279)" href="/uscode/text/42/chapter-53" title="ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS">CHAPTER 53—ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS (§§ 4271 – 4279)</a></li>
+<li class="tocitem"><a aria-label="Chapter 54—Cabinet Committee On Opportunities For Spanish-Speaking People (§ 4301)" href="/uscode/text/42/chapter-54" title="CABINET COMMITTEE ON OPPORTUNITIES FOR SPANISH-SPEAKING PEOPLE">CHAPTER 54—CABINET COMMITTEE ON OPPORTUNITIES FOR SPANISH-SPEAKING PEOPLE (§ 4301)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-55" title="NATIONAL ENVIRONMENTAL POLICY">CHAPTER 55—NATIONAL ENVIRONMENTAL POLICY (§§ 4321 – 4370m–12)</a></li>
+<li class="tocitem"><a aria-label="Chapter 56—Environmental Quality Improvement (§§ 4371 – 4375)" href="/uscode/text/42/chapter-56" title="ENVIRONMENTAL QUALITY IMPROVEMENT">CHAPTER 56—ENVIRONMENTAL QUALITY IMPROVEMENT (§§ 4371 – 4375)</a></li>
+<li class="tocitem"><a aria-label="Chapter 57—Environmental Pollution Study (§§ 4391 – 4395)" href="/uscode/text/42/chapter-57" title="ENVIRONMENTAL POLLUTION STUDY">CHAPTER 57—ENVIRONMENTAL POLLUTION STUDY (§§ 4391 – 4395)</a></li>
+<li class="tocitem"><a aria-label="Chapter 58—Disaster Relief (§§ 4401 – 4481)" href="/uscode/text/42/chapter-58" title="DISASTER RELIEF">CHAPTER 58—DISASTER RELIEF (§§ 4401 – 4481)</a></li>
+<li class="tocitem"><a aria-label="Chapter 59—National Urban Policy And New Community Development (§§ 4501 – 4528)" href="/uscode/text/42/chapter-59" title="NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT">CHAPTER 59—NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT (§§ 4501 – 4528)</a></li>
+<li class="tocitem"><a aria-label="Chapter 60—Comprehensive Alcohol Abuse And Alcoholism Prevention, Treatment, And Rehabilitation Program (§§ 4541 – 4594)" href="/uscode/text/42/chapter-60" title="COMPREHENSIVE ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT, AND REHABILITATION PROGRAM">CHAPTER 60—COMPREHENSIVE ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT, AND REHABILITATION PROGRAM (§§ 4541 – 4594)</a></li>
+<li class="tocitem"><a aria-label="Chapter 61—Uniform Relocation Assistance And Real Property Acquisition Policies For Federal And Federally Assisted Programs (§§ 4601 – 4655)" href="/uscode/text/42/chapter-61" title="UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS">CHAPTER 61—UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS (§§ 4601 – 4655)</a></li>
+<li class="tocitem"><a aria-label="Chapter 62—Intergovernmental Personnel Program (§§ 4701 – 4772)" href="/uscode/text/42/chapter-62" title="INTERGOVERNMENTAL PERSONNEL PROGRAM">CHAPTER 62—INTERGOVERNMENTAL PERSONNEL PROGRAM (§§ 4701 – 4772)</a></li>
+<li class="tocitem"><a aria-label="Chapter 63—Lead-Based Paint Poisoning Prevention (§§ 4801 – 4846)" href="/uscode/text/42/chapter-63" title="LEAD-BASED PAINT POISONING PREVENTION">CHAPTER 63—LEAD-BASED PAINT POISONING PREVENTION (§§ 4801 – 4846)</a></li>
+<li class="tocitem"><a aria-label="Chapter 63A—Residential Lead-Based Paint Hazard Reduction (§§ 4851 – 4856)" href="/uscode/text/42/chapter-63A" title="RESIDENTIAL LEAD-BASED PAINT HAZARD REDUCTION">CHAPTER 63A—RESIDENTIAL LEAD-BASED PAINT HAZARD REDUCTION (§§ 4851 – 4856)</a></li>
+<li class="tocitem"><a aria-label="Chapter 64—Public Service Employment Programs (§ 4871)" href="/uscode/text/42/chapter-64" title="PUBLIC SERVICE EMPLOYMENT PROGRAMS">CHAPTER 64—PUBLIC SERVICE EMPLOYMENT PROGRAMS (§ 4871)</a></li>
+<li class="tocitem"><a aria-label="Chapter 65—Noise Control (§§ 4901 – 4918)" href="/uscode/text/42/chapter-65" title="NOISE CONTROL">CHAPTER 65—NOISE CONTROL (§§ 4901 – 4918)</a></li>
+<li class="tocitem"><a aria-label="Chapter 66—Domestic Volunteer Services (§§ 4950 – 5091)" href="/uscode/text/42/chapter-66" title="DOMESTIC VOLUNTEER SERVICES">CHAPTER 66—DOMESTIC VOLUNTEER SERVICES (§§ 4950 – 5091)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-67" title="CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM">CHAPTER 67—CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM (§§ 5101 – 5119c)</a></li>
+<li class="tocitem"><a aria-label="Chapter 68—Disaster Relief (§§ 5121 – 5208)" href="/uscode/text/42/chapter-68" title="DISASTER RELIEF">CHAPTER 68—DISASTER RELIEF (§§ 5121 – 5208)</a></li>
+<li class="tocitem"><a aria-label="Chapter 69—Community Development (§§ 5301 – 5322)" href="/uscode/text/42/chapter-69" title="COMMUNITY DEVELOPMENT">CHAPTER 69—COMMUNITY DEVELOPMENT (§§ 5301 – 5322)</a></li>
+<li class="tocitem"><a aria-label="Chapter 70—Manufactured Home Construction And Safety Standards (§§ 5401 – 5426)" href="/uscode/text/42/chapter-70" title="MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS">CHAPTER 70—MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS (§§ 5401 – 5426)</a></li>
+<li class="tocitem"><a aria-label="Chapter 71—Solar Energy (§§ 5501 – 5581)" href="/uscode/text/42/chapter-71" title="SOLAR ENERGY">CHAPTER 71—SOLAR ENERGY (§§ 5501 – 5581)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-72" title="JUVENILE JUSTICE AND DELINQUENCY PREVENTION">CHAPTER 72—JUVENILE JUSTICE AND DELINQUENCY PREVENTION (§§ 5601 – 5792a)</a></li>
+<li class="tocitem"><a aria-label="Chapter 73—Development Of Energy Sources (§§ 5801 – 5891)" href="/uscode/text/42/chapter-73" title="DEVELOPMENT OF ENERGY SOURCES">CHAPTER 73—DEVELOPMENT OF ENERGY SOURCES (§§ 5801 – 5891)</a></li>
+<li class="tocitem"><a aria-label="Chapter 74—Nonnuclear Energy Research And Development (§§ 5901 – 5919)" href="/uscode/text/42/chapter-74" title="NONNUCLEAR ENERGY RESEARCH AND DEVELOPMENT">CHAPTER 74—NONNUCLEAR ENERGY RESEARCH AND DEVELOPMENT (§§ 5901 – 5919)</a></li>
+<li class="tocitem"><a aria-label="Chapter 75—Programs For Individuals With Developmental Disabilities (§§ 6000 – 6081)" href="/uscode/text/42/chapter-75" title="PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES">CHAPTER 75—PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES (§§ 6000 – 6081)</a></li>
+<li class="tocitem"><a aria-label="Chapter 76—Age Discrimination In Federally Assisted Programs (§§ 6101 – 6107)" href="/uscode/text/42/chapter-76" title="AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS">CHAPTER 76—AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS (§§ 6101 – 6107)</a></li>
+<li class="tocitem"><a aria-label="Chapter 77—Energy Conservation (§§ 6201 – 6422)" href="/uscode/text/42/chapter-77" title="ENERGY CONSERVATION">CHAPTER 77—ENERGY CONSERVATION (§§ 6201 – 6422)</a></li>
+<li class="tocitem"><a aria-label="Chapter 78—National Petroleum Reserve In Alaska (§§ 6501 – 6508)" href="/uscode/text/42/chapter-78" title="NATIONAL PETROLEUM RESERVE IN ALASKA">CHAPTER 78—NATIONAL PETROLEUM RESERVE IN ALASKA (§§ 6501 – 6508)</a></li>
+<li class="tocitem"><a aria-label="Chapter 79—Science And Technology Policy, Organization And Priorities (§§ 6601 – 6687)" href="/uscode/text/42/chapter-79" title="SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES">CHAPTER 79—SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES (§§ 6601 – 6687)</a></li>
+<li class="tocitem"><a aria-label="Chapter 80—Public Works Employment (§§ 6701 – 6736)" href="/uscode/text/42/chapter-80" title="PUBLIC WORKS EMPLOYMENT">CHAPTER 80—PUBLIC WORKS EMPLOYMENT (§§ 6701 – 6736)</a></li>
+<li class="tocitem"><a aria-label="Chapter 81—Energy Conservation And Resource Renewal (§§ 6801 – 6892)" href="/uscode/text/42/chapter-81" title="ENERGY CONSERVATION AND RESOURCE RENEWAL">CHAPTER 81—ENERGY CONSERVATION AND RESOURCE RENEWAL (§§ 6801 – 6892)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-82" title="SOLID WASTE DISPOSAL">CHAPTER 82—SOLID WASTE DISPOSAL (§§ 6901 – 6992k)</a></li>
+<li class="tocitem"><a aria-label="Chapter 83—Energy Extension Service (§ 7001)" href="/uscode/text/42/chapter-83" title="ENERGY EXTENSION SERVICE">CHAPTER 83—ENERGY EXTENSION SERVICE (§ 7001)</a></li>
+<li class="tocitem"><a aria-label="Chapter 84—Department Of Energy (§§ 7101 – 7386)" href="/uscode/text/42/chapter-84" title="DEPARTMENT OF ENERGY">CHAPTER 84—DEPARTMENT OF ENERGY (§§ 7101 – 7386)</a></li>
+<li class="tocitem"><a aria-label="Chapter 85—Air Pollution Prevention And Control (§§ 7401 – 7675)" href="/uscode/text/42/chapter-85" title="AIR POLLUTION PREVENTION AND CONTROL">CHAPTER 85—AIR POLLUTION PREVENTION AND CONTROL (§§ 7401 – 7675)</a></li>
+<li class="tocitem"><a aria-label="Chapter 86—Earthquake Hazards Reduction (§§ 7701 – 7709)" href="/uscode/text/42/chapter-86" title="EARTHQUAKE HAZARDS REDUCTION">CHAPTER 86—EARTHQUAKE HAZARDS REDUCTION (§§ 7701 – 7709)</a></li>
+<li class="tocitem"><a aria-label="Chapter 87—Water Research And Development (§§ 7801 – 7871)" href="/uscode/text/42/chapter-87" title="WATER RESEARCH AND DEVELOPMENT">CHAPTER 87—WATER RESEARCH AND DEVELOPMENT (§§ 7801 – 7871)</a></li>
+<li class="tocitem"><a aria-label="Chapter 88—Uranium Mill Tailings Radiation Control (§§ 7901 – 7942)" href="/uscode/text/42/chapter-88" title="URANIUM MILL TAILINGS RADIATION CONTROL">CHAPTER 88—URANIUM MILL TAILINGS RADIATION CONTROL (§§ 7901 – 7942)</a></li>
+<li class="tocitem"><a aria-label="Chapter 89—Congregate Housing Services (§§ 8001 – 8013)" href="/uscode/text/42/chapter-89" title="CONGREGATE HOUSING SERVICES">CHAPTER 89—CONGREGATE HOUSING SERVICES (§§ 8001 – 8013)</a></li>
+<li class="tocitem"><a aria-label="Chapter 90—Neighborhood And City Reinvestment, Self-Help And Revitalization (§§ 8101 – 8146)" href="/uscode/text/42/chapter-90" title="NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION">CHAPTER 90—NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION (§§ 8101 – 8146)</a></li>
+<li class="tocitem"><a href="/uscode/text/42/chapter-91" title="NATIONAL ENERGY CONSERVATION POLICY">CHAPTER 91—NATIONAL ENERGY CONSERVATION POLICY (§§ 8201 – 8287d)</a></li>
+<li class="tocitem"><a aria-label="Chapter 92—Powerplant And Industrial Fuel Use (§§ 8301 – 8484)" href="/uscode/text/42/chapter-92" title="POWERPLANT AND INDUSTRIAL FUEL USE">CHAPTER 92—POWERPLANT AND INDUSTRIAL FUEL USE (§§ 8301 – 8484)</a></li>
+<li class="tocitem"><a aria-label="Chapter 93—Emergency Energy Conservation (§§ 8501 – 8541)" href="/uscode/text/42/chapter-93" title="EMERGENCY ENERGY CONSERVATION">CHAPTER 93—EMERGENCY ENERGY CONSERVATION (§§ 8501 – 8541)</a></li>
+<li class="tocitem"><a aria-label="Chapter 94—Low-Income Energy Assistance (§§ 8601 – 8630)" href="/uscode/text/42/chapter-94" title="LOW-INCOME ENERGY ASSISTANCE">CHAPTER 94—LOW-INCOME ENERGY ASSISTANCE (§§ 8601 – 8630)</a></li>
+<li class="tocitem"><a aria-label="Chapter 95—United States Synthetic Fuels Corporation (§§ 8701 – 8795)" href="/uscode/text/42/chapter-95" title="UNITED STATES SYNTHETIC FUELS CORPORATION">CHAPTER 95—UNITED STATES SYNTHETIC FUELS CORPORATION (§§ 8701 – 8795)</a></li>
+<li class="tocitem"><a aria-label="Chapter 96—Biomass Energy And Alcohol Fuels (§§ 8801 – 8871)" href="/uscode/text/42/chapter-96" title="BIOMASS ENERGY AND ALCOHOL FUELS">CHAPTER 96—BIOMASS ENERGY AND ALCOHOL FUELS (§§ 8801 – 8871)</a></li>
+<li class="tocitem"><a aria-label="Chapter 97—Acid Precipitation Program And Carbon Dioxide Study (§§ 8901 – 8912)" href="/uscode/text/42/chapter-97" title="ACID PRECIPITATION PROGRAM AND CARBON DIOXIDE STUDY">CHAPTER 97—ACID PRECIPITATION PROGRAM AND CARBON DIOXIDE STUDY (§§ 8901 – 8912)</a></li>
+<li class="tocitem"><a aria-label="Chapter 98—Ocean Thermal Energy Conversion Research And Development (§§ 9001 – 9009)" href="/uscode/text/42/chapter-98" title="OCEAN THERMAL ENERGY CONVERSION RESEARCH AND DEVELOPMENT">CHAPTER 98—OCEAN THERMAL ENERGY CONVERSION RESEARCH AND DEVELOPMENT (§§ 9001 – 9009)</a></li>
+<li class="tocitem"><a aria-label="Chapter 99—Ocean Thermal Energy Conversion (§§ 9101 – 9168)" href="/uscode/text/42/chapter-99" title="OCEAN THERMAL ENERGY CONVERSION">CHAPTER 99—OCEAN THERMAL ENERGY CONVERSION (§§ 9101 – 9168)</a></li>
+<li class="tocitem"><a aria-label="Chapter 100—Wind Energy Systems (§§ 9201 – 9213)" href="/uscode/text/42/chapter-100" title="WIND ENERGY SYSTEMS">CHAPTER 100—WIND ENERGY SYSTEMS (§§ 9201 – 9213)</a></li>
+<li class="tocitem"><a aria-label="Chapter 101—Magnetic Fusion Energy Engineering (§§ 9301 – 9312)" href="/uscode/text/42/chapter-101" title="MAGNETIC FUSION ENERGY ENGINEERING">CHAPTER 101—MAGNETIC FUSION ENERGY ENGINEERING (§§ 9301 – 9312)</a></li>
+<li class="tocitem"><a aria-label="Chapter 102—Mental Health Systems (§§ 9401 – 9523)" href="/uscode/text/42/chapter-102" title="MENTAL HEALTH SYSTEMS">CHAPTER 102—MENTAL HEALTH SYSTEMS (§§ 9401 – 9523)</a></li>
+<li class="tocitem"><a aria-label="Chapter 103—Comprehensive Environmental Response, Compensation, And Liability (§§ 9601 – 9675)" href="/uscode/text/42/chapter-103" title="COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY">CHAPTER 103—COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY (§§ 9601 – 9675)</a></li>
+<li class="tocitem"><a aria-label="Chapter 104—Nuclear Safety Research, Development, And Demonstration (§§ 9701 – 9708)" href="/uscode/text/42/chapter-104" title="NUCLEAR SAFETY RESEARCH, DEVELOPMENT, AND DEMONSTRATION">CHAPTER 104—NUCLEAR SAFETY RESEARCH, DEVELOPMENT, AND DEMONSTRATION (§§ 9701 – 9708)</a></li>
+<li class="tocitem"><a aria-label="Chapter 105—Community Services Programs (§§ 9801 – 9881)" href="/uscode/text/42/chapter-105" title="COMMUNITY SERVICES PROGRAMS">CHAPTER 105—COMMUNITY SERVICES PROGRAMS (§§ 9801 – 9881)</a></li>
+<li class="tocitem"><a aria-label="Chapter 106—Community Services Block Grant Program (§§ 9901 – 9926)" href="/uscode/text/42/chapter-106" title="COMMUNITY SERVICES BLOCK GRANT PROGRAM">CHAPTER 106—COMMUNITY SERVICES BLOCK GRANT PROGRAM (§§ 9901 – 9926)</a></li>
+<li class="tocitem"><a aria-label="Chapter 107—Consumer-Patient Radiation Health And Safety (§§ 10001 – 10008)" href="/uscode/text/42/chapter-107" title="CONSUMER-PATIENT RADIATION HEALTH AND SAFETY">CHAPTER 107—CONSUMER-PATIENT RADIATION HEALTH AND SAFETY (§§ 10001 – 10008)</a></li>
+<li class="tocitem"><a aria-label="Chapter 108—Nuclear Waste Policy (§§ 10101 – 10270)" href="/uscode/text/42/chapter-108" title="NUCLEAR WASTE POLICY">CHAPTER 108—NUCLEAR WASTE POLICY (§§ 10101 – 10270)</a></li>
+<li class="tocitem"><a aria-label="Chapter 109—Water Resources Research (§§ 10301 – 10310)" href="/uscode/text/42/chapter-109" title="WATER RESOURCES RESEARCH">CHAPTER 109—WATER RESOURCES RESEARCH (§§ 10301 – 10310)</a></li>
+<li class="tocitem"><a aria-label="Chapter 109A—Membrane Processes Research (§§ 10341 – 10345)" href="/uscode/text/42/chapter-109A" title="MEMBRANE PROCESSES RESEARCH">CHAPTER 109A—MEMBRANE PROCESSES RESEARCH (§§ 10341 – 10345)</a></li>
+<li class="tocitem"><a aria-label="Chapter 109B—Secure Water (§§ 10361 – 10371)" href="/uscode/text/42/chapter-109B" title="SECURE WATER">CHAPTER 109B—SECURE WATER (§§ 10361 – 10371)</a></li>
+<li class="tocitem"><a aria-label="Chapter 110—Family Violence Prevention And Services (§§ 10401 – 10421)" href="/uscode/text/42/chapter-110" title="FAMILY VIOLENCE PREVENTION AND SERVICES">CHAPTER 110—FAMILY VIOLENCE PREVENTION AND SERVICES (§§ 10401 – 10421)</a></li>
+<li class="tocitem"><a aria-label="Chapter 111—Emergency Federal Law Enforcement Assistance (§§ 10501 – 10513)" href="/uscode/text/42/chapter-111" title="EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE">CHAPTER 111—EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE (§§ 10501 – 10513)</a></li>
+<li class="tocitem"><a aria-label="Chapter 112—Victim Compensation And Assistance (§§ 10601 – 10609)" href="/uscode/text/42/chapter-112" title="VICTIM COMPENSATION AND ASSISTANCE">CHAPTER 112—VICTIM COMPENSATION AND ASSISTANCE (§§ 10601 – 10609)</a></li>
+<li class="tocitem"><a aria-label="Chapter 113—State Justice Institute (§§ 10701 – 10713)" href="/uscode/text/42/chapter-113" title="STATE JUSTICE INSTITUTE">CHAPTER 113—STATE JUSTICE INSTITUTE (§§ 10701 – 10713)</a></li>
+<li class="tocitem"><a aria-label="Chapter 114—Protection And Advocacy For Individuals With Mental Illness (§§ 10801 – 10851)" href="/uscode/text/42/chapter-114" title="PROTECTION AND ADVOCACY FOR INDIVIDUALS WITH MENTAL ILLNESS">CHAPTER 114—PROTECTION AND ADVOCACY FOR INDIVIDUALS WITH MENTAL ILLNESS (§§ 10801 – 10851)</a></li>
+<li class="tocitem"><a aria-label="Chapter 115—Child Development Associate Scholarship Assistance Program (§§ 10901 – 10905)" href="/uscode/text/42/chapter-115" title="CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE PROGRAM">CHAPTER 115—CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE PROGRAM (§§ 10901 – 10905)</a></li>
+<li class="tocitem"><a aria-label="Chapter 116—Emergency Planning And Community Right-To-Know (§§ 11001 – 11050)" href="/uscode/text/42/chapter-116" title="EMERGENCY PLANNING AND COMMUNITY RIGHT-TO-KNOW">CHAPTER 116—EMERGENCY PLANNING AND COMMUNITY RIGHT-TO-KNOW (§§ 11001 – 11050)</a></li>
+<li class="tocitem"><a aria-label="Chapter 117—Encouraging Good Faith Professional Review Activities (§§ 11101 – 11152)" href="/uscode/text/42/chapter-117" title="ENCOURAGING GOOD FAITH PROFESSIONAL REVIEW ACTIVITIES">CHAPTER 117—ENCOURAGING GOOD FAITH PROFESSIONAL REVIEW ACTIVITIES (§§ 11101 – 11152)</a></li>
+<li class="tocitem"><a aria-label="Chapter 118—Alzheimer’S Disease And Related Dementias Research (§§ 11201 – 11294)" href="/uscode/text/42/chapter-118" title="ALZHEIMER’S DISEASE AND RELATED DEMENTIAS RESEARCH">CHAPTER 118—ALZHEIMER’S DISEASE AND RELATED DEMENTIAS RESEARCH (§§ 11201 – 11294)</a></li>
+<li class="tocitem"><a aria-label="Chapter 119—Homeless Assistance (§§ 11301 – 11481)" href="/uscode/text/42/chapter-119" title="HOMELESS ASSISTANCE">CHAPTER 119—HOMELESS ASSISTANCE (§§ 11301 – 11481)</a></li>
+<li class="tocitem"><a aria-label="Chapter 120—Enterprise Zone Development (§§ 11501 – 11505)" href="/uscode/text/42/chapter-120" title="ENTERPRISE ZONE DEVELOPMENT">CHAPTER 120—ENTERPRISE ZONE DEVELOPMENT (§§ 11501 – 11505)</a></li>
+<li class="tocitem"><a aria-label="Chapter 121—International Child Abduction Remedies (§§ 11601 – 11611)" href="/uscode/text/42/chapter-121" title="INTERNATIONAL CHILD ABDUCTION REMEDIES">CHAPTER 121—INTERNATIONAL CHILD ABDUCTION REMEDIES (§§ 11601 – 11611)</a></li>
+<li class="tocitem"><a aria-label="Chapter 122—Native Hawaiian Health Care (§§ 11701 – 11714)" href="/uscode/text/42/chapter-122" title="NATIVE HAWAIIAN HEALTH CARE">CHAPTER 122—NATIVE HAWAIIAN HEALTH CARE (§§ 11701 – 11714)</a></li>
+<li class="tocitem"><a aria-label="Chapter 123—Drug Abuse Education And Prevention (§§ 11801 – 11851)" href="/uscode/text/42/chapter-123" title="DRUG ABUSE EDUCATION AND PREVENTION">CHAPTER 123—DRUG ABUSE EDUCATION AND PREVENTION (§§ 11801 – 11851)</a></li>
+<li class="tocitem"><a aria-label="Chapter 124—Public Housing Drug Elimination (§§ 11901 – 11925)" href="/uscode/text/42/chapter-124" title="PUBLIC HOUSING DRUG ELIMINATION">CHAPTER 124—PUBLIC HOUSING DRUG ELIMINATION (§§ 11901 – 11925)</a></li>
+<li class="tocitem"><a aria-label="Chapter 125—Renewable Energy And Energy Efficiency Technology Competitiveness (§§ 12001 – 12007)" href="/uscode/text/42/chapter-125" title="RENEWABLE ENERGY AND ENERGY EFFICIENCY TECHNOLOGY COMPETITIVENESS">CHAPTER 125—RENEWABLE ENERGY AND ENERGY EFFICIENCY TECHNOLOGY COMPETITIVENESS (§§ 12001 – 12007)</a></li>
+<li class="tocitem"><a aria-label="Chapter 126—Equal Opportunity For Individuals With Disabilities (§§ 12101 – 12213)" href="/uscode/text/42/chapter-126" title="EQUAL OPPORTUNITY FOR INDIVIDUALS WITH DISABILITIES">CHAPTER 126—EQUAL OPPORTUNITY FOR INDIVIDUALS WITH DISABILITIES (§§ 12101 – 12213)</a></li>
+<li class="tocitem"><a aria-label="Chapter 127—Coordinated Services For Children, Youth, And Families (§§ 12301 – 12377)" href="/uscode/text/42/chapter-127" title="COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES">CHAPTER 127—COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES (§§ 12301 – 12377)</a></li>
+<li class="tocitem"><a aria-label="Chapter 128—Hydrogen Research, Development, And Demonstration Program (§§ 12401 – 12408)" href="/uscode/text/42/chapter-128" title="HYDROGEN RESEARCH, DEVELOPMENT, AND DEMONSTRATION PROGRAM">CHAPTER 128—HYDROGEN RESEARCH, DEVELOPMENT, AND DEMONSTRATION PROGRAM (§§ 12401 – 12408)</a></li>
+<li class="tocitem"><a aria-label="Chapter 129—National And Community Service (§§ 12501 – 12682)" href="/uscode/text/42/chapter-129" title="NATIONAL AND COMMUNITY SERVICE">CHAPTER 129—NATIONAL AND COMMUNITY SERVICE (§§ 12501 – 12682)</a></li>
+<li class="tocitem"><a aria-label="Chapter 130—National Affordable Housing (§§ 12701 – 12899)" href="/uscode/text/42/chapter-130" title="NATIONAL AFFORDABLE HOUSING">CHAPTER 130—NATIONAL AFFORDABLE HOUSING (§§ 12701 – 12899)</a></li>
+<li class="tocitem"><a aria-label="Chapter 131—Housing Opportunities For Persons With AIDS (§§ 12901 – 12912)" href="/uscode/text/42/chapter-131" title="HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS">CHAPTER 131—HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (§§ 12901 – 12912)</a></li>
+<li class="tocitem"><a aria-label="Chapter 132—Victims Of Child Abuse (§§ 13001 – 13051)" href="/uscode/text/42/chapter-132" title="VICTIMS OF CHILD ABUSE">CHAPTER 132—VICTIMS OF CHILD ABUSE (§§ 13001 – 13051)</a></li>
+<li class="tocitem"><a aria-label="Chapter 133—Pollution Prevention (§§ 13101 – 13109)" href="/uscode/text/42/chapter-133" title="POLLUTION PREVENTION">CHAPTER 133—POLLUTION PREVENTION (§§ 13101 – 13109)</a></li>
+<li class="tocitem"><a aria-label="Chapter 134—Energy Policy (§§ 13201 – 13574)" href="/uscode/text/42/chapter-134" title="ENERGY POLICY">CHAPTER 134—ENERGY POLICY (§§ 13201 – 13574)</a></li>
+<li class="tocitem"><a aria-label="Chapter 135—Residency And Service Requirements In Federally Assisted Housing (§§ 13601 – 13664)" href="/uscode/text/42/chapter-135" title="RESIDENCY AND SERVICE REQUIREMENTS IN FEDERALLY ASSISTED HOUSING">CHAPTER 135—RESIDENCY AND SERVICE REQUIREMENTS IN FEDERALLY ASSISTED HOUSING (§§ 13601 – 13664)</a></li>
+<li class="tocitem"><a aria-label="Chapter 136—Violent Crime Control And Law Enforcement (§§ 13701 – 14223)" href="/uscode/text/42/chapter-136" title="VIOLENT CRIME CONTROL AND LAW ENFORCEMENT">CHAPTER 136—VIOLENT CRIME CONTROL AND LAW ENFORCEMENT (§§ 13701 – 14223)</a></li>
+<li class="tocitem"><a aria-label="Chapter 137—Management Of Rechargeable Batteries And Batteries Containing Mercury (§§ 14301 – 14336)" href="/uscode/text/42/chapter-137" title="MANAGEMENT OF RECHARGEABLE BATTERIES AND BATTERIES CONTAINING MERCURY">CHAPTER 137—MANAGEMENT OF RECHARGEABLE BATTERIES AND BATTERIES CONTAINING MERCURY (§§ 14301 – 14336)</a></li>
+<li class="tocitem"><a aria-label="Chapter 138—Assisted Suicide Funding Restriction (§§ 14401 – 14408)" href="/uscode/text/42/chapter-138" title="ASSISTED SUICIDE FUNDING RESTRICTION">CHAPTER 138—ASSISTED SUICIDE FUNDING RESTRICTION (§§ 14401 – 14408)</a></li>
+<li class="tocitem"><a aria-label="Chapter 139—Volunteer Protection (§§ 14501 – 14505)" href="/uscode/text/42/chapter-139" title="VOLUNTEER PROTECTION">CHAPTER 139—VOLUNTEER PROTECTION (§§ 14501 – 14505)</a></li>
+<li class="tocitem"><a aria-label="Chapter 140—Criminal Justice Identification, Information, And Communication (§§ 14601 – 14616)" href="/uscode/text/42/chapter-140" title="CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION">CHAPTER 140—CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION (§§ 14601 – 14616)</a></li>
+<li class="tocitem"><a aria-label="Chapter 140A—Jennifer’S Law (§§ 14661 – 14665)" href="/uscode/text/42/chapter-140A" title="JENNIFER’S LAW">CHAPTER 140A—JENNIFER’S LAW (§§ 14661 – 14665)</a></li>
+<li class="tocitem"><a aria-label="Chapter 141—Commercial Space Opportunities And Transportation Services (§§ 14701 – 14752)" href="/uscode/text/42/chapter-141" title="COMMERCIAL SPACE OPPORTUNITIES AND TRANSPORTATION SERVICES">CHAPTER 141—COMMERCIAL SPACE OPPORTUNITIES AND TRANSPORTATION SERVICES (§§ 14701 – 14752)</a></li>
+<li class="tocitem"><a aria-label="Chapter 142—Poison Control Center Enhancement And Awareness (§ 14801)" href="/uscode/text/42/chapter-142" title="POISON CONTROL CENTER ENHANCEMENT AND AWARENESS">CHAPTER 142—POISON CONTROL CENTER ENHANCEMENT AND AWARENESS (§ 14801)</a></li>
+<li class="tocitem"><a aria-label="Chapter 143—Intercountry Adoptions (§§ 14901 – 14954)" href="/uscode/text/42/chapter-143" title="INTERCOUNTRY ADOPTIONS">CHAPTER 143—INTERCOUNTRY ADOPTIONS (§§ 14901 – 14954)</a></li>
+<li class="tocitem"><a aria-label="Chapter 144—Developmental Disabilities Assistance And Bill Of Rights (§§ 15001 – 15115)" href="/uscode/text/42/chapter-144" title="DEVELOPMENTAL DISABILITIES ASSISTANCE AND BILL OF RIGHTS">CHAPTER 144—DEVELOPMENTAL DISABILITIES ASSISTANCE AND BILL OF RIGHTS (§§ 15001 – 15115)</a></li>
+<li class="tocitem"><a aria-label="Chapter 145—Public Safety Officer Medal Of Valor And Tributes (§§ 15201 – 15208)" href="/uscode/text/42/chapter-145" title="PUBLIC SAFETY OFFICER MEDAL OF VALOR AND TRIBUTES">CHAPTER 145—PUBLIC SAFETY OFFICER MEDAL OF VALOR AND TRIBUTES (§§ 15201 – 15208)</a></li>
+<li class="tocitem"><a aria-label="Chapter 145A—Law Enforcement Congressional Badge Of Bravery (§§ 15231 – 15261)" href="/uscode/text/42/chapter-145A" title="LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY">CHAPTER 145A—LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY (§§ 15231 – 15261)</a></li>
+<li class="tocitem"><a aria-label="Chapter 146—Election Administration Improvement (§§ 15301 – 15545)" href="/uscode/text/42/chapter-146" title="ELECTION ADMINISTRATION IMPROVEMENT">CHAPTER 146—ELECTION ADMINISTRATION IMPROVEMENT (§§ 15301 – 15545)</a></li>
+<li class="tocitem"><a aria-label="Chapter 147—Prison Rape Elimination (§§ 15601 – 15609)" href="/uscode/text/42/chapter-147" title="PRISON RAPE ELIMINATION">CHAPTER 147—PRISON RAPE ELIMINATION (§§ 15601 – 15609)</a></li>
+<li class="tocitem"><a aria-label="Chapter 148—Windstorm Impact Reduction (§§ 15701 – 15707)" href="/uscode/text/42/chapter-148" title="WINDSTORM IMPACT REDUCTION">CHAPTER 148—WINDSTORM IMPACT REDUCTION (§§ 15701 – 15707)</a></li>
+<li class="tocitem"><a aria-label="Chapter 149—National Energy Policy And Programs (§§ 15801 – 16539)" href="/uscode/text/42/chapter-149" title="NATIONAL ENERGY POLICY AND PROGRAMS">CHAPTER 149—NATIONAL ENERGY POLICY AND PROGRAMS (§§ 15801 – 16539)</a></li>
+<li class="tocitem"><a aria-label="Chapter 150—National Aeronautics And Space Programs, 2005 (§§ 16601 – 16841)" href="/uscode/text/42/chapter-150" title="NATIONAL AERONAUTICS AND SPACE PROGRAMS, 2005">CHAPTER 150—NATIONAL AERONAUTICS AND SPACE PROGRAMS, 2005 (§§ 16601 – 16841)</a></li>
+<li class="tocitem"><a aria-label="Chapter 151—Child Protection And Safety (§§ 16901 – 16991)" href="/uscode/text/42/chapter-151" title="CHILD PROTECTION AND SAFETY">CHAPTER 151—CHILD PROTECTION AND SAFETY (§§ 16901 – 16991)</a></li>
+<li class="tocitem"><a aria-label="Chapter 152—Energy Independence And Security (§§ 17001 – 17392)" href="/uscode/text/42/chapter-152" title="ENERGY INDEPENDENCE AND SECURITY">CHAPTER 152—ENERGY INDEPENDENCE AND SECURITY (§§ 17001 – 17392)</a></li>
+<li class="tocitem"><a aria-label="Chapter 153—Community Safety Through Recidivism Prevention (§§ 17501 – 17555)" href="/uscode/text/42/chapter-153" title="COMMUNITY SAFETY THROUGH RECIDIVISM PREVENTION">CHAPTER 153—COMMUNITY SAFETY THROUGH RECIDIVISM PREVENTION (§§ 17501 – 17555)</a></li>
+<li class="tocitem"><a aria-label="Chapter 154—Combating Child Exploitation (§§ 17601 – 17631)" href="/uscode/text/42/chapter-154" title="COMBATING CHILD EXPLOITATION">CHAPTER 154—COMBATING CHILD EXPLOITATION (§§ 17601 – 17631)</a></li>
+<li class="tocitem"><a aria-label="Chapter 155—Aeronautics And Space Activities (§§ 17701 – 17827)" href="/uscode/text/42/chapter-155" title="AERONAUTICS AND SPACE ACTIVITIES">CHAPTER 155—AERONAUTICS AND SPACE ACTIVITIES (§§ 17701 – 17827)</a></li>
+<li class="tocitem"><a aria-label="Chapter 156—Health Information Technology (§§ 17901 – 17953)" href="/uscode/text/42/chapter-156" title="HEALTH INFORMATION TECHNOLOGY">CHAPTER 156—HEALTH INFORMATION TECHNOLOGY (§§ 17901 – 17953)</a></li>
+<li class="tocitem"><a aria-label="Chapter 157—Quality, Affordable Health Care For All Americans (§§ 18001 – 18122)" href="/uscode/text/42/chapter-157" title="QUALITY, AFFORDABLE HEALTH CARE FOR ALL AMERICANS">CHAPTER 157—QUALITY, AFFORDABLE HEALTH CARE FOR ALL AMERICANS (§§ 18001 – 18122)</a></li>
+<li class="tocitem"><a aria-label="Chapter 158—Support For Pregnant And Parenting Teens And Women (§§ 18201 – 18204)" href="/uscode/text/42/chapter-158" title="SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN">CHAPTER 158—SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN (§§ 18201 – 18204)</a></li>
+<li class="tocitem"><a aria-label="Chapter 159—Space Exploration, Technology, And Science (§§ 18301 – 18445)" href="/uscode/text/42/chapter-159" title="SPACE EXPLORATION, TECHNOLOGY, AND SCIENCE">CHAPTER 159—SPACE EXPLORATION, TECHNOLOGY, AND SCIENCE (§§ 18301 – 18445)</a></li>
+<li class="tocitem"><a aria-label="Chapter 160—Treatment Of Certain Payments In Eugenics Compensation (§ 18501)" href="/uscode/text/42/chapter-160" title="TREATMENT OF CERTAIN PAYMENTS IN EUGENICS COMPENSATION">CHAPTER 160—TREATMENT OF CERTAIN PAYMENTS IN EUGENICS COMPENSATION (§ 18501)</a></li>
+<li class="tocitem"><a aria-label="Chapter 161—Department Of Energy Research And Innovation (§§ 18601 – 18655)" href="/uscode/text/42/chapter-161" title="DEPARTMENT OF ENERGY RESEARCH AND INNOVATION">CHAPTER 161—DEPARTMENT OF ENERGY RESEARCH AND INNOVATION (§§ 18601 – 18655)</a></li>
+<li class="tocitem"><a aria-label="Chapter 162—Energy Infrastructure (§§ 18701 – 18861)" href="/uscode/text/42/chapter-162" title="ENERGY INFRASTRUCTURE">CHAPTER 162—ENERGY INFRASTRUCTURE (§§ 18701 – 18861)</a></li>
+<li class="tocitem"><a aria-label="Chapter 163—Research And Development, Competition, And Innovation (§§ 18901 – 19351)" href="/uscode/text/42/chapter-163" title="RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION">CHAPTER 163—RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION (§§ 18901 – 19351)</a></li>
+<li class="tocitem"><a aria-label="Chapter 164—Speak Out Act (§§ 19401 – 19404)" href="/uscode/text/42/chapter-164" title="SPEAK OUT ACT">CHAPTER 164—SPEAK OUT ACT (§§ 19401 – 19404)</a></li>
+</ol>
+</div>
+</div></text>
+</div>
+<div class="tab-pane" id="tab_default_2">
+<!-- 'notes' content area -->
+</div>
+</div>
+</div>
+</div>
+						
+						
+					</div>
+				</div>
+			</div>
+			
+
+			<div id="page-bottom" aria-hidden="true">
+				<div class="region region-bottom">
+					<div id="block-liidfp-2" class="block block-liidfp first last odd">
+
+
+						<div class="gfs">
+							<div id="div-gpt-ad-bottom" data-google-query-id="CNH77Z7C7d8CFURLAQodp9oMpg">
+								<script type="text/javascript">
+									googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+								</script>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+
+		<aside id="supersizeme" class="col-sm-4" aria-label="Sponsor Listings and Toolbox panel">
+			
+			<div class="block" id="toolbox">
+
+				<h2 class="title toolbox"><span class="glyphicon glyphicon-briefcase"></span> U.S. Code Toolbox
+				</h2>
+
+				
+<div class="clear-block wexlink">
+    <a href="/wex/wex_articles">Law about... Articles from Wex</a>
+</div>
+<div id="topnlink" class="toolboxlink">
+    <a href="/topn">Table of Popular Names</a>
+</div>
+<div id="ptoalink" class="toolboxlink">
+    <a href="/ptoa">Parallel Table of Authorities</a>
+</div>
+<div id="updatelink" class="toolboxlink">
+    <a href=/uscode/about/how-current>How
+        current is this?</a>
+</div>
+
+
+				
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<div class="addthis_sharing_toolbox"></div>
+
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<script type="text/javascript">
+					var addthis_config = {
+						data_track_addressbar: false,
+						data_track_clickback: true,
+						publid: 'liiadverts',
+						ui_tabindex: 0,
+						ui_508_compliant: true
+					};
+					var addthis_share = {
+						url_transforms: {
+							shorten: {
+								twitter: 'bitly'
+							}
+						},
+						shorteners: {
+							bitly: {
+								login: 'liicornell',
+								apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+							}
+						},
+						passthrough: {
+							twitter: {
+								via: 'LIICornell'
+							}
+						}
+					};
+				</script>
+
+				<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=liiadverts"
+					async="async"></script>
+
+				
+
+			</div>
+			
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-top'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-middle'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			
+			<div id="block-lii-justia-find-lawyers-sidebar" class="block block-lii last even">
+				<div id="block-lii-justia-lawyers" class="block block-lii last even">
+					<div class="sidebar">
+						<div class="results-sponsored">
+							<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+								data-domain="lawyers.law.cornell.edu">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+		</aside>
+
+
+	</main>
+
+	<footer id="liifooter" class="container-fluid">
+		<ul id="liifooternav" class="nav navbar-nav">
+			<li class="first">
+				<a href="/lii/about/accessibility" class="nav">Accessibility</a>
+			</li>
+			<li class="first">
+				<a href="/lii/about/about_lii" class="nav">About LII</a>
+			</li>
+			<li>
+				<a href="/lii/about/contact_us" class="nav">Contact us</a>
+			</li>
+			<li>
+				<a href="/lii/help_out/sponsor">Advertise here</a>
+			</li>
+			<li>
+				<a href="/lii/help" class="nav">Help</a>
+			</li>
+			<li>
+				<a href="/lii/terms/documentation" class="nav">Terms of use</a>
+			</li>
+			<li class="last">
+				<a href="/lii/terms/privacy_policy" class="nav">Privacy</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li>
+				<a href="/" title="LII home page">
+					<img width="62" height="43"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+						alt="LII logo">
+				</a>
+			</li>
+		</ul>
+	</footer>
+
+	<script>
+		jQuery(document).ready(function () {
+			jQuery("#liisearchlink").click(function () {
+				jQuery("#liisearch").toggle('slide');
+				jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+			});
+		});
+
+		jQuery(document).ready(function () {
+			jQuery('[data-toggle="tooltip"]').each(function () {
+				var $elem = jQuery(this);
+				$elem.tooltip({
+					html: true,
+					container: $elem,
+					delay: { hide: 400 }
+				});
+			});
+		});
+	</script>
+
+	
+	<script type="text/javascript" src="/staticsite_scripts/htmldiff.js"> </script>
+	 
+	<script type="text/javascript" src="/staticsite_scripts/lii_scriptinator.min.js"> </script>
+	 
+	
+	<script>
+		window.addEventListener("load", function () {
+			window.cookieconsent.initialise(
+				{
+					"palette": {
+						"popup": {
+							"background": "#000"
+						}, "button": {
+							"background": "#f1d600"
+						}
+					}
+				})
+		});
+	</script>
+	
+
+</body>
